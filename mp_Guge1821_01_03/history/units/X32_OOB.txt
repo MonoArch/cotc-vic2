@@ -1,0 +1,731 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=-16
+		level=2
+	}
+	AVA=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=17
+		level=2
+	}
+	BAV=
+	{
+		value=3
+		level=2
+	}
+	BLZ=
+	{
+		value=0
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=76
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=0
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=0
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=-83
+		level=2
+	}
+	EGY=
+	{
+		value=1
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FLA=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=-8
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	IRE=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=0
+		level=2
+	}
+	LPL=
+	{
+		value=0
+		level=2
+	}
+	LSK=
+	{
+		value=0
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=-13
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TON=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=-118
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=47
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=-15
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X27=
+	{
+		value=-44
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=2
+		level=2
+	}
+	X30=
+	{
+		value=18
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=114
+		level=2
+	}
+	X36=
+	{
+		value=-110
+		level=2
+	}
+	X37=
+	{
+		value=16
+		level=2
+	}
+	X38=
+	{
+		value=19
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=0
+		level=2
+	}
+	X41=
+	{
+		value=0
+		level=2
+	}
+	X42=
+	{
+		value=0
+		level=2
+	}
+	X43=
+	{
+		value=-14
+		level=2
+	}
+	X44=
+	{
+		value=0
+		level=2
+	}
+	X45=
+	{
+		value=0
+		level=2
+	}
+	X46=
+	{
+		value=0
+		level=2
+	}
+	X47=
+	{
+		value=0
+		level=2
+	}
+	X48=
+	{
+		value=0
+		level=2
+	}
+	ZNI=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Armee von Leipzig"
+	location=687
+	regiment = {
+		name="1st Dresden Infantry"
+		type=infantry
+		home=558
+	}
+	regiment = {
+		name="1st Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="1st Chemnitz Infantry"
+		type=infantry
+		home=560
+	}
+	regiment = {
+		name="1st Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="1st Dessau Artillery"
+		type=artillery
+		home=555
+	}
+	regiment = {
+		name="2nd Dessau Artillery"
+		type=artillery
+		home=555
+	}
+	regiment = {
+		name="1st Kassel Infantry"
+		type=infantry
+		home=566
+	}
+	regiment = {
+		name="2nd Stendal Artillery"
+		type=artillery
+		home=557
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=560
+	regiment = {
+		name="1st Halle Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="2nd Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="1st Liegnitz Infantry"
+		type=infantry
+		home=683
+	}
+	regiment = {
+		name="3rd Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="2nd Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="1st Küstrin Artillery"
+		type=artillery
+		home=681
+	}
+	regiment = {
+		name="3rd Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="1st Halle Artillery"
+		type=artillery
+		home=556
+	}
+	regiment = {
+		name="1st Magdeburg Cavalry"
+		type=cavalry
+		home=553
+	}
+}
+
+army = {
+	name="Armee von ThÃ¼ringen"
+	location=548
+	regiment = {
+		name="2nd Halle Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="1st Mainz Infantry"
+		type=infantry
+		home=570
+	}
+	regiment = {
+		name="1st Darmstadt Infantry"
+		type=infantry
+		home=2560
+	}
+	regiment = {
+		name="3rd Halle Infantry"
+		type=infantry
+		home=556
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+	regiment = {
+		name="1st Chemnitz Artillery"
+		type=artillery
+		home=560
+	}
+	regiment = {
+		name="1st Brunswick Artillery"
+		type=artillery
+		home=536
+	}
+	regiment = {
+		name="2nd Dresden Artillery"
+		type=artillery
+		home=558
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=679
+	regiment = {
+		name="1st Krems Artillery"
+		type=artillery
+		home=621
+	}
+	regiment = {
+		name="3rd Dessau Artillery"
+		type=artillery
+		home=555
+	}
+	regiment = {
+		name="1st Stendal Artillery"
+		type=artillery
+		home=557
+	}
+	regiment = {
+		name="2nd Krems Artillery"
+		type=artillery
+		home=621
+	}
+	regiment = {
+		name="4th Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+}
+
+army = {
+	name="1st Army"
+	location=558
+	regiment = {
+		name="1st Cottbus Artillery"
+		type=artillery
+		home=552
+	}
+	regiment = {
+		name="2nd Cottbus Artillery"
+		type=artillery
+		home=552
+	}
+}
+

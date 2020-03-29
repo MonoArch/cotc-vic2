@@ -1,0 +1,10 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=LNA
+add_core=MPA
+add_core=IDO
+add_core=SIA
+trade_goods = opium
+life_rating = 30
+terrain = mountain

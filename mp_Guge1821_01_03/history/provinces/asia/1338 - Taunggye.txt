@@ -1,0 +1,9 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=MPA
+add_core=IDO
+add_core=KAR
+trade_goods = opium
+life_rating = 35
+terrain = mountain

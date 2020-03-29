@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=RUS
+add_core=HRE
+trade_goods = timber
+life_rating = 35
+terrain = forest

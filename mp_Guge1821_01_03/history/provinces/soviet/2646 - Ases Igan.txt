@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=X22
+add_core=SIB
+trade_goods = coal
+life_rating = 15
+terrain = arctic

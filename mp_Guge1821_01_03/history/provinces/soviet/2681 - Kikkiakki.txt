@@ -1,0 +1,8 @@
+owner=X09
+controller=X09
+add_core=X09
+add_core=X22
+add_core=SIB
+trade_goods = timber
+life_rating = 15
+terrain = arctic

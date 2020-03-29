@@ -1,0 +1,235 @@
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=57364
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=1260
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=538
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=87
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=32
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=113
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=3576
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size=32870
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size=722
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size=3425
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size=557
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size=205
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size=68
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size=719
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=32530
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=720
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=2758
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size=117143
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size=2593
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size=7164
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size=517
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size=191
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size=88
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size=669
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size=1301
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=5842
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=129
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=8328
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=601
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=222
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=102
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=777
+	}
+
+}

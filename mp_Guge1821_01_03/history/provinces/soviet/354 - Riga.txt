@@ -1,0 +1,9 @@
+owner=USA
+controller=USA
+add_core=USA
+add_core=X02
+add_core=UBD
+add_core=EST
+trade_goods = fish
+life_rating = 35
+terrain = farmlands

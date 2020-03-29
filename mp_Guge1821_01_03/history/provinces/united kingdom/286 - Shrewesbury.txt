@@ -1,0 +1,10 @@
+owner=X01
+controller=X01
+add_core=X01
+add_core=SCO
+add_core=FRA
+add_core=ENG
+add_core=ENL
+trade_goods = iron
+life_rating = 35
+terrain = farmlands

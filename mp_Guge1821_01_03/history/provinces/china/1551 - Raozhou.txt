@@ -1,0 +1,8 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=NNG
+add_core=CHI
+trade_goods = timber
+life_rating = 32
+terrain = plains

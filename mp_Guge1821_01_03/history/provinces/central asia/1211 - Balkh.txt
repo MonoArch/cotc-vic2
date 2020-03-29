@@ -1,0 +1,8 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=X19
+add_core=PER
+trade_goods = grain
+life_rating = 35
+terrain = plains

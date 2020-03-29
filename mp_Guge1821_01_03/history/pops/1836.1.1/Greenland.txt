@@ -1,0 +1,428 @@
+251 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=70
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=3412
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=97
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=164
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=34
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=4502
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=173
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=36
+	}
+
+}
+2591 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=70
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=3412
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=97
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=164
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=34
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=4502
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=173
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=36
+	}
+
+}
+2632 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=70
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=3412
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=97
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=164
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=34
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=4502
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=173
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=36
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=70
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = animist
+		size=3412
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=97
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=164
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=34
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = protestant
+		size=4502
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=2
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=173
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=31
+	}
+
+	bureaucrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=7
+	}
+
+	officers=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = gelugpa
+		size=36
+	}
+
+}

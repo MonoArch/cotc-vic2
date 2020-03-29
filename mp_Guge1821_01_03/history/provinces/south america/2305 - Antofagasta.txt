@@ -1,0 +1,7 @@
+owner=ARG
+controller=ARG
+add_core=LPL
+add_core=ARG
+trade_goods = sulphur
+life_rating = 35
+terrain = plains

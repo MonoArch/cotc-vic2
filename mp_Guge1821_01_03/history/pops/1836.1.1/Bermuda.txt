@@ -1,0 +1,114 @@
+203 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size=1060
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size=51945
+	}
+
+	soldiers=
+	{
+		culture = english
+		religion = protestant
+		size=1561
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size=5094
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = protestant
+		size=408
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = protestant
+		size=68
+	}
+
+	officers=
+	{
+		culture = english
+		religion = protestant
+		size=45
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = protestant
+		size=475
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size=70421
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size=358
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size=8312
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size=665
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size=111
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size=74
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size=776
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size=7583
+	}
+
+}

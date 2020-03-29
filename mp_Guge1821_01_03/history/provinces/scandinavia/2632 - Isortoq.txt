@@ -1,0 +1,7 @@
+owner=GUG
+controller=GUG
+add_core=FRA
+add_core=GUG
+trade_goods = fish
+life_rating = 35
+terrain = arctic

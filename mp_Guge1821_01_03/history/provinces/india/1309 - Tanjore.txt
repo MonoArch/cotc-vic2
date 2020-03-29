@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=X24
+add_core=HND
+trade_goods = dye
+life_rating = 32
+terrain = farmlands
+naval_base = 1

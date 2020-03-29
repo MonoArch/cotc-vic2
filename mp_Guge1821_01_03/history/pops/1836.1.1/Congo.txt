@@ -1,0 +1,311 @@
+1977 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=1913
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=191
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=7466
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = sunni
+		size=2968
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=297
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = sunni
+		size=3418
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = sunni
+		size=176
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=24
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=205
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=7726
+	}
+
+}
+1978 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=2567
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=191
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=6812
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = sunni
+		size=3981
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=297
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = sunni
+		size=3418
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = sunni
+		size=176
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=24
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=205
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=6713
+	}
+
+}
+2624 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=4094
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=328
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size=11955
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = sunni
+		size=6686
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=535
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = sunni
+		size=3881
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = sunni
+		size=310
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=43
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=47
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = sunni
+		size=362
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = sunni
+		size=14882
+	}
+
+}
+1980 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=125
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=75
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=350
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=75
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=6375
+	}
+
+}
+1981 = {
+	aristocrats=
+	{
+		culture = african_minor
+		religion = animist
+		size=150
+	}
+
+	clergymen=
+	{
+		culture = african_minor
+		religion = animist
+		size=75
+	}
+
+	artisans=
+	{
+		culture = african_minor
+		religion = animist
+		size=400
+	}
+
+	soldiers=
+	{
+		culture = african_minor
+		religion = animist
+		size=75
+	}
+
+	farmers=
+	{
+		culture = african_minor
+		religion = animist
+		size=7300
+	}
+
+}

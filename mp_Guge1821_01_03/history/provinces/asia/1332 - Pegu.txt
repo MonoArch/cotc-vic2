@@ -1,0 +1,9 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=MPA
+add_core=IDO
+add_core=BUR
+trade_goods = grain
+life_rating = 30
+terrain = hills

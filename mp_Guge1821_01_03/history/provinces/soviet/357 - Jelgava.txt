@@ -1,0 +1,11 @@
+owner=X02
+controller=X02
+add_core=X02
+add_core=X05
+add_core=UBD
+add_core=LAT
+add_core=HRE
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands
+naval_base = 1

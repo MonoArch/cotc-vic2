@@ -1,0 +1,228 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size=8925
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=418
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=972
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=7
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=58
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=31313
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = catholic
+		size=5959
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=279
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = catholic
+		size=8787
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = catholic
+		size=904
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=63
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=527
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=11340
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size=10449
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=418
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=972
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=7
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=58
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=29789
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = catholic
+		size=6977
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=279
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = catholic
+		size=8787
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = catholic
+		size=904
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=63
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=50
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=527
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=10322
+	}
+
+}

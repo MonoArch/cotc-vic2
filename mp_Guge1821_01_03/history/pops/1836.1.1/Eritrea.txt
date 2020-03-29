@@ -1,0 +1,288 @@
+1849 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size=561
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size=55581
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = catholic
+		size=1214
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = catholic
+		size=24851
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = catholic
+		size=2556
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=249
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = catholic
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=1491
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = catholic
+		size=90859
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size=272
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size=26952
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = catholic
+		size=658
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = catholic
+		size=3720
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = catholic
+		size=1339
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=93
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = catholic
+		size=74
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=781
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = catholic
+		size=59112
+	}
+
+}
+1848 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = sunni
+		size=97
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = sunni
+		size=9573
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = catholic
+		size=355
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = catholic
+		size=2439
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = catholic
+		size=878
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=61
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = catholic
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=1024
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = catholic
+		size=30728
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size=158
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size=15661
+	}
+
+}
+1850 = {
+	soldiers=
+	{
+		culture = amhara
+		religion = sunni
+		size=83
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = sunni
+		size=8206
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = catholic
+		size=305
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = catholic
+		size=2090
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = catholic
+		size=752
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=52
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = catholic
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = catholic
+		size=878
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = catholic
+		size=26339
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size=136
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size=13423
+	}
+
+}

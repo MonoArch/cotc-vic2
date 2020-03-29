@@ -1,0 +1,8 @@
+owner=X23
+controller=X23
+add_core=ITA
+add_core=PAP
+add_core=X23
+trade_goods = fruit
+life_rating = 35
+terrain = plains

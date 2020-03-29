@@ -1,0 +1,246 @@
+1098 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size=137
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size=4741
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=2154
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=11451
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=589
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=82
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=1374
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=61133
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size=137
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size=4741
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=2154
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=11451
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=589
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=82
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=1374
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=61133
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size=137
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size=4741
+	}
+
+	soldiers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=2154
+	}
+
+	artisans=
+	{
+		culture = kurdish
+		religion = sunni
+		size=11451
+	}
+
+	clergymen=
+	{
+		culture = kurdish
+		religion = sunni
+		size=589
+	}
+
+	bureaucrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=82
+	}
+
+	officers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=131
+	}
+
+	aristocrats=
+	{
+		culture = kurdish
+		religion = sunni
+		size=1374
+	}
+
+	farmers=
+	{
+		culture = kurdish
+		religion = sunni
+		size=61133
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = persian
+		religion = sunni
+		size=3219
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = sunni
+		size=4598
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = sunni
+		size=828
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = sunni
+		size=115
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = sunni
+		size=184
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = sunni
+		size=1931
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = sunni
+		size=104083
+	}
+
+}

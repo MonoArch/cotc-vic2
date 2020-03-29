@@ -1,0 +1,1128 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=11
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=0
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=76
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=134
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=-9
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=0
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=0
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FLA=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=68
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	IRE=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=0
+		level=2
+	}
+	LPL=
+	{
+		value=0
+		level=2
+	}
+	LSK=
+	{
+		value=0
+		level=2
+	}
+	MAW=
+	{
+		value=-11
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MJP=
+	{
+		value=76
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=75
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=91
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=113
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SYR=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=136
+		level=2
+	}
+	TON=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=97
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=-21
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=-11
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=66
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X27=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	X36=
+	{
+		value=0
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=0
+		level=2
+	}
+	X41=
+	{
+		value=0
+		level=2
+	}
+	X42=
+	{
+		value=0
+		level=2
+	}
+	X43=
+	{
+		value=0
+		level=2
+	}
+	X44=
+	{
+		value=0
+		level=2
+	}
+	X45=
+	{
+		value=0
+		level=2
+	}
+	X46=
+	{
+		value=0
+		level=2
+	}
+	X47=
+	{
+		value=0
+		level=2
+	}
+	X48=
+	{
+		value=0
+		level=2
+	}
+	ZNI=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="9th Fleet"
+	location=1257
+	ship = {
+		name="1st Jilolo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ceram Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Varendran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ceram Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sittwe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jessore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ambon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Jilolo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Calcutta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Probolinggo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ceram Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sittwe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Varendran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Andaman Islands Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1248
+	regiment = {
+		name="1st Darjeeling Infantry"
+		type=infantry
+		home=1252
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1252
+	regiment = {
+		name="1st Chittagong Infantry"
+		type=infantry
+		home=1257
+	}
+	regiment = {
+		name="1st Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="1st Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="2nd Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="1st Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="1st Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="1st Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="2nd Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=1451
+	ship = {
+		name="3rd Sittwe Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1430
+	regiment = {
+		name="1st Agartala Infantry"
+		type=infantry
+		home=2566
+	}
+	regiment = {
+		name="1st Chittagong Artillery"
+		type=artillery
+		home=1257
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1256
+	regiment = {
+		name="3rd Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="2nd Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="12th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1248
+	regiment = {
+		name="2nd Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2531
+	regiment = {
+		name="4th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="5th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="1st Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+	regiment = {
+		name="2nd Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+	regiment = {
+		name="2nd Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1254
+	regiment = {
+		name="2nd Jessore Infantry"
+		type=infantry
+		home=1256
+	}
+	regiment = {
+		name="1st Rajshahi Artillery"
+		type=artillery
+		home=1255
+	}
+	regiment = {
+		name="3rd Bardwan Infantry"
+		type=infantry
+		home=1253
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2531
+	regiment = {
+		name="13th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="3rd Jessore Artillery"
+		type=artillery
+		home=1256
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2796
+	ship = {
+		name="1st Varendran Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1248
+	regiment = {
+		name="6th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="7th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="3rd Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+	regiment = {
+		name="11th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="4th Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1432
+	regiment = {
+		name="8th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="9th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="10th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+	regiment = {
+		name="1st Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="14th Gaya Infantry"
+		type=infantry
+		home=1248
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2799
+	ship = {
+		name="1st Fort George Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Varendran Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2851
+	ship = {
+		name="1st Ambon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Sittwe Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2825
+	ship = {
+		name="10th Jessore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2795
+	ship = {
+		name="3rd Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ambon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Varendran Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Jessore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2826
+	ship = {
+		name="8th Chittagong Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2818
+	ship = {
+		name="6th Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sittwe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Jessore Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1447
+	ship = {
+		name="1st Tuamotus Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Chittagong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Jessore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ambon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Varendran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tasmania Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Varendran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Varendran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="12th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Calcutta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="13th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ceram Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Jessore Clipper Transport"
+		type=clipper_transport
+	}
+}
+

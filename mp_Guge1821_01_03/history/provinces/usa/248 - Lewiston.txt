@@ -1,0 +1,6 @@
+owner=X40
+controller=X40
+add_core=X40
+trade_goods = timber
+life_rating = 35
+terrain = forest

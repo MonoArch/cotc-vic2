@@ -1,0 +1,382 @@
+2217 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=62243
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=1316
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=155
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=11
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=14
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=2031
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size=48705
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size=1029
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size=2379
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size=172
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size=63
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size=222
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size=2365
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size=50
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size=2755
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size=199
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size=73
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size=34
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size=257
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=2101
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=44
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=5688
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=411
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=152
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=70
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=531
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=49023
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=980
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=33
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=5
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=7
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=41705
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=814
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=3123
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=507
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=187
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=86
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=656
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=56
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=13
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=1
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size=10572
+	}
+
+	soldiers=
+	{
+		culture = irish
+		religion = protestant
+		size=592
+	}
+
+	artisans=
+	{
+		culture = irish
+		religion = protestant
+		size=3065
+	}
+
+	clergymen=
+	{
+		culture = irish
+		religion = protestant
+		size=142
+	}
+
+	bureaucrats=
+	{
+		culture = irish
+		religion = protestant
+		size=53
+	}
+
+	officers=
+	{
+		culture = irish
+		religion = protestant
+		size=42
+	}
+
+	aristocrats=
+	{
+		culture = irish
+		religion = protestant
+		size=368
+	}
+
+}

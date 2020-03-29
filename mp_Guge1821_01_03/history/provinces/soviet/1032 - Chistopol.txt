@@ -1,0 +1,9 @@
+owner=X14
+controller=X14
+add_core=X19
+add_core=MGL
+add_core=KHA
+trade_goods = timber
+life_rating = 35
+terrain = forest
+colonial=2

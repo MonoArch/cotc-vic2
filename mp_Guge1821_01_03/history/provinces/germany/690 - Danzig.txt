@@ -1,0 +1,9 @@
+owner=X02
+controller=X02
+add_core=DEN
+add_core=X02
+add_core=SCA
+trade_goods = fish
+life_rating = 40
+terrain = farmlands
+naval_base = 1

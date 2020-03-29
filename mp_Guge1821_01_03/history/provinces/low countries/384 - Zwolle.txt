@@ -1,0 +1,8 @@
+owner=DTT
+controller=DTT
+add_core=DTT
+add_core=NET
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = farmlands

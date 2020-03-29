@@ -1,0 +1,10 @@
+owner=X35
+controller=X35
+add_core=AUS
+add_core=VEN
+add_core=X35
+add_core=GER
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = woods

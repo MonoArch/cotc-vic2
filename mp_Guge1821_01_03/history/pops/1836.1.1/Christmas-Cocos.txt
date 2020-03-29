@@ -1,0 +1,151 @@
+2244 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=859
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=3436
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=619
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=120
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=69
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=1082
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=79726
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=473
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=781
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=281
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=20
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=328
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=45418
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = catholic
+		size=83
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = catholic
+		size=1442
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = catholic
+		size=519
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = catholic
+		size=36
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = catholic
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = catholic
+		size=606
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = catholic
+		size=5542
+	}
+
+}

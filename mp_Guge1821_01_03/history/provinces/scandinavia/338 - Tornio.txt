@@ -1,0 +1,11 @@
+owner=X27
+controller=X27
+add_core=FIN
+add_core=X27
+add_core=NOR
+add_core=SCA
+add_core=SMI
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = arctic

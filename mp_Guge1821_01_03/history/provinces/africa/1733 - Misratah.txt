@@ -1,0 +1,9 @@
+owner=X23
+controller=X23
+add_core=NAP
+add_core=X23
+add_core=ARA
+trade_goods = fruit
+life_rating = 35
+terrain = plains
+naval_base = 1

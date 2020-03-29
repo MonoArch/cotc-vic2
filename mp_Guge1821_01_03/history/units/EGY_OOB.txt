@@ -1,0 +1,1991 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=73
+		level=2
+	}
+	AVA=
+	{
+		value=97
+		level=2
+	}
+	BAD=
+	{
+		value=91
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=94
+		level=2
+	}
+	BNY=
+	{
+		value=79
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=134
+		level=2
+	}
+	BRZ=
+	{
+		value=70
+		level=2
+	}
+	BTN=
+	{
+		value=91
+		level=2
+	}
+	BUL=
+	{
+		value=97
+		level=2
+	}
+	CAL=
+	{
+		value=79
+		level=2
+	}
+	CAM=
+	{
+		value=94
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=-70
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=82
+		level=2
+	}
+	CST=
+	{
+		value=174
+		level=2
+	}
+	CUB=
+	{
+		value=76
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=-2
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=82
+		level=2
+	}
+	FLA=
+	{
+		value=88
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=94
+		level=2
+	}
+	HAI=
+	{
+		value=82
+		level=2
+	}
+	IRE=
+	{
+		value=82
+		level=2
+	}
+	IRO=
+	{
+		value=94
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=97
+		level=2
+	}
+	LPL=
+	{
+		value=91
+		level=2
+	}
+	LSK=
+	{
+		value=82
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=70
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=36
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=97
+		level=2
+	}
+	NOR=
+	{
+		value=97
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=55
+		level=2
+	}
+	PAP=
+	{
+		value=88
+		level=2
+	}
+	PEU=
+	{
+		value=7
+		level=2
+	}
+	QOM=
+	{
+		value=-89
+		level=2
+	}
+	SCO=
+	{
+		value=-1
+		level=2
+	}
+	SIA=
+	{
+		value=1
+		level=2
+	}
+	SWE=
+	{
+		value=42
+		level=2
+	}
+	TDO=
+	{
+		value=76
+		level=2
+	}
+	TON=
+	{
+		value=-27
+		level=2
+	}
+	UCA=
+	{
+		value=34
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=76
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=79
+		level=2
+	}
+	X02=
+	{
+		value=79
+		level=2
+	}
+	X03=
+	{
+		value=88
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=94
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=76
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=97
+		level=2
+	}
+	X13=
+	{
+		value=94
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=91
+		level=2
+	}
+	X18=
+	{
+		value=5
+		level=2
+	}
+	X19=
+	{
+		value=91
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=-12
+		level=2
+	}
+	X24=
+	{
+		value=-130
+		level=2
+	}
+	X25=
+	{
+		value=55
+		level=2
+	}
+	X27=
+	{
+		value=76
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=88
+		level=2
+	}
+	X30=
+	{
+		value=73
+		level=2
+	}
+	X31=
+	{
+		value=91
+		level=2
+	}
+	X32=
+	{
+		value=47
+		level=2
+	}
+	X33=
+	{
+		value=7
+		level=2
+	}
+	X35=
+	{
+		value=73
+		level=2
+	}
+	X36=
+	{
+		value=97
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=76
+		level=2
+	}
+	X40=
+	{
+		value=82
+		level=2
+	}
+	X41=
+	{
+		value=73
+		level=2
+	}
+	X42=
+	{
+		value=82
+		level=2
+	}
+	X43=
+	{
+		value=58
+		level=2
+	}
+	X44=
+	{
+		value=94
+		level=2
+	}
+	X45=
+	{
+		value=28
+		level=2
+	}
+	X46=
+	{
+		value=73
+		level=2
+	}
+	X47=
+	{
+		value=82
+		level=2
+	}
+	X48=
+	{
+		value=79
+		level=2
+	}
+	ZNI=
+	{
+		value=6
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="Armia z Aleppo"
+	location=863
+	regiment = {
+		name="1st Nablus Infantry"
+		type=infantry
+		home=918
+	}
+	regiment = {
+		name="1st Dumyat Infantry"
+		type=infantry
+		home=1746
+	}
+	regiment = {
+		name="1st Suez Artillery"
+		type=artillery
+		home=1755
+	}
+	regiment = {
+		name="2nd Minya Infantry"
+		type=infantry
+		home=1764
+	}
+	regiment = {
+		name="1st Palmyra Artillery"
+		type=artillery
+		home=907
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=3095
+	ship = {
+		name="1st Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bourbon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mogadishu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Christmas Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="10th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjungpinang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Christmas Island Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="15th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="16th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bourbon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mombasa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Assab Frigate"
+		type=frigate
+	}
+	ship = {
+		name="17th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="18th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="15th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="19th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="20th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="16th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="21st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanjungpinang Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=865
+	ship = {
+		name="1st Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suez Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Adana Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tobruk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sharm al-Shaykh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Latakia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mersin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antioch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Abha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Acre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Abha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jaffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dumyat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zeyla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hodeida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taizz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Al Arish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Assab Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Djibuti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zeyla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dumyat Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=862
+	regiment = {
+		name="1st Lampung Infantry"
+		type=infantry
+		home=1403
+	}
+	regiment = {
+		name="1st Surakarta Infantry"
+		type=infantry
+		home=1419
+	}
+	regiment = {
+		name="1st Semarang Infantry"
+		type=infantry
+		home=1417
+	}
+	regiment = {
+		name="1st Jerash Artillery"
+		type=artillery
+		home=909
+	}
+	regiment = {
+		name="1st Beirut Artillery"
+		type=artillery
+		home=913
+	}
+	regiment = {
+		name="1st Batavia Infantry"
+		type=infantry
+		home=1413
+	}
+	regiment = {
+		name="2nd Damascus Artillery"
+		type=artillery
+		home=902
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=859
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Benghazi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Antioch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tanjungpinang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Siak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mukalla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Antioch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Alexandria Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canakkale Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Myteline Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dumyat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chios Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gaza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Antioch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jaffa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canakkale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wujda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Latakia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gaza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Swinemünde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Egyptian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Egyptian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Myteline Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armia z Auxerrois"
+	location=1751
+	regiment = {
+		name="1st Alexandria Infantry"
+		type=infantry
+		home=1751
+	}
+	regiment = {
+		name="1st Dayr al-Zour Infantry"
+		type=infantry
+		home=901
+	}
+	regiment = {
+		name="2nd Alexandria Infantry"
+		type=infantry
+		home=1751
+	}
+	regiment = {
+		name="1st Kismayo Artillery"
+		type=artillery
+		home=1870
+	}
+	regiment = {
+		name="1st Damascus Artillery"
+		type=artillery
+		home=902
+	}
+	regiment = {
+		name="1st Baalbeck Artillery"
+		type=artillery
+		home=912
+	}
+	regiment = {
+		name="1st Al Arish Artillery"
+		type=artillery
+		home=1756
+	}
+}
+
+army = {
+	name="Armia z Ar Raqqa"
+	location=859
+	regiment = {
+		name="2nd Dumyat Infantry"
+		type=infantry
+		home=1746
+	}
+	regiment = {
+		name="1st Jerash Infantry"
+		type=infantry
+		home=909
+	}
+	regiment = {
+		name="1st Bonga Infantry"
+		type=infantry
+		home=1862
+	}
+	regiment = {
+		name="1st Alexandria Artillery"
+		type=artillery
+		home=1751
+	}
+	regiment = {
+		name="1st Dayr al-Zour Artillery"
+		type=artillery
+		home=901
+	}
+	regiment = {
+		name="1st Ziqaziq Artillery"
+		type=artillery
+		home=1749
+	}
+	regiment = {
+		name="2nd Dayr al-Zour Artillery"
+		type=artillery
+		home=901
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2789
+	ship = {
+		name="1st Jidda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="17th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="18th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="19th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="20th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="21st Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="22nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jidda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lamu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="22nd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="23rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="24th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ghayda Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armia z Antioch"
+	location=1746
+	regiment = {
+		name="1st Acre Infantry"
+		type=infantry
+		home=916
+	}
+	regiment = {
+		name="1st Gaza Infantry"
+		type=infantry
+		home=920
+	}
+	regiment = {
+		name="1st Sharm al-Shaykh Infantry"
+		type=infantry
+		home=1757
+	}
+	regiment = {
+		name="1st Tabuk Artillery"
+		type=artillery
+		home=1154
+	}
+	regiment = {
+		name="1st Jidda Artillery"
+		type=artillery
+		home=1152
+	}
+	regiment = {
+		name="1st Mut Artillery"
+		type=artillery
+		home=1760
+	}
+	regiment = {
+		name="1st Halaib Artillery"
+		type=artillery
+		home=1834
+	}
+}
+
+army = {
+	name="Armia z Tarabulus"
+	location=2586
+	regiment = {
+		name="1st Antep Infantry"
+		type=infantry
+		home=898
+	}
+	regiment = {
+		name="1st Suwayda Infantry"
+		type=infantry
+		home=906
+	}
+	regiment = {
+		name="1st Samarra Infantry"
+		type=infantry
+		home=927
+	}
+	regiment = {
+		name="2nd Suez Artillery"
+		type=artillery
+		home=1755
+	}
+	regiment = {
+		name="1st Mosul Artillery"
+		type=artillery
+		home=923
+	}
+	regiment = {
+		name="1st Kaf Artillery"
+		type=artillery
+		home=1156
+	}
+	regiment = {
+		name="2nd Mosul Artillery"
+		type=artillery
+		home=923
+	}
+}
+
+army = {
+	name="Armia z Karasi"
+	location=808
+	regiment = {
+		name="1st Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="2nd Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Canakkale Infantry"
+		type=infantry
+		home=865
+	}
+	regiment = {
+		name="1st Adana Artillery"
+		type=artillery
+		home=894
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2824
+	ship = {
+		name="25th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="26th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="27th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="28th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="23rd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="24th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="29th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="25th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vigan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="30th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="31st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="26th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="25th Berbera Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armia z Damietta"
+	location=1163
+	regiment = {
+		name="1st Suez Infantry"
+		type=infantry
+		home=1755
+	}
+	regiment = {
+		name="1st Tanta Infantry"
+		type=infantry
+		home=1747
+	}
+	regiment = {
+		name="1st Matruh Infantry"
+		type=infantry
+		home=1752
+	}
+	regiment = {
+		name="1st Asyut Artillery"
+		type=artillery
+		home=1762
+	}
+	regiment = {
+		name="1st Darna Artillery"
+		type=artillery
+		home=1736
+	}
+	regiment = {
+		name="1st Suhaj Artillery"
+		type=artillery
+		home=2559
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2768
+	ship = {
+		name="1st Antalya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mugla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Alexandria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Adana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Alexandria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chania Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canakkale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Al Arish Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Iraklion Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Balikesir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Egyptian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tobruk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chania Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tobruk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Canakkale Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Iraklion Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Askaleh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dumyat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Myteline Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mersin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tobruk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sidi Barrani Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armia z Al Gharbia"
+	location=1748
+	regiment = {
+		name="1st Bawiti Infantry"
+		type=infantry
+		home=1759
+	}
+	regiment = {
+		name="1st Bani Suwayf Infantry"
+		type=infantry
+		home=1763
+	}
+	regiment = {
+		name="1st Minya Infantry"
+		type=infantry
+		home=1764
+	}
+	regiment = {
+		name="2nd Asyut Artillery"
+		type=artillery
+		home=1762
+	}
+	regiment = {
+		name="1st Luxor Artillery"
+		type=artillery
+		home=1767
+	}
+	regiment = {
+		name="1st Aqaba Artillery"
+		type=artillery
+		home=922
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1746
+	regiment = {
+		name="1st Giza Infantry"
+		type=infantry
+		home=1750
+	}
+	regiment = {
+		name="1st Fayyum Infantry"
+		type=infantry
+		home=1765
+	}
+	regiment = {
+		name="3rd Dumyat Infantry"
+		type=infantry
+		home=1746
+	}
+	regiment = {
+		name="2nd Suhaj Artillery"
+		type=artillery
+		home=2559
+	}
+	regiment = {
+		name="1st Maan Artillery"
+		type=artillery
+		home=911
+	}
+	regiment = {
+		name="2nd Tabuk Artillery"
+		type=artillery
+		home=1154
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2821
+	ship = {
+		name="10th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="11th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="32nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="33rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="34th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="27th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="35th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="12th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="13th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="14th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="36th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="37th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="38th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="15th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zeyla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="39th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="28th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="16th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zanzibar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="29th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="30th Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="40th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="41st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="17th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="18th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hodeida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="19th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="42nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="43rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="20th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="44th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="45th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="21st Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="31st Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="32nd Hobyo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="22nd Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="46th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="47th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="48th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="49th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Djibuti Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Taizz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="50th Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="51st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Assab Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="13th Fleet"
+	location=2954
+	ship = {
+		name="52nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Mukalla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Suez Frigate"
+		type=frigate
+	}
+	ship = {
+		name="23rd Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hodeida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Aden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="24th Berbera Frigate"
+		type=frigate
+	}
+	ship = {
+		name="53rd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="9th Mukalla Frigate"
+		type=frigate
+	}
+}
+

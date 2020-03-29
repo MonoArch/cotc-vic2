@@ -1,0 +1,488 @@
+1901 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size=738
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size=51
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size=1752
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=9357
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=644
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=1389
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=250
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=35
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=38
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=292
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=20191
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=3484
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=321
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=643
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=116
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=16
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=135
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=11336
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = songhai
+		religion = sunni
+		size=936
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = sunni
+		size=85
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = sunni
+		size=3225
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=2420
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=219
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=609
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=110
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=15
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=256
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=7326
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = songhai
+		religion = shamanism
+		size=1722
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = shamanism
+		size=212
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = shamanism
+		size=8649
+	}
+
+	slaves=
+	{
+		culture = songhai
+		religion = sunni
+		size=156
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = sunni
+		size=19
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = sunni
+		size=785
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=4855
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=597
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=5792
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=298
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=41
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=46
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=348
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=17851
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size=985
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size=121
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size=242
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size=44
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size=6
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size=51
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size=4601
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=7960
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=2267
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=408
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=57
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=62
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=476
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=44315
+	}
+
+}
+1906 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=6946
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=1984
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=2089
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=376
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=52
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=78
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=439
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=40253
+	}
+
+}

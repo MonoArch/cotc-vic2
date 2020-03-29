@@ -1,0 +1,8 @@
+owner=X17
+controller=X17
+add_core=X17
+add_core=RUS
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 1

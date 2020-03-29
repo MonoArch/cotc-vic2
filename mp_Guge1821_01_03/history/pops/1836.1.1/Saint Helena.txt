@@ -1,0 +1,279 @@
+2129 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size=391
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size=772
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size=278
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=19
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=162
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size=37414
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size=4
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size=808
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size=20
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size=170
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size=391
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size=772
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size=278
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=19
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=162
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size=37414
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size=4
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size=808
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size=20
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size=170
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = catalan
+		religion = catholic
+		size=391
+	}
+
+	artisans=
+	{
+		culture = catalan
+		religion = catholic
+		size=772
+	}
+
+	clergymen=
+	{
+		culture = catalan
+		religion = catholic
+		size=278
+	}
+
+	bureaucrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=19
+	}
+
+	officers=
+	{
+		culture = catalan
+		religion = catholic
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = catalan
+		religion = catholic
+		size=162
+	}
+
+	farmers=
+	{
+		culture = catalan
+		religion = catholic
+		size=37414
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size=4
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size=808
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size=291
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size=20
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size=170
+	}
+
+}

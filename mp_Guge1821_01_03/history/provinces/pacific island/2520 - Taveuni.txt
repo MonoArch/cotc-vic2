@@ -1,0 +1,7 @@
+owner=EGY
+controller=EGY
+add_core=ORI
+trade_goods = fish
+life_rating = 15
+terrain = plains
+colonial=2

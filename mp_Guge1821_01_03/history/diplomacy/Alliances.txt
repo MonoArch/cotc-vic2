@@ -1,0 +1,224 @@
+alliance=
+{
+	first="X00"
+	second="FLA"
+	start_date="1795.4.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BAV"
+	second="X29"
+	start_date="1820.5.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AUS"
+	second="X31"
+	start_date="1786.1.8"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AUS"
+	second="X37"
+	start_date="1815.11.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="EGY"
+	second="X00"
+	start_date="1527.4.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="EGY"
+	second="GUG"
+	start_date="1790.5.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="QOM"
+	second="X24"
+	start_date="1783.12.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SIA"
+	second="AVA"
+	start_date="1778.7.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAM"
+	second="TDO"
+	start_date="1737.5.21"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GUG"
+	second="X14"
+	start_date="1626.1.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="X08"
+	start_date="1777.4.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MPA"
+	second="X25"
+	start_date="1750.6.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BTN"
+	second="MLC"
+	start_date="1800.9.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X31"
+	second="X30"
+	start_date="1781.12.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X36"
+	second="X30"
+	start_date="1782.3.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X37"
+	second="X30"
+	start_date="1754.6.18"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X37"
+	second="X33"
+	start_date="1800.6.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X37"
+	second="BAD"
+	start_date="1810.8.15"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X38"
+	second="X30"
+	start_date="1811.4.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X28"
+	second="X12"
+	start_date="1802.3.22"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X14"
+	second="EGY"
+	start_date="1626.11.7"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X19"
+	second="MAW"
+	start_date="1678.9.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X21"
+	second="X09"
+	start_date="1808.7.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X23"
+	second="X32"
+	start_date="1753.11.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X23"
+	second="X24"
+	start_date="1770.3.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X25"
+	second="X24"
+	start_date="1515.2.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X11"
+	second="X19"
+	start_date="1514.5.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X13"
+	second="X27"
+	start_date="1813.2.20"
+	end_date="1936.1.1"
+}
+

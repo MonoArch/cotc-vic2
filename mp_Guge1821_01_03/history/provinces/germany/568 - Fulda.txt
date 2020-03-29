@@ -1,0 +1,9 @@
+owner=DTT
+controller=DTT
+add_core=DTT
+add_core=X33
+add_core=GER
+add_core=HRE
+trade_goods = grain
+life_rating = 40
+terrain = plains

@@ -1,0 +1,8 @@
+owner=X37
+controller=X37
+add_core=X37
+add_core=GER
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+terrain = plains

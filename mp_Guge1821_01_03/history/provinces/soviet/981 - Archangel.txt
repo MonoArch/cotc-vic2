@@ -1,0 +1,7 @@
+owner=X13
+controller=X13
+add_core=X13
+add_core=UGR
+trade_goods = timber
+life_rating = 35
+terrain = arctic

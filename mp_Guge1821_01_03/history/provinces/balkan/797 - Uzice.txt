@@ -1,0 +1,10 @@
+owner=BOS
+controller=BOS
+add_core=BOS
+add_core=BUL
+add_core=SER
+add_core=YUG
+add_core=MCD
+trade_goods = grain
+life_rating = 35
+terrain = hills

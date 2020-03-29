@@ -1,0 +1,6 @@
+owner=BTN
+controller=BTN
+add_core=BTN
+trade_goods = timber
+life_rating = 30
+terrain = plains

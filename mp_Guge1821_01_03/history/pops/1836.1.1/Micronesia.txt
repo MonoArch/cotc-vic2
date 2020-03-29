@@ -1,0 +1,619 @@
+2517 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=199
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=796
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=129
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=34
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=167
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=18568
+	}
+
+}
+2521 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=199
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=796
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=129
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=34
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=167
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=18568
+	}
+
+}
+2518 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=367
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=1470
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=239
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=62
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=309
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=34272
+	}
+
+}
+2519 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=184
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=735
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=31
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=154
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=17136
+	}
+
+}
+2579 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=184
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=735
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=31
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=154
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=17136
+	}
+
+}
+610 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=184
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=735
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=119
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=31
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=15
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=154
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=17136
+	}
+
+}
+1654 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size=199
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size=796
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size=129
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=34
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size=167
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size=18568
+	}
+
+}
+2524 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=226
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=452
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=73
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=32
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=9
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=95
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=10402
+	}
+
+}
+2525 = {
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size=15
+	}
+
+}
+2522 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=555
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=7765
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=799
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=55
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=44
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=466
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=45777
+	}
+
+}
+2523 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=240
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=186
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=30
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=11
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=39
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=11487
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=54
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=401
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=65
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=24
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=84
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=2054
+	}
+
+}
+2527 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=260
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=1039
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=169
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=44
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size=21
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=218
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=24219
+	}
+
+}

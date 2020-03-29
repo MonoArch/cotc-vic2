@@ -1,0 +1,9 @@
+owner=SIA
+controller=SIA
+add_core=SIA
+add_core=SUK
+add_core=IDO
+add_core=CAM
+trade_goods = tea
+life_rating = 30
+terrain = jungle

@@ -1,0 +1,14 @@
+owner=X05
+controller=X05
+add_core=X02
+add_core=X05
+add_core=MUS
+add_core=X34
+add_core=UBD
+add_core=EST
+add_core=HRE
+trade_goods = grain
+life_rating = 35
+terrain = plains
+fort = 1
+railroad = 1

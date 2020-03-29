@@ -1,0 +1,153 @@
+855 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size=945
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size=13233
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size=1361
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size=132
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size=1191
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size=77581
+	}
+
+}
+856 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size=945
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size=13233
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size=1361
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size=132
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size=1191
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size=77581
+	}
+
+}
+857 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size=945
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size=13233
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size=1361
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size=132
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size=76
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size=1191
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size=77581
+	}
+
+}

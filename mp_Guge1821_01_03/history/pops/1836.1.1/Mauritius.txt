@@ -1,0 +1,151 @@
+2125 = {
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=1413
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size=3497
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size=360
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=25
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size=210
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size=135806
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=914
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = catholic
+		size=29083
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = catholic
+		size=2991
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=208
+	}
+
+	officers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=166
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = catholic
+		size=1745
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = catholic
+		size=56274
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=942
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=3768
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=1357
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=94
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=75
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=791
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=87182
+	}
+
+}

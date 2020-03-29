@@ -1,0 +1,8 @@
+owner=X00
+controller=X00
+add_core=X00
+add_core=SPA
+add_core=CAT
+trade_goods = grain
+life_rating = 31
+terrain = mountain

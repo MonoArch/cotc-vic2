@@ -1,0 +1,195 @@
+1201 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=4027
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=67878
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=15709
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=49338
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=2537
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=881
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=564
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=2960
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=208522
+	}
+
+}
+1207 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=2685
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=5369
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=966
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=336
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=1128
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=123642
+	}
+
+}
+1208 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size=132
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size=6470
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=2144
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=4662
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=839
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=291
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=1958
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=97193
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = theravada
+		size=62
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = theravada
+		size=3016
+	}
+
+}

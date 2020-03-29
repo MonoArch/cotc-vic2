@@ -1,0 +1,7 @@
+owner=CST
+controller=CST
+add_core=CST
+trade_goods = fish
+life_rating = 15
+terrain = plains
+naval_base = 1

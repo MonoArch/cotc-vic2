@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=X24
+add_core=TUR
+trade_goods = grain
+life_rating = 32
+terrain = plains
+naval_base = 1

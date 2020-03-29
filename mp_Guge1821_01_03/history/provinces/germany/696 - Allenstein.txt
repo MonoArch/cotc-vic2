@@ -1,0 +1,10 @@
+owner=X14
+controller=X14
+add_core=BOH
+add_core=X14
+add_core=X34
+add_core=GER
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+terrain = plains

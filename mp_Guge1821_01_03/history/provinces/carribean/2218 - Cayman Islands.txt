@@ -1,0 +1,8 @@
+owner=CUB
+controller=CUB
+add_core=CUB
+add_core=NEW
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 1

@@ -1,0 +1,9 @@
+owner=MEC
+controller=MEC
+add_core=MEC
+add_core=GER
+add_core=HRE
+trade_goods = fruit
+life_rating = 40
+terrain = farmlands
+naval_base = 1

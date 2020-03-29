@@ -1,0 +1,8 @@
+owner=X17
+controller=X17
+add_core=MUS
+add_core=X17
+add_core=RUS
+trade_goods = grain
+life_rating = 35
+terrain = woods

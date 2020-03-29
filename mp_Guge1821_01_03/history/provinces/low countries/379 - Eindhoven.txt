@@ -1,0 +1,8 @@
+owner=X30
+controller=REB
+add_core=X30
+add_core=NET
+add_core=HRE
+trade_goods = coal
+life_rating = 35
+terrain = woods

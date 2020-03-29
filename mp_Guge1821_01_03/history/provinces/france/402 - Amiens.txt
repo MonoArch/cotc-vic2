@@ -1,0 +1,10 @@
+owner=X03
+controller=X03
+add_core=FRA
+add_core=BEL
+add_core=WLL
+trade_goods = fish
+life_rating = 32
+terrain = plains
+colonial=2
+naval_base = 1

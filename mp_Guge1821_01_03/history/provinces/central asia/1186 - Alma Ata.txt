@@ -1,0 +1,8 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=MGL
+add_core=KHA
+trade_goods = grain
+life_rating = 35
+terrain = woods

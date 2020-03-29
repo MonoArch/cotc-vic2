@@ -1,0 +1,8 @@
+owner=X23
+controller=X23
+add_core=X23
+add_core=SPA
+add_core=CAT
+trade_goods = cattle
+life_rating = 35
+terrain = plains

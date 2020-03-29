@@ -1,0 +1,198 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=32076
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=408
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=9
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=3
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=2
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size=8318
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size=30463
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size=388
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size=720
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size=259
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size=18
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size=151
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size=6751
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=4530
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=58
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=958
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=345
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=24
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=19
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=201
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size=762
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size=10
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size=1765
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size=635
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size=44
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size=371
+	}
+
+}

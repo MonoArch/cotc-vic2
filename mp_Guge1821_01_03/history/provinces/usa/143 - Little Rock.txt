@@ -1,0 +1,8 @@
+owner=LOU
+controller=LOU
+add_core=X42
+add_core=LOU
+add_core=SIO
+trade_goods = grain
+life_rating = 35
+terrain = plains

@@ -1,0 +1,242 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=17602
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=414
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=2693
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size=62003
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size=1459
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size=1796
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size=292
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size=108
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size=49
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size=377
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size=6861
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=3269
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=77
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=2104
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=342
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=126
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=442
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size=30174
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=603
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size=172945
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size=3459
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size=8766
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size=633
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size=234
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size=107
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size=1636
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size=8324
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size=166
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size=10264
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size=741
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size=274
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size=125
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size=1916
+	}
+
+}

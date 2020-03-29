@@ -1,0 +1,207 @@
+1326 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size=564
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size=27644
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=10333
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=4633
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=834
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=290
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=93
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=1459
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=69963
+	}
+
+}
+1327 = {
+	soldiers=
+	{
+		culture = nepali
+		religion = theravada
+		size=340
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = theravada
+		size=16650
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=1035
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=2925
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=526
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=183
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=58
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=614
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size=46430
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size=106
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size=5201
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = theravada
+		size=156
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = theravada
+		size=2621
+	}
+
+	soldiers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=1078
+	}
+
+	artisans=
+	{
+		culture = avadhi
+		religion = sunni
+		size=3085
+	}
+
+	clergymen=
+	{
+		culture = avadhi
+		religion = sunni
+		size=159
+	}
+
+	bureaucrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=37
+	}
+
+	officers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=35
+	}
+
+	aristocrats=
+	{
+		culture = avadhi
+		religion = sunni
+		size=185
+	}
+
+	farmers=
+	{
+		culture = avadhi
+		religion = sunni
+		size=14676
+	}
+
+}

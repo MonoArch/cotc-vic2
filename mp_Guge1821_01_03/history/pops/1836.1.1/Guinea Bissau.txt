@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=37011
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=8368
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=20920
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=1076
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=149
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=284
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=1255
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=80369
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=10058
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=3586
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=8966
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=461
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=64
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=122
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=538
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=40247
+	}
+
+}

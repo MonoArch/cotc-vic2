@@ -1,0 +1,10 @@
+owner=QOM
+controller=QOM
+add_core=QOM
+add_core=X19
+add_core=X22
+add_core=MGL
+add_core=KHA
+trade_goods = wool
+life_rating = 35
+terrain = steppe

@@ -1,0 +1,51 @@
+1876 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=641
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=2565
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=417
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=135
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=51
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=539
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=59766
+	}
+
+}

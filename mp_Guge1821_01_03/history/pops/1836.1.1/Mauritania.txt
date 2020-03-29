@@ -1,0 +1,506 @@
+1775 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=450
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size=20
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size=5
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=225
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=925
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=250
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=18125
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size=3000
+	}
+
+}
+1776 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size=2465
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size=89
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size=6322
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=7503
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=270
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=1436
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=233
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=36
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=29
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=301
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=17204
+	}
+
+}
+1777 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=5773
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=404
+	}
+
+	craftsmen=
+	{
+		culture = mande
+		religion = sunni
+		size=2639
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=808
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=145
+	}
+
+	clerks=
+	{
+		culture = mande
+		religion = sunni
+		size=181
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=20
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=22
+	}
+
+	capitalists=
+	{
+		culture = mande
+		religion = sunni
+		size=192
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=170
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=9854
+	}
+
+}
+1778 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size=11130
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=987
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=1039
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=187
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=26
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=39
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=436
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=12126
+	}
+
+}
+1779 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=40
+	}
+
+	bureaucrats=
+	{
+		culture = maures
+		religion = sunni
+		size=3
+	}
+
+	officers=
+	{
+		culture = maures
+		religion = sunni
+		size=7
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=2700
+	}
+
+}
+1780 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=2700
+	}
+
+}
+1781 = {
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=2700
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=75
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=200
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size=50
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=3675
+	}
+
+}
+1782 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size=10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size=15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size=50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size=900
+	}
+
+	aristocrats=
+	{
+		culture = maures
+		religion = sunni
+		size=50
+	}
+
+	clergymen=
+	{
+		culture = maures
+		religion = sunni
+		size=75
+	}
+
+	artisans=
+	{
+		culture = maures
+		religion = sunni
+		size=150
+	}
+
+	soldiers=
+	{
+		culture = maures
+		religion = sunni
+		size=25
+	}
+
+	farmers=
+	{
+		culture = maures
+		religion = sunni
+		size=2700
+	}
+
+}

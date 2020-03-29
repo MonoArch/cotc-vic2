@@ -1,0 +1,9 @@
+owner=BAD
+controller=BAD
+add_core=BAD
+add_core=SWI
+add_core=HRE
+trade_goods = cattle
+life_rating = 40
+terrain = mountain
+fort = 1

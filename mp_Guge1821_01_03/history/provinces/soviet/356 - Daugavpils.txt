@@ -1,0 +1,9 @@
+owner=X05
+controller=X05
+add_core=X05
+add_core=UBD
+add_core=LAT
+add_core=HRE
+trade_goods = grain
+life_rating = 35
+terrain = woods

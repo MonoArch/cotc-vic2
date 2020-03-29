@@ -1,0 +1,8 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=NVK
+trade_goods = coal
+life_rating = 32
+terrain = hills
+naval_base = 1

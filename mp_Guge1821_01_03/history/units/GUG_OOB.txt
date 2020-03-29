@@ -1,0 +1,1753 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=73
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=227
+		level=2
+	}
+	BAD=
+	{
+		value=82
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=73
+		level=2
+	}
+	BNY=
+	{
+		value=85
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=92
+		level=2
+	}
+	BTN=
+	{
+		value=85
+		level=2
+	}
+	BUL=
+	{
+		value=73
+		level=2
+	}
+	CAL=
+	{
+		value=73
+		level=2
+	}
+	CAM=
+	{
+		value=87
+		level=2
+	}
+	CAN=
+	{
+		value=79
+		level=2
+	}
+	CCM=
+	{
+		value=-52
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=82
+		level=2
+	}
+	CLM=
+	{
+		value=91
+		level=2
+	}
+	CST=
+	{
+		value=73
+		level=2
+	}
+	CUB=
+	{
+		value=73
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=79
+		level=2
+	}
+	EGY=
+	{
+		value=16
+		level=2
+	}
+	ENG=
+	{
+		value=88
+		level=2
+	}
+	FLA=
+	{
+		value=79
+		level=2
+	}
+	FRA=
+	{
+		value=27
+		level=2
+	}
+	GUG=
+	{
+		value=0
+		level=2
+	}
+	HAI=
+	{
+		value=94
+		level=2
+	}
+	IRE=
+	{
+		value=85
+		level=2
+	}
+	IRO=
+	{
+		value=79
+		level=2
+	}
+	JAP=
+	{
+		value=-14
+		level=2
+	}
+	KHA=
+	{
+		value=93
+		level=2
+	}
+	LOU=
+	{
+		value=94
+		level=2
+	}
+	LPL=
+	{
+		value=-21
+		level=2
+	}
+	LSK=
+	{
+		value=91
+		level=2
+	}
+	MAW=
+	{
+		value=97
+		level=2
+	}
+	MEC=
+	{
+		value=32
+		level=2
+	}
+	MJP=
+	{
+		value=91
+		level=2
+	}
+	MLC=
+	{
+		value=102
+		level=2
+	}
+	MPA=
+	{
+		value=85
+		level=2
+	}
+	MPC=
+	{
+		value=79
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=97
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=94
+		level=2
+	}
+	NOR=
+	{
+		value=91
+		level=2
+	}
+	NVK=
+	{
+		value=95
+		level=2
+	}
+	NZL=
+	{
+		value=88
+		level=2
+	}
+	PAP=
+	{
+		value=76
+		level=2
+	}
+	PEU=
+	{
+		value=79
+		level=2
+	}
+	QOM=
+	{
+		value=121
+		level=2
+	}
+	SCO=
+	{
+		value=76
+		level=2
+	}
+	SIA=
+	{
+		value=79
+		level=2
+	}
+	SWE=
+	{
+		value=12
+		level=2
+	}
+	TDO=
+	{
+		value=88
+		level=2
+	}
+	TON=
+	{
+		value=-20
+		level=2
+	}
+	UCA=
+	{
+		value=94
+		level=2
+	}
+	USA=
+	{
+		value=2
+		level=2
+	}
+	VEN=
+	{
+		value=82
+		level=2
+	}
+	X00=
+	{
+		value=8
+		level=2
+	}
+	X01=
+	{
+		value=79
+		level=2
+	}
+	X02=
+	{
+		value=88
+		level=2
+	}
+	X03=
+	{
+		value=88
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=91
+		level=2
+	}
+	X07=
+	{
+		value=115
+		level=2
+	}
+	X08=
+	{
+		value=88
+		level=2
+	}
+	X09=
+	{
+		value=76
+		level=2
+	}
+	X11=
+	{
+		value=82
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=97
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=85
+		level=2
+	}
+	X18=
+	{
+		value=91
+		level=2
+	}
+	X19=
+	{
+		value=11
+		level=2
+	}
+	X21=
+	{
+		value=73
+		level=2
+	}
+	X22=
+	{
+		value=82
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=68
+		level=2
+	}
+	X25=
+	{
+		value=126
+		level=2
+	}
+	X27=
+	{
+		value=91
+		level=2
+	}
+	X28=
+	{
+		value=85
+		level=2
+	}
+	X29=
+	{
+		value=97
+		level=2
+	}
+	X30=
+	{
+		value=-2
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=0
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=76
+		level=2
+	}
+	X36=
+	{
+		value=88
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=73
+		level=2
+	}
+	X40=
+	{
+		value=79
+		level=2
+	}
+	X41=
+	{
+		value=94
+		level=2
+	}
+	X42=
+	{
+		value=91
+		level=2
+	}
+	X43=
+	{
+		value=76
+		level=2
+	}
+	X44=
+	{
+		value=79
+		level=2
+	}
+	X45=
+	{
+		value=91
+		level=2
+	}
+	X46=
+	{
+		value=89
+		level=2
+	}
+	X47=
+	{
+		value=64
+		level=2
+	}
+	X48=
+	{
+		value=76
+		level=2
+	}
+	ZNI=
+	{
+		value=-13
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="1st Army"
+	location=1238
+	regiment = {
+		name="1st Luzhou Infantry"
+		type=infantry
+		home=1474
+	}
+	regiment = {
+		name="1st Jinhua Infantry"
+		type=infantry
+		home=1607
+	}
+	regiment = {
+		name="1st Kashgar Infantry"
+		type=infantry
+		home=1594
+	}
+	regiment = {
+		name="1st Jumla Artillery"
+		type=artillery
+		home=1327
+	}
+	regiment = {
+		name="1st Khotan Cavalry"
+		type=cavalry
+		home=1598
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1189
+	regiment = {
+		name="1st Nanchang Infantry"
+		type=infantry
+		home=1545
+	}
+	regiment = {
+		name="1st Weihui Infantry"
+		type=infantry
+		home=1515
+	}
+	regiment = {
+		name="1st Huizhou Artillery"
+		type=artillery
+		home=1473
+	}
+	regiment = {
+		name="1st Changde Cavalry"
+		type=cavalry
+		home=1525
+	}
+}
+
+army = {
+	name="25th Army"
+	location=2642
+	regiment = {
+		name="1st Shaozhou Infantry"
+		type=infantry
+		home=1500
+	}
+	regiment = {
+		name="1st Jianchang Infantry"
+		type=infantry
+		home=1548
+	}
+	regiment = {
+		name="1st Puer Artillery"
+		type=artillery
+		home=1603
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2591
+	regiment = {
+		name="1st Xian Infantry"
+		type=infantry
+		home=1559
+	}
+	regiment = {
+		name="1st Hanzhong Infantry"
+		type=infantry
+		home=1562
+	}
+	regiment = {
+		name="1st Yibin Artillery"
+		type=artillery
+		home=1585
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1637
+	regiment = {
+		name="1st Khotan Infantry"
+		type=infantry
+		home=1598
+	}
+	regiment = {
+		name="1st Ngari Infantry"
+		type=infantry
+		home=1592
+	}
+	regiment = {
+		name="1st Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="1st Simla Cavalry"
+		type=cavalry
+		home=1235
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1600
+	regiment = {
+		name="1st Jianning Infantry"
+		type=infantry
+		home=1483
+	}
+	regiment = {
+		name="1st Tingzhou Infantry"
+		type=infantry
+		home=1486
+	}
+	regiment = {
+		name="1st Runing Infantry"
+		type=infantry
+		home=1514
+	}
+	regiment = {
+		name="1st Kaifeng Artillery"
+		type=artillery
+		home=1508
+	}
+	regiment = {
+		name="1st Jian Infantry"
+		type=infantry
+		home=1547
+	}
+	regiment = {
+		name="1st Nanyang Cavalry"
+		type=cavalry
+		home=1513
+	}
+	regiment = {
+		name="1st Tongzhou Artillery"
+		type=artillery
+		home=1541
+	}
+}
+
+army = {
+	name="27th Army"
+	location=1554
+	regiment = {
+		name="1st Guiyang Infantry"
+		type=infantry
+		home=1505
+	}
+	regiment = {
+		name="1st Cao Bang Infantry"
+		type=infantry
+		home=1371
+	}
+	regiment = {
+		name="1st Nanning Infantry"
+		type=infantry
+		home=1502
+	}
+	regiment = {
+		name="1st Luzhou Artillery"
+		type=artillery
+		home=1474
+	}
+	regiment = {
+		name="1st Canton Infantry"
+		type=infantry
+		home=1493
+	}
+	regiment = {
+		name="1st Puer Cavalry"
+		type=cavalry
+		home=1603
+	}
+	regiment = {
+		name="1st Jianning Artillery"
+		type=artillery
+		home=1483
+	}
+}
+
+army = {
+	name="17th Army"
+	location=2620
+	regiment = {
+		name="3rd Jilin Infantry"
+		type=infantry
+		home=1555
+	}
+	regiment = {
+		name="1st Tangshan Artillery"
+		type=artillery
+		home=1616
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1235
+	regiment = {
+		name="1st Zhaoqing Infantry"
+		type=infantry
+		home=1501
+	}
+	regiment = {
+		name="1st Changde Infantry"
+		type=infantry
+		home=1525
+	}
+	regiment = {
+		name="1st Pingle Artillery"
+		type=artillery
+		home=1504
+	}
+	regiment = {
+		name="1st Ngari Cavalry"
+		type=cavalry
+		home=1592
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1653
+	regiment = {
+		name="1st Chongqing Infantry"
+		type=infantry
+		home=1577
+	}
+	regiment = {
+		name="1st Guangxin Infantry"
+		type=infantry
+		home=1546
+	}
+	regiment = {
+		name="1st Hainan Artillery"
+		type=artillery
+		home=1499
+	}
+	regiment = {
+		name="1st Raozhou Infantry"
+		type=infantry
+		home=1551
+	}
+}
+
+army = {
+	name="9th Army"
+	location=2250
+	regiment = {
+		name="1st Hengzhou Infantry"
+		type=infantry
+		home=1527
+	}
+	regiment = {
+		name="1st Chaozhou Artillery"
+		type=artillery
+		home=1494
+	}
+}
+
+army = {
+	name="10th Army"
+	location=2620
+	regiment = {
+		name="1st Jirim Chuulgan Infantry"
+		type=infantry
+		home=1533
+	}
+	regiment = {
+		name="1st Qiqihar Infantry"
+		type=infantry
+		home=1552
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1479
+	regiment = {
+		name="1st Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="1st Mukden Infantry"
+		type=infantry
+		home=1479
+	}
+	regiment = {
+		name="1st Port Arthur Infantry"
+		type=infantry
+		home=1481
+	}
+	regiment = {
+		name="1st Beijing Infantry"
+		type=infantry
+		home=1612
+	}
+	regiment = {
+		name="1st Zhongding Artillery"
+		type=artillery
+		home=1618
+	}
+	regiment = {
+		name="1st Jilin Cavalry"
+		type=cavalry
+		home=1555
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1202
+	regiment = {
+		name="2nd Chengde Infantry"
+		type=infantry
+		home=1613
+	}
+	regiment = {
+		name="2nd Mukden Infantry"
+		type=infantry
+		home=1479
+	}
+	regiment = {
+		name="2nd Jirim Chuulgan Infantry"
+		type=infantry
+		home=1533
+	}
+	regiment = {
+		name="2nd Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1597
+	regiment = {
+		name="1st Simla Infantry"
+		type=infantry
+		home=1235
+	}
+	regiment = {
+		name="2nd Khotan Infantry"
+		type=infantry
+		home=1598
+	}
+	regiment = {
+		name="1st Thimpu Artillery"
+		type=artillery
+		home=1329
+	}
+	regiment = {
+		name="1st Patna Cavalry"
+		type=cavalry
+		home=1247
+	}
+	regiment = {
+		name="1st Simla Artillery"
+		type=artillery
+		home=1235
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1677
+	regiment = {
+		name="1st Katmandu Infantry"
+		type=infantry
+		home=1326
+	}
+	regiment = {
+		name="2nd Katmandu Infantry"
+		type=infantry
+		home=1326
+	}
+	regiment = {
+		name="1st Chizhou Infantry"
+		type=infantry
+		home=1471
+	}
+	regiment = {
+		name="1st Jiaxing Artillery"
+		type=artillery
+		home=1606
+	}
+	regiment = {
+		name="3rd Katmandu Infantry"
+		type=infantry
+		home=1326
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1565
+	ship = {
+		name="1st Huaian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Xuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhanjiang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Macao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gugi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gugi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Zhanjiang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hainan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shaoxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Taicangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Gugi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tongzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chaozhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qingdao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Huaian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhaoqing Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="30th Army"
+	location=1327
+	regiment = {
+		name="1st Kokand Infantry"
+		type=infantry
+		home=1202
+	}
+	regiment = {
+		name="1st Khorug Infantry"
+		type=infantry
+		home=1208
+	}
+	regiment = {
+		name="1st Katmandu Artillery"
+		type=artillery
+		home=1326
+	}
+	regiment = {
+		name="2nd Simla Infantry"
+		type=infantry
+		home=1235
+	}
+	regiment = {
+		name="1st Aksu Cavalry"
+		type=cavalry
+		home=1597
+	}
+	regiment = {
+		name="1st Ngari Artillery"
+		type=artillery
+		home=1592
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1505
+	regiment = {
+		name="1st Pingle Infantry"
+		type=infantry
+		home=1504
+	}
+	regiment = {
+		name="2nd Zhaoqing Infantry"
+		type=infantry
+		home=1501
+	}
+	regiment = {
+		name="1st Yongzhou Infantry"
+		type=infantry
+		home=1530
+	}
+	regiment = {
+		name="1st Jiading Artillery"
+		type=artillery
+		home=1580
+	}
+	regiment = {
+		name="1st Baoqing Infantry"
+		type=infantry
+		home=1526
+	}
+	regiment = {
+		name="1st Hanyang Artillery"
+		type=artillery
+		home=1516
+	}
+}
+
+army = {
+	name="26th Army"
+	location=403
+	regiment = {
+		name="1st Yongshun Infantry"
+		type=infantry
+		home=1529
+	}
+	regiment = {
+		name="2nd Chongqing Infantry"
+		type=infantry
+		home=1577
+	}
+	regiment = {
+		name="1st Changsha Infantry"
+		type=infantry
+		home=1524
+	}
+	regiment = {
+		name="1st Sizhou Artillery"
+		type=artillery
+		home=1476
+	}
+	regiment = {
+		name="1st Shangzhou Infantry"
+		type=infantry
+		home=2062
+	}
+	regiment = {
+		name="1st Jianning Cavalry"
+		type=cavalry
+		home=1483
+	}
+	regiment = {
+		name="1st Zhenyuan Artillery"
+		type=artillery
+		home=1507
+	}
+}
+
+army = {
+	name="33rd Army"
+	location=1225
+	regiment = {
+		name="1st Jilin Infantry"
+		type=infantry
+		home=1555
+	}
+	regiment = {
+		name="2nd Jilin Infantry"
+		type=infantry
+		home=1555
+	}
+	regiment = {
+		name="1st Jizhou Artillery"
+		type=artillery
+		home=1615
+	}
+	regiment = {
+		name="3rd Jirim Chuulgan Infantry"
+		type=infantry
+		home=1533
+	}
+	regiment = {
+		name="2nd Zhongding Artillery"
+		type=artillery
+		home=1618
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2828
+	ship = {
+		name="1st Wenzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Huaian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Macao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wenzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hong Kong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Laizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Macao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gugi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Chaozhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangshan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Shanghai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taicangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Thanh Hoa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Fuzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jiaxing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Huaian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tongzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taicangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ningbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Zhaoqing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gugi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Macao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hong Kong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Zhaoqing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Taizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ningbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Hainan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hong Kong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Quanzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Zhaoqing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Chaozhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Shanghai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ningbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Zhanjiang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kagoshima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Gugi Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1600
+	regiment = {
+		name="1st Ningguo Infantry"
+		type=infantry
+		home=1475
+	}
+	regiment = {
+		name="1st Shanghai Infantry"
+		type=infantry
+		home=1538
+	}
+	regiment = {
+		name="2nd Runing Infantry"
+		type=infantry
+		home=1514
+	}
+	regiment = {
+		name="1st Tingzhou Artillery"
+		type=artillery
+		home=1486
+	}
+	regiment = {
+		name="3rd Runing Infantry"
+		type=infantry
+		home=1514
+	}
+	regiment = {
+		name="1st Fuzhou Cavalry"
+		type=cavalry
+		home=1482
+	}
+	regiment = {
+		name="1st Luoyang Artillery"
+		type=artillery
+		home=1510
+	}
+}
+
+army = {
+	name="64th Army"
+	location=1186
+	regiment = {
+		name="1st Hai Phong Infantry"
+		type=infantry
+		home=1370
+	}
+	regiment = {
+		name="1st Guilin Infantry"
+		type=infantry
+		home=1503
+	}
+	regiment = {
+		name="1st Hong Kong Infantry"
+		type=infantry
+		home=1496
+	}
+	regiment = {
+		name="1st Tongchuan Artillery"
+		type=artillery
+		home=1584
+	}
+	regiment = {
+		name="3rd Nanning Infantry"
+		type=infantry
+		home=1502
+	}
+	regiment = {
+		name="1st Yibin Cavalry"
+		type=cavalry
+		home=1585
+	}
+	regiment = {
+		name="1st Shinan Artillery"
+		type=artillery
+		home=1521
+	}
+}
+
+army = {
+	name="22nd Army"
+	location=2253
+	regiment = {
+		name="1st Shaoxing Infantry"
+		type=infantry
+		home=1609
+	}
+	regiment = {
+		name="2nd Nanning Infantry"
+		type=infantry
+		home=1502
+	}
+	regiment = {
+		name="1st Yingzhou Infantry"
+		type=infantry
+		home=1478
+	}
+	regiment = {
+		name="1st Runing Artillery"
+		type=artillery
+		home=1514
+	}
+}
+
+army = {
+	name="12th Army"
+	location=2290
+	regiment = {
+		name="1st Huizhou Infantry"
+		type=infantry
+		home=1473
+	}
+	regiment = {
+		name="1st Wenzhou Artillery"
+		type=artillery
+		home=1611
+	}
+}
+
+army = {
+	name="56th Army"
+	location=1509
+	regiment = {
+		name="1st Chaozhou Infantry"
+		type=infantry
+		home=1494
+	}
+	regiment = {
+		name="1st Xuzhou Infantry"
+		type=infantry
+		home=1542
+	}
+	regiment = {
+		name="1st Zhengzhou Infantry"
+		type=infantry
+		home=1511
+	}
+	regiment = {
+		name="1st Fengyang Infantry"
+		type=infantry
+		home=1472
+	}
+	regiment = {
+		name="1st Chongqing Artillery"
+		type=artillery
+		home=1577
+	}
+	regiment = {
+		name="1st Jiujiang Artillery"
+		type=artillery
+		home=1549
+	}
+	regiment = {
+		name="1st Jizhou Infantry"
+		type=infantry
+		home=1615
+	}
+	regiment = {
+		name="1st Xiangyang Cavalry"
+		type=cavalry
+		home=1523
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1565
+	regiment = {
+		name="1st Kaifeng Infantry"
+		type=infantry
+		home=1508
+	}
+	regiment = {
+		name="1st Tianjin Infantry"
+		type=infantry
+		home=1617
+	}
+	regiment = {
+		name="2nd Xuzhou Infantry"
+		type=infantry
+		home=1542
+	}
+	regiment = {
+		name="1st Jinan Infantry"
+		type=infantry
+		home=1563
+	}
+	regiment = {
+		name="1st Taicangzhou Infantry"
+		type=infantry
+		home=1540
+	}
+	regiment = {
+		name="1st Qingzhou Infantry"
+		type=infantry
+		home=1567
+	}
+	regiment = {
+		name="2nd Yingzhou Infantry"
+		type=infantry
+		home=1478
+	}
+	regiment = {
+		name="1st Luzhou Cavalry"
+		type=cavalry
+		home=1474
+	}
+	regiment = {
+		name="1st Pingyang Artillery"
+		type=artillery
+		home=1575
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Sizhou Infantry"
+		type=infantry
+		home=1476
+	}
+}
+
+army = {
+	name="32nd Army"
+	location=1563
+	regiment = {
+		name="1st Wuding Infantry"
+		type=infantry
+		home=1570
+	}
+	regiment = {
+		name="2nd Wuding Infantry"
+		type=infantry
+		home=1570
+	}
+	regiment = {
+		name="3rd Xuzhou Infantry"
+		type=infantry
+		home=1542
+	}
+	regiment = {
+		name="1st Huangzhou Artillery"
+		type=artillery
+		home=1518
+	}
+	regiment = {
+		name="4th Xuzhou Infantry"
+		type=infantry
+		home=1542
+	}
+	regiment = {
+		name="1st Wuchang Artillery"
+		type=artillery
+		home=1522
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=406
+	regiment = {
+		name="1st Dean Infantry"
+		type=infantry
+		home=1517
+	}
+	regiment = {
+		name="2nd Hengzhou Infantry"
+		type=infantry
+		home=1527
+	}
+	regiment = {
+		name="2nd Shaoxing Infantry"
+		type=infantry
+		home=1609
+	}
+	regiment = {
+		name="1st Xuzhou Artillery"
+		type=artillery
+		home=1542
+	}
+	regiment = {
+		name="2nd Ningguo Infantry"
+		type=infantry
+		home=1475
+	}
+	regiment = {
+		name="2nd Xiangyang Cavalry"
+		type=cavalry
+		home=1523
+	}
+	regiment = {
+		name="1st Yangzhou Artillery"
+		type=artillery
+		home=1543
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1479
+	regiment = {
+		name="2nd Port Arthur Infantry"
+		type=infantry
+		home=1481
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1569
+	ship = {
+		name="1st Shanghai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chonchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jinzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ningbo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1565
+	ship = {
+		name="2nd Tangshan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Qingdao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+}
+

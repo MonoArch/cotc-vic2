@@ -1,0 +1,8 @@
+owner=QOM
+controller=QOM
+add_core=QOM
+add_core=ARA
+add_core=IRQ
+trade_goods = grain
+life_rating = 35
+terrain = plains

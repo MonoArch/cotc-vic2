@@ -1,0 +1,8 @@
+owner=X14
+controller=X14
+add_core=X19
+add_core=UGR
+trade_goods = grain
+life_rating = 35
+terrain = steppe
+colonial=2

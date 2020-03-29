@@ -1,0 +1,7 @@
+owner=X23
+controller=X23
+add_core=X23
+add_core=HRE
+trade_goods = wool
+life_rating = 35
+terrain = farmlands

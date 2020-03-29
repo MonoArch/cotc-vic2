@@ -1,0 +1,12 @@
+owner=LSK
+controller=LSK
+add_core=LSK
+trade_goods = grain
+life_rating = 30
+terrain = mountain
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

@@ -1,0 +1,9 @@
+owner=X27
+controller=X27
+add_core=FIN
+add_core=X27
+add_core=SCA
+add_core=HRE
+trade_goods = timber
+life_rating = 35
+terrain = forest

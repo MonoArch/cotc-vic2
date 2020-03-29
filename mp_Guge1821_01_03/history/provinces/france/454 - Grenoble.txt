@@ -1,0 +1,10 @@
+owner=X00
+controller=X00
+add_core=X00
+add_core=X29
+add_core=FRA
+add_core=OCC
+add_core=HRE
+trade_goods = tobacco
+life_rating = 32
+terrain = woods

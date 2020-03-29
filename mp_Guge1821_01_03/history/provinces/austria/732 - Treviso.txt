@@ -1,0 +1,9 @@
+owner=X23
+controller=X23
+add_core=BAV
+add_core=X23
+add_core=GER
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = hills

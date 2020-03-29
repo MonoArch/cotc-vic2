@@ -1,0 +1,8 @@
+owner=X24
+controller=X24
+add_core=X24
+add_core=MGL
+add_core=KHA
+trade_goods = fish
+life_rating = 35
+terrain = plains

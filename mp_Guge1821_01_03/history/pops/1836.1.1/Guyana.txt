@@ -1,0 +1,373 @@
+2239 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=95
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=7
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=9384
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size=92
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size=741
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=33
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=156
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size=8045
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=335
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size=623
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size=101
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size=28
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size=131
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=32274
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size=23
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size=811
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size=132
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=36
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size=22
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=170
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size=1145
+	}
+
+}
+2243 = {
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size=191
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size=294
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size=48
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=13
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size=8
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=62
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size=18448
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size=142
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size=1036
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size=168
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size=47
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size=28
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size=217
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size=12547
+	}
+
+}
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=95
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=7
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=9384
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size=92
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size=741
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size=120
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=33
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=156
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size=8045
+	}
+
+}

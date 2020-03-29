@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=EGY
+add_core=SOM
+trade_goods = cattle
+life_rating = 15
+terrain = plains
+naval_base = 1

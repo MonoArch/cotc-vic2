@@ -1,0 +1,1006 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=0
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=49
+		level=2
+	}
+	BRZ=
+	{
+		value=-8
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=0
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=0
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=113
+		level=2
+	}
+	ENG=
+	{
+		value=10
+		level=2
+	}
+	FLA=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=-1
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	IRE=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=0
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=0
+		level=2
+	}
+	LPL=
+	{
+		value=0
+		level=2
+	}
+	LSK=
+	{
+		value=0
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TON=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X27=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=-3
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	X36=
+	{
+		value=0
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=0
+		level=2
+	}
+	X41=
+	{
+		value=0
+		level=2
+	}
+	X42=
+	{
+		value=0
+		level=2
+	}
+	X43=
+	{
+		value=0
+		level=2
+	}
+	X44=
+	{
+		value=0
+		level=2
+	}
+	X45=
+	{
+		value=0
+		level=2
+	}
+	X46=
+	{
+		value=0
+		level=2
+	}
+	X47=
+	{
+		value=0
+		level=2
+	}
+	X48=
+	{
+		value=0
+		level=2
+	}
+	ZNI=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="5th Fleet"
+	location=297
+	ship = {
+		name="1st Holy Commonwealth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cardiff Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Holy Commonwealth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Holy Commonwealth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cardigan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Salisbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cardiff Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="8th Army"
+	location=296
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="1st Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="1st Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="1st Cambridge Artillery"
+		type=artillery
+		home=291
+	}
+	regiment = {
+		name="1st St Albans Infantry"
+		type=infantry
+		home=295
+	}
+	regiment = {
+		name="1st Salisbury Cavalry"
+		type=cavalry
+		home=297
+	}
+}
+
+army = {
+	name="7th Army"
+	location=301
+	regiment = {
+		name="1st Shrewsbury Infantry"
+		type=infantry
+		home=286
+	}
+	regiment = {
+		name="2nd Salisbury Infantry"
+		type=infantry
+		home=297
+	}
+	regiment = {
+		name="1st Bristol Artillery"
+		type=artillery
+		home=296
+	}
+	regiment = {
+		name="1st Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=301
+	regiment = {
+		name="1st Bristol Infantry"
+		type=infantry
+		home=296
+	}
+	regiment = {
+		name="3rd Bath Artillery"
+		type=artillery
+		home=298
+	}
+}
+
+army = {
+	name="1st Army"
+	location=278
+	regiment = {
+		name="1st Oxford Infantry"
+		type=infantry
+		home=294
+	}
+	regiment = {
+		name="2nd Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="1st Sheffield Infantry"
+		type=infantry
+		home=283
+	}
+	regiment = {
+		name="1st Oxford Cavalry"
+		type=cavalry
+		home=294
+	}
+	regiment = {
+		name="2nd Bristol Artillery"
+		type=artillery
+		home=296
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2707
+	ship = {
+		name="1st Bath Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2724
+	ship = {
+		name="1st Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Holy Commonwealth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Holy Commonwealth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bath Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2736
+	ship = {
+		name="4th Holy Commonwealth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canterbury Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Bath Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2719
+	ship = {
+		name="6th Bath Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2738
+	ship = {
+		name="2nd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Holy Commonwealth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Salisbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Southampton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Holy Commonwealth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Salisbury Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2930
+	ship = {
+		name="7th Bath Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=270
+	ship = {
+		name="3rd Cardiff Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Canterbury Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bath Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Brighton Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Southampton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Holy Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Granada Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canterbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Salisbury Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Brighton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Holy Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Holy Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="EGY"
+	second="X00"
+	start_date="1623.1.10"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X32"
+	second="X36"
+	start_date="1774.9.30"
+	end_date="1936.1.1"
+}
+

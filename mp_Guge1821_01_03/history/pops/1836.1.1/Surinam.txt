@@ -1,0 +1,214 @@
+2240 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size=481
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size=234
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size=38
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=11
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size=6
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size=49
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size=47276
+	}
+
+	soldiers=
+	{
+		culture = welsh
+		religion = protestant
+		size=364
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = protestant
+		size=3145
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = protestant
+		size=511
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=142
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = protestant
+		size=86
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = protestant
+		size=660
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = protestant
+		size=31470
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size=17
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size=1660
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size=82
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size=671
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size=109
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=30
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size=18
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size=141
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size=7160
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size=162
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size=372
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size=60
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size=17
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size=78
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size=15495
+	}
+
+}

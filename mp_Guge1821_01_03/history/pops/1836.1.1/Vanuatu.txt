@@ -1,0 +1,191 @@
+2535 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=174
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size=17
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size=3
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size=7
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=17199
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=134
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=251
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=45
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=11
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=5
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=105
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=12896
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = theravada
+		size=19
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = theravada
+		size=337
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = theravada
+		size=61
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = theravada
+		size=14
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = theravada
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = theravada
+		size=142
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = theravada
+		size=1280
+	}
+
+	soldiers=
+	{
+		culture = bengali
+		religion = theravada
+		size=24
+	}
+
+	artisans=
+	{
+		culture = bengali
+		religion = theravada
+		size=801
+	}
+
+	clergymen=
+	{
+		culture = bengali
+		religion = theravada
+		size=144
+	}
+
+	bureaucrats=
+	{
+		culture = bengali
+		religion = theravada
+		size=34
+	}
+
+	officers=
+	{
+		culture = bengali
+		religion = theravada
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = bengali
+		religion = theravada
+		size=336
+	}
+
+	farmers=
+	{
+		culture = bengali
+		religion = theravada
+		size=1091
+	}
+
+}

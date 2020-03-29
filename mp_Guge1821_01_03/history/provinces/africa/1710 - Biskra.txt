@@ -1,0 +1,6 @@
+owner=CST
+controller=CST
+add_core=CST
+trade_goods = iron
+life_rating = 35
+terrain = desert

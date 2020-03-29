@@ -1,0 +1,51 @@
+2126 = {
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size=5123
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size=7319
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size=1189
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=311
+	}
+
+	officers=
+	{
+		culture = spanish
+		religion = catholic
+		size=293
+	}
+
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size=1537
+	}
+
+	farmers=
+	{
+		culture = spanish
+		religion = catholic
+		size=167199
+	}
+
+}

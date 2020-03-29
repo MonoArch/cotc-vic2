@@ -1,0 +1,612 @@
+349 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size=461
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size=360
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size=59
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=5
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=151
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size=21995
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size=186
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size=100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size=16
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=1
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=42
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size=8943
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=186
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=1206
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=196
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=24
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=506
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=7187
+	}
+
+}
+350 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size=673
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size=615
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=8
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=258
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size=31993
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size=252
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size=1235
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size=201
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=519
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size=10340
+	}
+
+}
+351 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size=461
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size=360
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size=59
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=5
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=151
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size=21995
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size=186
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size=100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size=16
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=1
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=42
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size=8943
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = protestant
+		size=186
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size=1206
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = protestant
+		size=196
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = protestant
+		size=24
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size=506
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size=7187
+	}
+
+}
+352 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size=673
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = catholic
+		size=615
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = catholic
+		size=100
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=8
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = catholic
+		size=12
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = catholic
+		size=258
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size=31993
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size=252
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size=1235
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size=201
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=15
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size=25
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=519
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size=10340
+	}
+
+}
+353 = {
+	soldiers=
+	{
+		culture = estonian
+		religion = catholic
+		size=948
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = catholic
+		size=15985
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size=9786
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size=3262
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size=530
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=139
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size=155
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size=1370
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size=159511
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = cathar
+		size=1602
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = cathar
+		size=5550
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = cathar
+		size=902
+	}
+
+	bureaucrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=236
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = cathar
+		size=264
+	}
+
+	aristocrats=
+	{
+		culture = estonian
+		religion = cathar
+		size=2331
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = cathar
+		size=17718
+	}
+
+}

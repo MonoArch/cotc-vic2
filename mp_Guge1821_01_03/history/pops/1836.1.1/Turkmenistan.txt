@@ -1,0 +1,365 @@
+1195 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=2766
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=3952
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=711
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=99
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=158
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=1660
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=89452
+	}
+
+}
+1204 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=7233
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=4109
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=740
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=103
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=164
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=1726
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=62687
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=759
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=46
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=8
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=1
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=19
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=26275
+	}
+
+}
+1205 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = sunni
+		size=1669
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = sunni
+		size=404
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = sunni
+		size=73
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=10
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = sunni
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = sunni
+		size=85
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = sunni
+		size=57365
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=106
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = mazdaki
+		size=3664
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = yazidi
+		size=1210
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = yazidi
+		size=3860
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = yazidi
+		size=695
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = yazidi
+		size=97
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = yazidi
+		size=154
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = yazidi
+		size=811
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = yazidi
+		size=36376
+	}
+
+}
+1206 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=3441
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=7209
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=1298
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=180
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=288
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=1514
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=108948
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=1911
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=436
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=79
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=11
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=17
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=92
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = mazdaki
+		size=65704
+	}
+
+}

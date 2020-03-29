@@ -1,0 +1,842 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=94
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=9
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=73
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=49
+		level=2
+	}
+	BRZ=
+	{
+		value=-96
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=79
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=94
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=-97
+		level=2
+	}
+	CST=
+	{
+		value=-19
+		level=2
+	}
+	CUB=
+	{
+		value=85
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=-58
+		level=2
+	}
+	EGY=
+	{
+		value=-93
+		level=2
+	}
+	ENG=
+	{
+		value=79
+		level=2
+	}
+	FLA=
+	{
+		value=79
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=89
+		level=2
+	}
+	HAI=
+	{
+		value=-148
+		level=2
+	}
+	IRE=
+	{
+		value=97
+		level=2
+	}
+	IRO=
+	{
+		value=-54
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=-12
+		level=2
+	}
+	LPL=
+	{
+		value=-94
+		level=2
+	}
+	LSK=
+	{
+		value=85
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=0
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=94
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=-58
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=0
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=4
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TON=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=91
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=-76
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=0
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=-93
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=0
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X27=
+	{
+		value=0
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=-3
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	X36=
+	{
+		value=0
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=0
+		level=2
+	}
+	X41=
+	{
+		value=-23
+		level=2
+	}
+	X42=
+	{
+		value=79
+		level=2
+	}
+	X43=
+	{
+		value=0
+		level=2
+	}
+	X44=
+	{
+		value=0
+		level=2
+	}
+	X45=
+	{
+		value=79
+		level=2
+	}
+	X46=
+	{
+		value=79
+		level=2
+	}
+	X47=
+	{
+		value=-96
+		level=2
+	}
+	X48=
+	{
+		value=88
+		level=2
+	}
+	ZNI=
+	{
+		value=97
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2162
+	ship = {
+		name="1st La Rochelle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chelmsford Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Perpignan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Perpignan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bordeaux Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Frejus Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chelmsford Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2526
+	regiment = {
+		name="1st Blois Artillery"
+		type=artillery
+		home=440
+	}
+	regiment = {
+		name="2nd Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Rodez Cavalry"
+		type=cavalry
+		home=462
+	}
+}
+
+army = {
+	name="Armada de Mejic"
+	location=2293
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Mont de Marsan Artillery"
+		type=artillery
+		home=459
+	}
+	regiment = {
+		name="1st Carcassonne Infantry"
+		type=infantry
+		home=463
+	}
+	regiment = {
+		name="1st Foix Cavalry"
+		type=cavalry
+		home=457
+	}
+	regiment = {
+		name="1st Soria Artillery"
+		type=artillery
+		home=481
+	}
+}
+
+army = {
+	name="Armada de Santonge"
+	location=417
+	regiment = {
+		name="1st Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Montpellier Artillery"
+		type=artillery
+		home=461
+	}
+	regiment = {
+		name="2nd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Tours Cavalry"
+		type=cavalry
+		home=441
+	}
+	regiment = {
+		name="2nd Mont de Marsan Artillery"
+		type=artillery
+		home=459
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=437
+	ship = {
+		name="1st Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rouen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rouen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bordeaux Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Toulon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Marseilles Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Channel Islands Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tarragona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Carcassonne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gerona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st La Rochelle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nice Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Roche Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armada de SavÃ²ia"
+	location=436
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+	regiment = {
+		name="2nd Montpellier Artillery"
+		type=artillery
+		home=461
+	}
+	regiment = {
+		name="3rd Bordeaux Infantry"
+		type=infantry
+		home=458
+	}
+	regiment = {
+		name="1st Carcassonne Artillery"
+		type=artillery
+		home=463
+	}
+}
+
+army = {
+	name="Armada de Bearn"
+	location=435
+	regiment = {
+		name="1st Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="1st Toulouse Artillery"
+		type=artillery
+		home=455
+	}
+	regiment = {
+		name="1st La Rochelle Infantry"
+		type=infantry
+		home=442
+	}
+	regiment = {
+		name="2nd Carcassonne Artillery"
+		type=artillery
+		home=463
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2174
+	regiment = {
+		name="1st Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="1st La Roche Artillery"
+		type=artillery
+		home=437
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2971
+	ship = {
+		name="1st Bordeaux Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bordeaux Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tarragona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Caen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Rochelle Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st La Roche Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tarragona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd La Rochelle Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armada de BordalÃ©s"
+	location=449
+	regiment = {
+		name="1st Angoulême Infantry"
+		type=infantry
+		home=444
+	}
+	regiment = {
+		name="1st Rodez Artillery"
+		type=artillery
+		home=462
+	}
+}
+

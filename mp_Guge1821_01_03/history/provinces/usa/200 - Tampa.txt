@@ -1,0 +1,8 @@
+owner=USA
+controller=USA
+add_core=USA
+add_core=X40
+trade_goods = fruit
+life_rating = 25
+terrain = marsh
+is_slave = yes

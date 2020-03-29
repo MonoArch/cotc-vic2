@@ -1,0 +1,6 @@
+owner=X42
+controller=X42
+add_core=X42
+trade_goods = grain
+life_rating = 35
+terrain = plains

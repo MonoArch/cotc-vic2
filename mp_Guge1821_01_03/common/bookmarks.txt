@@ -1,0 +1,17 @@
+bookmark =
+{
+	name = "Europa Universalis IV"
+	desc = "NOTE: First political parties arrive in 1830. Otherwise, this is the end-date of EU4. How did your campaign go so far? Prepare for a new century (or few)!"
+	date = 1821.1.3
+	cameraX = 2950 
+	cameraY = 1550
+}
+
+bookmark =
+{
+	name = "GC_NAME"
+	desc = "GC_DESC"
+	date = 1836.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}

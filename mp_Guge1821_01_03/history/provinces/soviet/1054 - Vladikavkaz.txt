@@ -1,0 +1,8 @@
+owner=X14
+controller=X14
+add_core=X14
+add_core=MGL
+add_core=KHA
+trade_goods = wool
+life_rating = 35
+terrain = hills

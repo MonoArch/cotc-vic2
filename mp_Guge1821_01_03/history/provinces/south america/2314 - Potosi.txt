@@ -1,0 +1,8 @@
+owner=X44
+controller=X44
+add_core=X44
+add_core=CSU
+add_core=CCQ
+trade_goods = grain
+life_rating = 30
+terrain = desert

@@ -1,0 +1,242 @@
+676 = {
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size=2822
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size=13
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=2
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size=44142
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = catholic
+		size=2810
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = catholic
+		size=12652
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = catholic
+		size=659
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = catholic
+		size=173
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = catholic
+		size=163
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = catholic
+		size=1710
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = catholic
+		size=28378
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size=243
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size=157
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=6218
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size=2822
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size=13
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size=1
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size=2
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size=43658
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = catholic
+		size=2810
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = catholic
+		size=12452
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = catholic
+		size=659
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = catholic
+		size=173
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = catholic
+		size=163
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = catholic
+		size=1710
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = catholic
+		size=28067
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size=243
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size=157
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=1800
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=75
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size=7015
+	}
+
+}

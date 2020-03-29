@@ -1,0 +1,10 @@
+owner=X12
+controller=X12
+add_core=X12
+add_core=X27
+add_core=SCA
+add_core=FIN
+add_core=HRE
+trade_goods = iron
+life_rating = 35
+terrain = forest

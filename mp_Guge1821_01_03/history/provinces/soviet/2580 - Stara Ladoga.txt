@@ -1,0 +1,9 @@
+owner=X27
+controller=X27
+add_core=X27
+add_core=SCA
+add_core=FIN
+add_core=HRE
+trade_goods = grain
+life_rating = 35
+terrain = forest

@@ -1,0 +1,6 @@
+owner=X44
+controller=X44
+add_core=X44
+trade_goods = tropical_wood
+life_rating = 30
+terrain = plains

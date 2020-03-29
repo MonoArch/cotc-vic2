@@ -1,0 +1,65 @@
+1097 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size=72
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size=7148
+	}
+
+	soldiers=
+	{
+		culture = malay
+		religion = sunni
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = malay
+		religion = sunni
+		size=698
+	}
+
+	clergymen=
+	{
+		culture = malay
+		religion = sunni
+		size=113
+	}
+
+	bureaucrats=
+	{
+		culture = malay
+		religion = sunni
+		size=9
+	}
+
+	officers=
+	{
+		culture = malay
+		religion = sunni
+		size=14
+	}
+
+	aristocrats=
+	{
+		culture = malay
+		religion = sunni
+		size=147
+	}
+
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size=8226
+	}
+
+}

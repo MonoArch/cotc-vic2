@@ -1,0 +1,7 @@
+owner=X23
+controller=X23
+add_core=ARA
+trade_goods = fruit
+life_rating = 10
+terrain = desert
+colonial=2

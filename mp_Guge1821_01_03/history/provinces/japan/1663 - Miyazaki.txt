@@ -1,0 +1,8 @@
+owner=X06
+controller=X06
+add_core=SMZ
+add_core=JAP
+trade_goods = tobacco
+life_rating = 35
+terrain = hills
+colonial=2

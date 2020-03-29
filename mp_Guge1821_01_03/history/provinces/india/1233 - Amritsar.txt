@@ -1,0 +1,8 @@
+owner=MAW
+controller=MAW
+add_core=MAW
+add_core=X26
+add_core=HND
+trade_goods = fruit
+life_rating = 32
+terrain = mountain

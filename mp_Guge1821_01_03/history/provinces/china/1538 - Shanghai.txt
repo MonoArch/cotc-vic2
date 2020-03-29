@@ -1,0 +1,9 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=CWU
+add_core=CHI
+trade_goods = tea
+life_rating = 32
+terrain = plains
+naval_base = 1

@@ -1,0 +1,9 @@
+owner=EGY
+controller=EGY
+add_core=MJP
+add_core=MLC
+add_core=MLY
+trade_goods = grain
+life_rating = 30
+terrain = hills
+colonial=2

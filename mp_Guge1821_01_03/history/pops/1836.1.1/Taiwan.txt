@@ -1,0 +1,398 @@
+1485 = {
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=3455
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=178
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=42
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=207
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=51679
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=147
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=5514
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=67
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=331
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=979
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size=924
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size=2743
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size=141
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=33
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=247
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size=42110
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=141
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = gelugpa
+		size=4712
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = gelugpa
+		size=242
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = gelugpa
+		size=57
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = gelugpa
+		size=424
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=1431
+	}
+
+}
+2562 = {
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=1134
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=3455
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=178
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=42
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=20
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=207
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = mahayana
+		size=51679
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=147
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=5514
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=284
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=67
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=32
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=331
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size=979
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size=924
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size=2743
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size=141
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=33
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = mahayana
+		size=16
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = mahayana
+		size=247
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size=42110
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=141
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = gelugpa
+		size=4712
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = gelugpa
+		size=242
+	}
+
+	bureaucrats=
+	{
+		culture = yue
+		religion = gelugpa
+		size=57
+	}
+
+	officers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=27
+	}
+
+	aristocrats=
+	{
+		culture = yue
+		religion = gelugpa
+		size=424
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = gelugpa
+		size=1431
+	}
+
+}

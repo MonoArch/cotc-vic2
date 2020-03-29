@@ -1,0 +1,820 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=0
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=-95
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=0
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=0
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=0
+		level=2
+	}
+	CCM=
+	{
+		value=0
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=0
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=-5
+		level=2
+	}
+	EGY=
+	{
+		value=-93
+		level=2
+	}
+	ENG=
+	{
+		value=0
+		level=2
+	}
+	FLA=
+	{
+		value=0
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=52
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	IRE=
+	{
+		value=0
+		level=2
+	}
+	IRO=
+	{
+		value=80
+		level=2
+	}
+	ITA=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=97
+		level=2
+	}
+	LPL=
+	{
+		value=0
+		level=2
+	}
+	LSK=
+	{
+		value=0
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=32
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=0
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=94
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=0
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=0
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	SYR=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TON=
+	{
+		value=0
+		level=2
+	}
+	UCA=
+	{
+		value=0
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=0
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=100
+		level=2
+	}
+	X03=
+	{
+		value=0
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=0
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=70
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=0
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=-9
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=-45
+		level=2
+	}
+	X27=
+	{
+		value=28
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=0
+		level=2
+	}
+	X30=
+	{
+		value=0
+		level=2
+	}
+	X31=
+	{
+		value=0
+		level=2
+	}
+	X32=
+	{
+		value=-11
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=0
+		level=2
+	}
+	X36=
+	{
+		value=0
+		level=2
+	}
+	X37=
+	{
+		value=0
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=80
+		level=2
+	}
+	X41=
+	{
+		value=-11
+		level=2
+	}
+	X42=
+	{
+		value=9
+		level=2
+	}
+	X43=
+	{
+		value=0
+		level=2
+	}
+	X44=
+	{
+		value=0
+		level=2
+	}
+	X45=
+	{
+		value=0
+		level=2
+	}
+	X46=
+	{
+		value=60
+		level=2
+	}
+	X47=
+	{
+		value=0
+		level=2
+	}
+	X48=
+	{
+		value=91
+		level=2
+	}
+	ZNI=
+	{
+		value=0
+		level=2
+	}
+
+#Leaders
+
+#Armies
+army = {
+	name="North Contingent"
+	location=220
+	regiment = {
+		name="1st Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="1st Hartford Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="1st Greenville Artillery"
+		type=artillery
+		home=207
+	}
+	regiment = {
+		name="1st Norfolk Artillery"
+		type=artillery
+		home=214
+	}
+	regiment = {
+		name="1st Richmond Artillery"
+		type=artillery
+		home=211
+	}
+	regiment = {
+		name="2nd Norfolk Artillery"
+		type=artillery
+		home=214
+	}
+	regiment = {
+		name="1st Trenton Artillery"
+		type=artillery
+		home=230
+	}
+	regiment = {
+		name="1st Wilmington Artillery"
+		type=artillery
+		home=210
+	}
+	regiment = {
+		name="1st Atlanta Artillery"
+		type=artillery
+		home=201
+	}
+	regiment = {
+		name="1st Raleigh Artillery"
+		type=artillery
+		home=208
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2953
+	ship = {
+		name="1st Atlantic City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greenville Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Norfolk Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Concord Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greenville Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dover Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trenton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Atlantic City Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tampa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Savannah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Charleston Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Catharian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Wilmington Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Harper Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fredericksburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Newark Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Charleston Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=213
+	ship = {
+		name="1st Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fredericksburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Odense Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valmiera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Recife Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Catharian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wilmington Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maceió Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Swinemünde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Norfolk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=213
+	regiment = {
+		name="1st Louisville Infantry"
+		type=infantry
+		home=184
+	}
+	regiment = {
+		name="1st Norfolk Infantry"
+		type=infantry
+		home=214
+	}
+	regiment = {
+		name="2nd Norfolk Infantry"
+		type=infantry
+		home=214
+	}
+	regiment = {
+		name="1st Valdosta Infantry"
+		type=infantry
+		home=202
+	}
+	regiment = {
+		name="1st Scranton Infantry"
+		type=infantry
+		home=224
+	}
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Hagerstown Artillery"
+		type=artillery
+		home=221
+	}
+	regiment = {
+		name="2nd Atlanta Artillery"
+		type=artillery
+		home=201
+	}
+	regiment = {
+		name="2nd Greenville Artillery"
+		type=artillery
+		home=207
+	}
+	regiment = {
+		name="3rd Norfolk Artillery"
+		type=artillery
+		home=214
+	}
+	regiment = {
+		name="1st Nashville Artillery"
+		type=artillery
+		home=188
+	}
+	regiment = {
+		name="1st Dover Artillery"
+		type=artillery
+		home=222
+	}
+	regiment = {
+		name="1st Atlanta Infantry"
+		type=infantry
+		home=201
+	}
+}
+

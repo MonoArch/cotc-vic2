@@ -1,0 +1,376 @@
+vassal=
+{
+	first="IRE"
+	second="NEW"
+	start_date="1698.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="SCO"
+	second="CLM"
+	start_date="1663.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="CAN"
+	start_date="1730.6.5"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="CUB"
+	start_date="1592.8.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="BLZ"
+	start_date="1614.10.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="IRE"
+	start_date="1626.9.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="X41"
+	start_date="1695.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="PEU"
+	start_date="1704.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="ENG"
+	start_date="1734.12.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="X45"
+	start_date="1756.7.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
+	second="LOU"
+	start_date="1767.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="MEC"
+	second="X43"
+	start_date="1743.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="CST"
+	second="LPL"
+	start_date="1602.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="NAP"
+	second="X42"
+	start_date="1701.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="CST"
+	start_date="1615.9.18"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="PAP"
+	start_date="1706.8.28"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="BNY"
+	start_date="1706.9.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="X17"
+	start_date="1713.9.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="X01"
+	start_date="1719.9.14"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="HAI"
+	start_date="1752.7.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="X39"
+	start_date="1580.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="EGY"
+	second="BUL"
+	start_date="1777.7.4"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GUG"
+	second="X06"
+	start_date="1729.5.1"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GUG"
+	second="KHA"
+	start_date="1749.1.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GUG"
+	second="X47"
+	start_date="1788.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GUG"
+	second="X48"
+	start_date="1788.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GUG"
+	second="X03"
+	start_date="1813.3.9"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X32"
+	second="X35"
+	start_date="1779.7.17"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X14"
+	second="BOS"
+	start_date="1729.4.20"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X14"
+	second="X05"
+	start_date="1786.9.29"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="NAP"
+	start_date="1703.7.26"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="BRZ"
+	start_date="1740.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="X44"
+	start_date="1747.7.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="ARG"
+	start_date="1749.1.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="X18"
+	start_date="1803.6.11"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X23"
+	second="X04"
+	start_date="1820.12.19"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="CAL"
+	start_date="1668.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="LSK"
+	start_date="1694.3.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="UCA"
+	start_date="1730.11.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="CCM"
+	start_date="1719.7.8"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="ZNI"
+	start_date="1731.7.31"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="TON"
+	start_date="1732.9.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X24"
+	second="NZL"
+	start_date="1747.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="USA"
+	second="IRO"
+	start_date="1738.5.17"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="USA"
+	second="X40"
+	start_date="1616.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="USA"
+	second="X46"
+	start_date="1761.9.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="USA"
+	second="X02"
+	start_date="1767.8.18"
+	end_date="1936.1.1"
+}
+

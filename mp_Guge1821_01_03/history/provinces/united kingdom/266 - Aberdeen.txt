@@ -1,0 +1,9 @@
+owner=X01
+controller=X01
+add_core=X01
+add_core=SCO
+add_core=ENG
+trade_goods = wool
+life_rating = 35
+terrain = hills
+naval_base = 1

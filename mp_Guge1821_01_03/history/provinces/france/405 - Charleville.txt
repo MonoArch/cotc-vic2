@@ -1,0 +1,8 @@
+owner=DTT
+controller=DTT
+add_core=DTT
+add_core=FRA
+add_core=HRE
+trade_goods = coal
+life_rating = 30
+terrain = plains

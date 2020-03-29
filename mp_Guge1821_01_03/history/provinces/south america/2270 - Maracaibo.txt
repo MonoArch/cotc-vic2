@@ -1,0 +1,7 @@
+owner=X46
+controller=X46
+add_core=X46
+add_core=MCA
+trade_goods = coffee
+life_rating = 30
+terrain = plains

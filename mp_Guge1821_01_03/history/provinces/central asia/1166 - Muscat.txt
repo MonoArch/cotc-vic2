@@ -1,0 +1,7 @@
+owner=X24
+controller=X24
+add_core=X24
+trade_goods = opium
+life_rating = 35
+terrain = mountain
+naval_base = 1

@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=MJP
+add_core=JAV
+trade_goods = sulphur
+life_rating = 30
+terrain = plains
+colonial=2

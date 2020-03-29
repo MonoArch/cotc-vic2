@@ -1,0 +1,230 @@
+1189 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=466
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size=314
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size=16
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=4
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size=2
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size=19
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=22464
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=1646
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=14471
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=744
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=176
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=83
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=868
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=64329
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size=337
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size=16507
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=1775
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=14784
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=760
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=180
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=887
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size=70288
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size=383
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size=18749
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=3179
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=24935
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=1282
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=445
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=142
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=1496
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gelugpa
+		size=127493
+	}
+
+}

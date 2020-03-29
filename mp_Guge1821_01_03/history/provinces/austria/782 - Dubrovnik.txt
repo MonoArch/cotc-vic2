@@ -1,0 +1,9 @@
+owner=BOS
+controller=BOS
+add_core=BOS
+add_core=SER
+add_core=VEN
+trade_goods = fish
+life_rating = 35
+terrain = plains
+naval_base = 1

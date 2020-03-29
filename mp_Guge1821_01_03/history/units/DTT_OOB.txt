@@ -1,0 +1,742 @@
+#Sphere of Influence
+
+	AIN=
+	{
+		value=0
+		level=2
+	}
+	ARG=
+	{
+		value=-4
+		level=2
+	}
+	AUS=
+	{
+		value=0
+		level=2
+	}
+	AVA=
+	{
+		value=0
+		level=2
+	}
+	BAD=
+	{
+		value=0
+		level=2
+	}
+	BAV=
+	{
+		value=0
+		level=2
+	}
+	BLZ=
+	{
+		value=0
+		level=2
+	}
+	BNY=
+	{
+		value=0
+		level=2
+	}
+	BOH=
+	{
+		value=0
+		level=2
+	}
+	BOS=
+	{
+		value=0
+		level=2
+	}
+	BRZ=
+	{
+		value=-8
+		level=2
+	}
+	BTN=
+	{
+		value=0
+		level=2
+	}
+	BUL=
+	{
+		value=0
+		level=2
+	}
+	CAL=
+	{
+		value=-10
+		level=2
+	}
+	CAM=
+	{
+		value=0
+		level=2
+	}
+	CAN=
+	{
+		value=58
+		level=2
+	}
+	CCM=
+	{
+		value=-4
+		level=2
+	}
+	CCQ=
+	{
+		value=0
+		level=2
+	}
+	CHU=
+	{
+		value=0
+		level=2
+	}
+	CLM=
+	{
+		value=0
+		level=2
+	}
+	CST=
+	{
+		value=0
+		level=2
+	}
+	CUB=
+	{
+		value=0
+		level=2
+	}
+	CWU=
+	{
+		value=0
+		level=2
+	}
+	DTT=
+	{
+		value=0
+		level=2
+	}
+	EGY=
+	{
+		value=0
+		level=2
+	}
+	ENG=
+	{
+		value=-41
+		level=2
+	}
+	FLA=
+	{
+		value=95
+		level=2
+	}
+	FRA=
+	{
+		value=0
+		level=2
+	}
+	GUG=
+	{
+		value=44
+		level=2
+	}
+	HAI=
+	{
+		value=0
+		level=2
+	}
+	IRE=
+	{
+		value=-46
+		level=2
+	}
+	IRO=
+	{
+		value=0
+		level=2
+	}
+	JAP=
+	{
+		value=0
+		level=2
+	}
+	KHA=
+	{
+		value=0
+		level=2
+	}
+	LOU=
+	{
+		value=0
+		level=2
+	}
+	LPL=
+	{
+		value=0
+		level=2
+	}
+	LSK=
+	{
+		value=-5
+		level=2
+	}
+	MAW=
+	{
+		value=0
+		level=2
+	}
+	MEC=
+	{
+		value=-6
+		level=2
+	}
+	MJP=
+	{
+		value=0
+		level=2
+	}
+	MLC=
+	{
+		value=0
+		level=2
+	}
+	MPA=
+	{
+		value=0
+		level=2
+	}
+	MPC=
+	{
+		value=0
+		level=2
+	}
+	MUS=
+	{
+		value=0
+		level=2
+	}
+	NAP=
+	{
+		value=-8
+		level=2
+	}
+	NAV=
+	{
+		value=0
+		level=2
+	}
+	NEW=
+	{
+		value=0
+		level=2
+	}
+	NOR=
+	{
+		value=-40
+		level=2
+	}
+	NVK=
+	{
+		value=0
+		level=2
+	}
+	NZL=
+	{
+		value=-3
+		level=2
+	}
+	PAP=
+	{
+		value=0
+		level=2
+	}
+	PEU=
+	{
+		value=-3
+		level=2
+	}
+	QOM=
+	{
+		value=0
+		level=2
+	}
+	SCO=
+	{
+		value=0
+		level=2
+	}
+	SIA=
+	{
+		value=0
+		level=2
+	}
+	SWE=
+	{
+		value=0
+		level=2
+	}
+	TDO=
+	{
+		value=0
+		level=2
+	}
+	TON=
+	{
+		value=-3
+		level=2
+	}
+	UCA=
+	{
+		value=-9
+		level=2
+	}
+	USA=
+	{
+		value=0
+		level=2
+	}
+	VEN=
+	{
+		value=0
+		level=2
+	}
+	X00=
+	{
+		value=-9
+		level=2
+	}
+	X01=
+	{
+		value=0
+		level=2
+	}
+	X02=
+	{
+		value=0
+		level=2
+	}
+	X03=
+	{
+		value=82
+		level=2
+	}
+	X04=
+	{
+		value=0
+		level=2
+	}
+	X05=
+	{
+		value=-37
+		level=2
+	}
+	X06=
+	{
+		value=0
+		level=2
+	}
+	X07=
+	{
+		value=0
+		level=2
+	}
+	X08=
+	{
+		value=0
+		level=2
+	}
+	X09=
+	{
+		value=0
+		level=2
+	}
+	X11=
+	{
+		value=0
+		level=2
+	}
+	X12=
+	{
+		value=47
+		level=2
+	}
+	X13=
+	{
+		value=0
+		level=2
+	}
+	X14=
+	{
+		value=0
+		level=2
+	}
+	X17=
+	{
+		value=0
+		level=2
+	}
+	X18=
+	{
+		value=-3
+		level=2
+	}
+	X19=
+	{
+		value=0
+		level=2
+	}
+	X21=
+	{
+		value=0
+		level=2
+	}
+	X22=
+	{
+		value=0
+		level=2
+	}
+	X23=
+	{
+		value=-13
+		level=2
+	}
+	X24=
+	{
+		value=0
+		level=2
+	}
+	X25=
+	{
+		value=0
+		level=2
+	}
+	X27=
+	{
+		value=-44
+		level=2
+	}
+	X28=
+	{
+		value=0
+		level=2
+	}
+	X29=
+	{
+		value=-11
+		level=2
+	}
+	X30=
+	{
+		value=18
+		level=2
+	}
+	X31=
+	{
+		value=73
+		level=2
+	}
+	X32=
+	{
+		value=-332
+		level=2
+	}
+	X33=
+	{
+		value=0
+		level=2
+	}
+	X35=
+	{
+		value=-85
+		level=2
+	}
+	X36=
+	{
+		value=-115
+		level=2
+	}
+	X37=
+	{
+		value=24
+		level=2
+	}
+	X38=
+	{
+		value=0
+		level=2
+	}
+	X39=
+	{
+		value=0
+		level=2
+	}
+	X40=
+	{
+		value=0
+		level=2
+	}
+	X41=
+	{
+		value=0
+		level=2
+	}
+	X42=
+	{
+		value=-4
+		level=2
+	}
+	X43=
+	{
+		value=-13
+		level=2
+	}
+	X44=
+	{
+		value=-4
+		level=2
+	}
+	X45=
+	{
+		value=-3
+		level=2
+	}
+	X46=
+	{
+		value=0
+		level=2
+	}
+	X47=
+	{
+		value=-6
+		level=2
+	}
+	X48=
+	{
+		value=-8
+		level=2
+	}
+	ZNI=
+	{
+		value=-1
+		level=2
+	}
+
+#Leaders
+
+#Armies
+navy = {
+	name="6th Fleet"
+	location=539
+	ship = {
+		name="1st Emden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zwolle Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Emden Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Caen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bremen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Emden Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armee von Naskapi"
+	location=581
+	regiment = {
+		name="1st Giessen Infantry"
+		type=infantry
+		home=567
+	}
+	regiment = {
+		name="1st Münster Infantry"
+		type=infantry
+		home=581
+	}
+	regiment = {
+		name="1st Emden Infantry"
+		type=infantry
+		home=543
+	}
+	regiment = {
+		name="1st Koblenz Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="1st Dortmund Artillery"
+		type=artillery
+		home=580
+	}
+	regiment = {
+		name="1st Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="1st Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="2nd Münster Infantry"
+		type=infantry
+		home=581
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=539
+	ship = {
+		name="1st Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zwolle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sligo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Emden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amsterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bremen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Emden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arnhem Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bremen Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armee von Hoya"
+	location=384
+	regiment = {
+		name="1st Dortmund Infantry"
+		type=infantry
+		home=580
+	}
+	regiment = {
+		name="1st Brussels Infantry"
+		type=infantry
+		home=387
+	}
+	regiment = {
+		name="1st Bremen Infantry"
+		type=infantry
+		home=539
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="2nd Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="1st Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+	regiment = {
+		name="1st Lingen Artillery"
+		type=artillery
+		home=542
+	}
+	regiment = {
+		name="1st Groningen Infantry"
+		type=infantry
+		home=383
+	}
+	regiment = {
+		name="1st Dortmund Cavalry"
+		type=cavalry
+		home=580
+	}
+	regiment = {
+		name="2nd Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2729
+	ship = {
+		name="2nd Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bremen Frigate"
+		type=frigate
+	}
+}
+

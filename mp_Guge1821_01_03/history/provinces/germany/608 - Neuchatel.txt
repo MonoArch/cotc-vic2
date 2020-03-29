@@ -1,0 +1,9 @@
+owner=X00
+controller=X00
+add_core=X00
+add_core=X29
+add_core=FRA
+add_core=HRE
+trade_goods = coal
+life_rating = 40
+terrain = mountain

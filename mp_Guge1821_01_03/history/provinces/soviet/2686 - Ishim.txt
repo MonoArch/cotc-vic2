@@ -1,0 +1,8 @@
+owner=X19
+controller=X19
+add_core=X19
+add_core=MGL
+add_core=KHA
+trade_goods = sulphur
+life_rating = 35
+terrain = forest

@@ -1,0 +1,563 @@
+1723 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=3174
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=233
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=76
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=12
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=73
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=53097
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=2523
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=3836
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=1247
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=201
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=182
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=1208
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size=35852
+	}
+
+}
+2204 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=3174
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=233
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=76
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=12
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=11
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=73
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=53097
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=2523
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=3836
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=1247
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=201
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=182
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=1208
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size=35852
+	}
+
+}
+2205 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=344
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=16876
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=1651
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=4142
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=385
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=62
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=33
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=497
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size=75777
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = protestant
+		size=812
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = protestant
+		size=15509
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = protestant
+		size=1440
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = protestant
+		size=233
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = protestant
+		size=122
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = protestant
+		size=1861
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = protestant
+		size=20620
+	}
+
+}
+2206 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=1033
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=258
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=42
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=14
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=7
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=54
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=47565
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=672
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=3044
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=495
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=160
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=84
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=639
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size=28488
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size=1424
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size=381
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size=62
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=20
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size=10
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size=80
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size=69199
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = catholic
+		size=45
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = catholic
+		size=135
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = catholic
+		size=22
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=7
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = catholic
+		size=4
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = catholic
+		size=28
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = catholic
+		size=1985
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size=952
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size=4323
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size=703
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size=227
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size=119
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size=908
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size=40354
+	}
+
+}

@@ -1,0 +1,10 @@
+owner=X23
+controller=X23
+add_core=AUS
+add_core=VEN
+add_core=X23
+add_core=GER
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = hills

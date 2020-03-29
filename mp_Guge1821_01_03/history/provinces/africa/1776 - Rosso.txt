@@ -1,0 +1,7 @@
+owner=CST
+controller=CST
+trade_goods = wool
+life_rating = 15
+terrain = plains
+colonial=2
+naval_base = 1

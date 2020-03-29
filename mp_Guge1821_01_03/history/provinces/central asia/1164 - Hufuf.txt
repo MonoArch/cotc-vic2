@@ -1,0 +1,9 @@
+owner=EGY
+controller=EGY
+add_core=X20
+add_core=MGL
+add_core=KHA
+trade_goods = grain
+life_rating = 35
+terrain = desert
+colonial=2

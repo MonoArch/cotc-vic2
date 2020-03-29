@@ -1,0 +1,10 @@
+owner=MEC
+controller=MEC
+add_core=DEN
+add_core=MEC
+add_core=SCA
+add_core=HRE
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 1

@@ -1,0 +1,7 @@
+owner=UCA
+controller=UCA
+add_core=UCA
+trade_goods = grain
+life_rating = 35
+terrain = farmlands
+naval_base = 1

@@ -1,0 +1,8 @@
+owner=GUG
+controller=GUG
+add_core=GUG
+add_core=IDO
+trade_goods = grain
+life_rating = 30
+terrain = jungle
+naval_base = 1

@@ -1,0 +1,26 @@
+owner=EGY
+controller=EGY
+add_core=EGY
+add_core=GRE
+trade_goods = grain
+life_rating = 35
+terrain = hills
+naval_base = 1
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}
