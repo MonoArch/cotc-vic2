@@ -1,4 +1,4 @@
-graphical_culture = UsGC
+graphical_culture = BritishGC
 color = { 155 110 48 }
 
 party = {

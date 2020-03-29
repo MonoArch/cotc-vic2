@@ -1006,9 +1006,46 @@ french = {
 	}
 	occitan = {
 		color = {120 120 200}
-		first_names = { Aimerics Albert Ancelmes Azemars Bertrans Donat  Dragonetz Espargs Estève  Garcias Gaston Gaucelis Gautiers Girauds Guilheiumes Guinsestre Guiraut Jaques Jaufres Joan  Josèp  Loís  Maria  Michels Pau  Pelfort Pèire Rainaut Ratiers Rauli Sevis Sicart Ugos }
+		first_names = {
+			Alaric Albèrt Armand Astier Antòni Alberic Anfòs Amalric
+			Brut Bernat Bonifaci Blasi Benjami Bonaventura Brunò
+			Centolh Carles Claudi
+			Davi Deodat Durandus
+			Estève Edoard Enric Eugèni
+			Frédéric Fèliç Fabian Felip Filipot Folc
+			Guilhèm Gabriel Guilabert Guirat Grifon Galhardus Gregòri
+			Juli Joan Josép
+			Lop Loís Luc Laurenç
+			Miquel Matfre Manual Maurici
+			Pèire
+			Rafaèl Raimond Robèrt
+			Segui Savarics
+			Tièrri Thomé Tibèri
+			Uc
+			Victor
+			Zefirin
+		}
 		last_names = {
-"d'Alfar" "de Carro" "de Caus" "de Cumenge" "de Gordo" "de la Mota" "de Montagut" "de Recaut" "de Vezis" Alamant Azalbertz Caldairo Cardenals Catz Caudaro Claris Espaza Jordas Lomanhes Martis Palomer Pan Peire Rabastens Romeus Rossilhon Soler Tezis Topina Unaut }
+			Auriacombe Azémar Alard Andéol "d'Aorlhac" Anouilh Atonis "d'Arbocava"
+			Bédard Borel Bourdil Betbeder Bastiat Barrièra "del Bocau" Bonassa Botas "de la Belenchia" Baudrier
+			Cantat Carat "de Castèths" Cazalet Correjas Chapduelh Costa Corneille Coral Cabanis Cathena
+			Delprat Daval
+			Estanguet Esquiròl "d'Eschirpel" Escrivan
+			Ferrer Fontan Fréchin Fumat
+			Garchot Girnaut Gabard "de Gassion" Goldet Gudin Guignebert Gonzales "de Gots" Giraudo "de Galhèra" Godolin
+			Hugonis Houzelot
+			"d'Ishós"
+			Jaures Jaureguiberry
+			Lapeyre Lassus Lebas Lhande Louit Lacrabère Latas Laneria "de Linça"
+			Mihasserius "de Mimbasta" Mazet "de Montuèg" Massard Maunas Miot Morlaes Moudenc Milheyrol "de Maruèlh" Mynhot "de Massanjas"
+			Olharan Odonis "d'Ondres"
+			Pinso Palasset Peyrouton Picaper Piteu Poeymirau Pinel Petitaut
+			Rival Rosson "de Rambert"
+			Saimbert Sarraut "de Salanovat" Sarrieu "de Severac" Sicre "de Segret" "de Sindèras" "de Sent Pandelon" "de Sirvento" "de Samadèth"
+			Tisiot "de Temloat" Turpin Thibaud Trutat
+			"d'Urgons"
+			Viaule "de Vilanava" Varrod Verdenal Verdier Viard Veirièr
+		}
 	}
 	picard = { 
     	color = {100 110 136}
