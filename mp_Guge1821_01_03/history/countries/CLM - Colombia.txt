@@ -1,5 +1,5 @@
 capital=2276
-primary_culture = scottish
+primary_culture = caledonian
 culture = welsh
 religion = protestant
 government = presidential_dictatorship

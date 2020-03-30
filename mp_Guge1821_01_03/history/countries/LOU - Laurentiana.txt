@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
 
-ruling_party=QUE_conservative
+ruling_party=LOU_conservative
 upper_house=
 {
 	fascist = 0

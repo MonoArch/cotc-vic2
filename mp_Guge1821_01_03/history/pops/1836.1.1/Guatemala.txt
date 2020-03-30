@@ -99,49 +99,49 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=11062
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=35802
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=5171
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=557
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=756
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=3342
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=140852
 	}
@@ -441,49 +441,49 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=188
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=4400
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=318
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=68
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=54
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=411
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = mejican
 		religion = catholic
 		size=3984
 	}

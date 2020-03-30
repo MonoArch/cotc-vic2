@@ -295,63 +295,63 @@
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=2126
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=35834
 	}
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=5302
 	}
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=18436
 	}
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=955
 	}
 
 	bureaucrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=133
 	}
 
 	officers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=212
 	}
 
 	aristocrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=1114
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=68394
 	}
@@ -365,7 +365,7 @@
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = jewish
 		size=135
 	}
@@ -473,98 +473,98 @@
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=387
 	}
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=138
 	}
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=43
 	}
 
 	bureaucrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=6
 	}
 
 	officers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=5
 	}
 
 	aristocrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=52
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=18780
 	}
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=142
 	}
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=457
 	}
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=143
 	}
 
 	bureaucrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=21
 	}
 
 	officers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=17
 	}
 
 	aristocrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=173
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=5845
 	}
@@ -578,7 +578,7 @@
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = jewish
 		size=9
 	}
@@ -592,14 +592,14 @@
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = jewish
 		size=481
 	}
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = jewish
 		size=9
 	}
@@ -613,7 +613,7 @@
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = jewish
 		size=164
 	}
@@ -721,98 +721,98 @@
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=393
 	}
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=249
 	}
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=45
 	}
 
 	bureaucrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=6
 	}
 
 	officers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=5
 	}
 
 	aristocrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=52
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = catholic
 		size=18904
 	}
 
 	soldiers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=144
 	}
 
 	artisans=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=826
 	}
 
 	clergymen=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=149
 	}
 
 	bureaucrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=21
 	}
 
 	officers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=17
 	}
 
 	aristocrats=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=173
 	}
 
 	farmers=
 	{
-		culture = no_culture
+		culture = bohemian
 		religion = protestant
 		size=5883
 	}

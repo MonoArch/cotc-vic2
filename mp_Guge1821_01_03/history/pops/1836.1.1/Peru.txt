@@ -64,49 +64,49 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=47
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=652
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=106
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=20
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=137
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=1362
 	}
@@ -1447,91 +1447,91 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=34
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=1518
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=70
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=13
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=12
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = catholic
 		size=91
 	}
 
 	soldiers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=850
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=14812
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=688
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=127
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=116
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=889
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=24995
 	}
@@ -2332,49 +2332,49 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=75
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=419
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=68
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=13
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=12
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=88
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=3064
 	}
@@ -2481,49 +2481,49 @@
 
 	soldiers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=499
 	}
 
 	artisans=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=2909
 	}
 
 	clergymen=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=473
 	}
 
 	bureaucrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=87
 	}
 
 	officers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=80
 	}
 
 	aristocrats=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=611
 	}
 
 	farmers=
 	{
-		culture = occitan
+		culture = perovian
 		religion = protestant
 		size=20314
 	}
