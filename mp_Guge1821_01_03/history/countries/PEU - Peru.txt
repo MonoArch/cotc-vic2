@@ -1,5 +1,5 @@
 capital=2299
-primary_culture = occitan
+primary_culture = perovian
 culture = aimara
 culture = quechua
 religion = protestant
@@ -7,6 +7,7 @@ government = absolute_monarchy
 plurality=0.000000
 nationalvalue=nv_order
 literacy=0.304018
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

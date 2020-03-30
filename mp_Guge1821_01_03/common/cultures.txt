@@ -1080,8 +1080,181 @@ french = {
 		
 		last_names = { "de Narbonne" "de Bourgogne-Comté" "de l'Aigle" "de Flotte" "de Vendome" "de Champagne" "de Namur" "de Bissy" "d'Eu" "von Margrave" "du Perche" "de Boulogne" "Puy du Fou" "de Preuilly" "de Salins" "d'Oisy" "de Barthe" "de Fezensac" "de Boisrobert" "de Bourbon" "d'Angoulême" "de Guyenne" "Le Tellier" "de Talleyrand" "de Batarnay" "de Beaumont-au-Maine" "de Hainaut" "de Crecy" "de Bellegarde" "de St. Hilary" "d'Aubigny" "de Albemarle" "de Verre" "d'Évreux" "de Blundeville" "de Mellent" "de Baalun" "de Vernon" Estouteville "de Vexin-Amiens" "de Tilly" }
 	}
-	union = FRA
+	#union = FRA # ABSOLUTELY NOT
+}
+
+aquitano-american_cultures = {
+	leader = southamerican
+	unit = UsGC
+	is_overseas = no
 	
+	mejican = {
+		color = { 211  230  211 }
+		
+		first_names = {
+			Agricola Alexandre Andrieu
+			Benjami
+			Estève Enric
+			Gedeó
+			Marc Marcel
+			Porfiri
+			Saturnin
+		}
+		last_names = {
+			Arbert Arámbula Aillaud Arenas Arribagé Azza
+			Boyer Baup Bayrou Benezech Bardou Baraffe Batmale
+			Cilsia Comonfort Cahuzac Courbis Casanova Camarata Cros
+			Derbez Dulché Dias Daho
+			Enée
+			Flamand Farías Fascinati Frey
+			Goupil Grobet Giresse
+			Huet Herrán
+			Ixtlilxóchitl
+			Jeandupeux
+			Lhuillier Lavana Lacombe Lanfranchi
+			Nouzaret
+			Ocelotl
+			Pujol Puig
+			Riou
+			Savignac
+			Troconis Tlacaelel Tlacotzin Tizoc
+			Vignal Vidal
+			Xicoténcatl
+			Zatelli
+		}
+	}
+	llorencianes = { # "Laurentianan", "Llorençianès", Catalan-derived
+		color = { 144  52  53 }
+	
+		first_names = {
+			Ambròs Adrià Alexandre August Antoní Aleix Amador Alfons Áureo Arseni
+			Bonifaci Benet Bartomeu
+			Constanti Climent Claudi Constant Carles
+			Dionís Deodat
+			Esteve Eusebi
+			Fèlix Francesc Felip
+			Gregori Gaspar
+			Honori
+			Isaac
+			Joan Juli Justí Jeremies Josep
+			Llorenc Lleó Lluís Llisard 
+			Marc Marcel Marí Manuel Miquel Matías
+			Nicolau 
+			Pasqual Pau Pere
+			Romà Roderic René
+			Silvestre Sergi Septimi Sanç
+			Teodor
+			Victor Vicenç
+			Zacaries
+		}
+		last_names = {
+			Aguirreche Almasqué Arillaga
+			Bargunyó Brutau Bru
+			Cabot Cruzate Cenarro Calvet Comamala
+			Ducay Domènech Deladerrière
+			Errea Espelta
+			Faures Falomir Fenouillère
+			Gamper Grenzner Garriga Gass Girvan Graell Goenaga
+			Janer Jorró
+			Llopet Lassaleta Lomba Larrata Lizárraga Laporta Llonch
+			Munner Mussons Mundet
+			Neves
+			"d'Ossó" "de Olea"
+			Pujol Picabea Pons Pidelaserra Perrín Pattullo Puigvert Puelles Pàmies Padró Peris
+			Quirante
+			Reig Ribas Roldós Roig Rodon Renyé
+			Sanz
+			Terradas
+			Vidal "de Vargas"
+			Zeuner
+		}
+	}
+	antilhan = {
+		color = { 211  230  211 }
+		
+		first_names = {
+			Agricola Anfós Alexandre Antoni August Andreu Arnaut
+			Benjami Bernat Baudoin Bartoumiéu
+			Carles Conrad Centolh Claudi
+			Davi Dionisi
+			Enric Eudes Edoard Estève Eugeni Érembert
+			Francés Felip Felix Fredol Fernand Folc Filipot
+			Gedeó Guilhem Garcia Gerard Gui Gilbert Gregori Gaston
+			Isidor
+			Jordi Jaufré Joan Josep Jovin Juli Julian
+			Loís Lop Leon Laurenç
+			Magnus Miquel Marc Manases Martin Matfre Marçau
+			Nicetius Nicolau
+			Oton
+			Porfiri Ponç Pepin Peire Pascau Pau
+			Raimon Ricard Ramnulf Rainolf Raolf Renat Rogier
+			Simon Savarics Segui Severin Sergi Sever Sicard
+			Tibaud Teodor Thomé Tiberi Teofil
+			Uc
+			Vicenç Victor 
+			Xavier
+			Zacarias Zefirin
+		}
+		last_names = {
+			Aigret Arnoux Arzac Amilhau
+			Bacardi "del Baye" "de Bellegarde" Bories Barthélemy
+			Cilsia Carpentier Cabanis Cailhassou Castelbou Coumoul Cartailhac
+			Demouis Dubourg
+			Espín Ebelot Enjabert
+			Ferrand Ferradou Fornier Fourtanier Filhol Féral Feuga
+			Gardon Groussac Gounon Gatien
+			Huc "d'Hargenvilliers"
+			Joly
+			Lanneluc Lignières Labéda
+			Milhes "de Malaret" "de Montbel"
+			Nin
+			Ournac
+			Poey Pellet Perpessac
+			Roussillou Rességuier Rolland Roquelaine
+			Sans Sirven Serres Senderens
+			Thoron Tranier Trutat
+			Vaillant Vaisse "de Villèle" Viguerie Valette
+		}
+	}
+	perovian = {
+		color = { 211  230  211 }
+		
+		first_names = {
+			Andrieu
+			Benjami
+			Carles
+			Didacus
+			Gedeó
+			Miquel Marc
+			Porfiri
+		}
+		last_names = {
+			Abeyta Apparici Alpont Alpicat Arinyo Abella Agramunt
+			Betancur Bastidas Badia Baç Baldovi Ballester Barcelo Beltran Beneyto Boix Blasquo Bonencontre Borrell
+			Condorcanqui Chihuán Canas Chambi Cusihuamán Coya Camarasa Çapena Capdavall Cantyecani Caro Carrasca Cevil Cirerol Coll Corts Costa
+			Delaraz Desaja Diez Dolç Domenech Doscets
+			Equal Enrich Enyego Eximeno Exulbi
+			Fores Faber Faus Feliu Franch Fuster 
+			Gilabert Gaçull Galceran Garcia Genoves Gil Gopart Gomar Gorriz Granyana Grimalt Grus Gualbes Guitard Gusquert
+			Humala Huaracina Hulla Heredia
+			Jençor Jovera Jeroni Jusa
+			Loret Laroxi Lati Laneres Liaga Listeri Litta Lobet Lunes
+			Maçana Macia Macip Maldonado Malet Mallorqui Mantell Marçal Marruhan Masquarell Masqueffa Massa Mayiques Mejor Molina Moia Miro Miranda Monfort Montagut Monyoz Muxolo
+			Navarro Nomdedeu Nogueroles Nusta
+			Ones Oller Obeyt Oro Orleus Orti Ortola
+			Puyucahua Poma Pumaqallo Pelegri Paella Pallas Palou Parduta Pavia Penca Penyafel Perales Peralta Periz Perpinya Pexo Pla Pont Polea Portrixo Prats Proheça Prohençal Prunyol Pugalt Pujol
+			Quispe Queralt Quexans Quilis
+			Raffalbes Raiadell Rausell Ravalquel Rescas Ribalta Ribot Ricart Rius Roig Rojals Romeu Ronquales Roqua Rovell Royo Ruvio
+			Salavert Salelles Salat Salzedo Sanctes Sandoval Sarçola Scifo Scardo Scuder Scobar Sequedos Sentjust Sentfeliu Sentangel Sentafe Sentapau Seriol Sisperes Sicara Sivilla Sola Spannoxi Speja Sperandreu Spinal Squiu Stalrich Struç
+			Thovia Tungasuca Tello Tabiols Taix Tapiol Tarasch Tardiu Tarradel Techa Tedell Tedeu Terol Terres Texidor Thous Tolza Torrell Trills Trullat Trullols
+			Usquionsa Ugard Ullal Ursell
+			Vilcamayu Valent Valençola Vallat Valleriola Valls Vatlejo Vedella Vega Vela Vendrell Verdalba Verdeguer Verdesilla Vernegal Vernich Vervays Vich Viciat Vidal Vilar Vilardell Vilarnau Vinadera Visaull Volta
+			Xereço
+			Yupanqui Ysert
+			Zeliza
+		}
+	}
+	# TODO: Add Afro-Occitan in african diaspora
 }
 
 south_slavic = {

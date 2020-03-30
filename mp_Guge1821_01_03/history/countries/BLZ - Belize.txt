@@ -1,5 +1,5 @@
 capital=2186
-primary_culture = occitan
+primary_culture = mejican
 religion = catholic
 government = presidential_dictatorship
 plurality=0.000000
