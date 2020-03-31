@@ -530,20 +530,20 @@
 
 #Armies
 navy = {
-	name="3rd Fleet"
+	name="Royal Navy"
 	location=203
 	ship = {
-		name="1st Bermuda Frigate"
+		name="Antelope"
 		type=frigate
 	}
 	ship = {
-		name="2nd Bermuda Frigate"
+		name="St. George"
 		type=frigate
 	}
 }
 
 army = {
-	name="2nd Army"
+	name="Royal Army"
 	location=203
 	regiment = {
 		name="1st Bermuda Infantry"
@@ -558,15 +558,14 @@ army = {
 }
 
 navy = {
-	name="2nd Fleet"
+	name="Royal Transport Fleet"
 	location=203
 	ship = {
-		name="1st Bermuda Clipper Transport"
+		name="Lady of Hamtilton"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bermuda Clipper Transport"
+		name="Lady of Warwick"
 		type=clipper_transport
 	}
 }
-

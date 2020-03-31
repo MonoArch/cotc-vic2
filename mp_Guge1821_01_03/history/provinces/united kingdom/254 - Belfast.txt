@@ -2,7 +2,6 @@ owner=X01
 controller=X01
 add_core=X01
 add_core=SCO
-add_core=ENG
 add_core=IRE
 trade_goods = cattle
 life_rating = 35

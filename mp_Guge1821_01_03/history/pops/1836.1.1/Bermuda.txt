@@ -17,35 +17,35 @@
 	{
 		culture = english
 		religion = protestant
-		size=1561
+		size=1919
 	}
 
 	artisans=
 	{
 		culture = english
 		religion = protestant
-		size=5094
+		size=13406
 	}
 
 	clergymen=
 	{
 		culture = english
 		religion = protestant
-		size=408
+		size=665
 	}
 
 	bureaucrats=
 	{
 		culture = english
 		religion = protestant
-		size=68
+		size=179
 	}
 
 	officers=
 	{
 		culture = english
 		religion = protestant
-		size=45
+		size=1251
 	}
 
 	aristocrats=
@@ -59,56 +59,6 @@
 	{
 		culture = english
 		religion = protestant
-		size=70421
+		size=78004
 	}
-
-	soldiers=
-	{
-		culture = yankee
-		religion = protestant
-		size=358
-	}
-
-	artisans=
-	{
-		culture = yankee
-		religion = protestant
-		size=8312
-	}
-
-	clergymen=
-	{
-		culture = yankee
-		religion = protestant
-		size=665
-	}
-
-	bureaucrats=
-	{
-		culture = yankee
-		religion = protestant
-		size=111
-	}
-
-	officers=
-	{
-		culture = yankee
-		religion = protestant
-		size=74
-	}
-
-	aristocrats=
-	{
-		culture = yankee
-		religion = protestant
-		size=776
-	}
-
-	farmers=
-	{
-		culture = yankee
-		religion = protestant
-		size=7583
-	}
-
 }

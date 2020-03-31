@@ -474,17 +474,53 @@ british = {
 	english = {
 		color = { 220 100 100}
 
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		first_names = { 
+			Algernon Alexander Albert Alfred Andrew August Archibald Ambrose Anthony Arthur
+			Bartholomew Benjamin Benedict Beauchamp
+			Charles Constantine Cecil Christian Chistopher Cuthbert Coleridge
+			Daniel David
+			Edward Edmund Edwin Edgar Everard
+			Frederick Francis
+			George Garnet Gregory Gereint Gideon Gonville Gerald
+			Harold Henry Hubert Herbert Hugh Harcourt Hector
+			Isambard
+			John James Joshua Justin Julius
+			Laurence Luke Layton
+			Marmaduke Michael Mark Matthew Maurice
+			Neville Nicholas Nathaniel Nigel
+			Oliver
+			Peter Paul Patrick Percival
+			Roger Richard Robert Reginald Redvers
+			Stephen Simon Samuel Sackville Solomon Sylvester
+			Thomas Theodore Tristan Tasker Teignmouth
+			Victor Vaughan
+			William Winston Wyatt Walter
+			Zachary
+		}
 		
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill
-		Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery
-		Moresby Mundy Napier Odoni "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+		last_names = { 
+			Allemby Anderson Austen Allan Arbuthnot Alderson Ardagh Asser
+			Bromhead Bell Browne Black Barter Barker Booth Buller Bengough Beresford Byng Baring Barlow Blakeney Blenkinsop Boisragon Broadwood Bulkeley Butler Byrne Brocklehurst
+			Chard Clarkson Cushing Chelmsford Clery Curling Cobbe Coghill Cooper Collins Cromer Cox Cubitt Capper Chermside Clayton Colvile Compton Corkran Crabbe
+			Degacher Dalton Davies Doughty Darcy Daly Dyer Dawson Dickson Doran Durrant
+			East Elles Earle Edwards
+			Fynn Fuller Fletcher Fleming French Fowler FitzClarence FitzHugh Fremantle
+			Godwin Gifford Green Grant Gilbert Gascoigne Gatacre Gordon Grenfell Groce
+			Hammond Henderson Hitch Hicks Hook Haig Hill Hackett Hakeswill Haking Hamilton Holt Harrison Hatton Heath Holt Hoskins Hunter Hutton
+			Irwin
+			Jameson Jellicoe Johnson Jones Jeffreys
+			Kekewich Kelly Kitchener
+			Lewis Leet Lysons Lyon Lockhart Lowe Lugard Lennon Landon Lawson Leach Little Loch Lyttelton
+			May Mitchell Mevill Murphy Madden Myles Monger Marling Marshall Maxse Maxwell Milne Morgan
+			Ogilvy Oliphant
+			Plummer Parsons Prendergast Pringle Pepper Pease Palmer Parker Peyton Pritchard Proby Parr
+			Rowlands Reynolds Renny Russell Rawlinson Rhodes Riley Ritchie Robb Rochfort Rundle
+			Shaftoe Spalding Shields Smith Symons Sullivan Starkey Sandilands Sclater Seymour Shute Shaw Snow Stephenson Stewart Stopford
+			Thompson Tailyour Taylor Temple Templeton Tight Townshend Tuson Talbot Thesiger Trotter
+			Villiers
+			Wolseley Waterhouse Williams White Watkins Wylie Weale Waring Wassall Willcocks Wilson Wrey Wilkinson Willis Wingate Wood Wynne Wauchope
+			Younghusband Young Yelverton
+		}
 	}
 	irish = { 
 		color = { 35 140 50}
@@ -1140,29 +1176,37 @@ aquitano-american_cultures = {
 		color = { 92 224 244 }
 		
 		first_names = {
-			Agricola Alexandre Andrieu
-			Benjami
-			Estève Enric
-			Gedeó
-			Marc Marcel
-			Porfiri
-			Saturnin
+			Agricola Alexandre Andrieu Armand Austau Antòni
+			Benjami Bernard Bertran Bonafós
+			Claudi Carles Clamenç
+			Dalfin
+			Estève Enric Eble Elias
+			Fabian Francés Felip
+			Gui Guiraut Garin Guilhèm
+			Joan Jaufré Josèp
+			Luc
+			Marc Marcel Marcabrun
+			Porfiri Pèire Pau Ponç Peiròl
+			Raimond Ramon
+			Saturnin 
+			Uc
+			Victor
 		}
 		last_names = {
 			Arbert Arámbula Aillaud Arenas Arribagé Azza
 			Boyer Baup Bayrou Benezech Bardou Baraffe Batmale
 			Cilsia Comonfort Cahuzac Courbis Casanova Camarata Cros
-			Derbez Dulché Dias Daho
+			Derbez Dulché Dias Delavoët Daho
 			Enée
 			Flamand Farías Fascinati Frey
-			Goupil Grobet Giresse
+			Goupil Grobet Giresse Goulard
 			Huet Herrán
 			Ixtlilxóchitl
 			Jeandupeux
 			Lhuillier Lavana Lacombe Lanfranchi
 			Nouzaret
 			Ocelotl
-			Pujol Puig
+			Pujol Puig Portal Pessamessa
 			Riou
 			Savignac
 			Troconis Tlacaelel Tlacotzin Tizoc
@@ -1196,24 +1240,26 @@ aquitano-american_cultures = {
 			Zacaries
 		}
 		last_names = {
-			Aguirreche Almasqué Arillaga
-			Bargunyó Brutau Bru
-			Cabot Cruzate Cenarro Calvet Comamala
-			Ducay Domènech Deladerrière
-			Errea Espelta
-			Faures Falomir Fenouillère
-			Gamper Grenzner Garriga Gass Girvan Graell Goenaga
-			Janer Jorró
-			Llopet Lassaleta Lomba Larrata Lizárraga Laporta Llonch
-			Munner Mussons Mundet
-			Neves
-			"d'Ossó" "de Olea"
-			Pujol Picabea Pons Pidelaserra Perrín Pattullo Puigvert Puelles Pàmies Padró Peris
-			Quirante
-			Reig Ribas Roldós Roig Rodon Renyé
-			Sanz
-			Terradas
-			Vidal "de Vargas"
+			Aguirreche Almasqué Arillaga Anouilh Astruc
+			Bargunyó Brutau Bru Babin Bardac Bayo Berquin Bichelonne Bonheur Brunet Buhan
+			Cabot Cruzate Cenarro Calvet Comamala Capdenat Castagnède Carrère Cayrol Cazeau Cessac Cruchet
+			Ducay Domènech Deladerrière Decrais Deluga Darracq Drouet Ducos Dupaty Dutriac
+			Errea Espelta Ellul Etchebest Enjabert
+			Faures Falomir Fenouillère Fader Fonfrède Fourcade Fournet
+			Gamper Grenzner Garriga Gass Girvan Graell Goenaga Garat Gaviniès Gillet Gosse Grech
+			Hennequin
+			Janer Jorró Jacquier Jautard Justamant Juzeau
+			Kergomard
+			Llopet Lassaleta Lomba Larrata Lizárraga Laporta Llonch Laclotte Lacour Lacuey Lafont Laparra Louvigny
+			Munner Mussons Mundet Machenald Malbert Marquet  Marrot Mauriac Mendès Monplasir Morin
+			Neves Nouguès Moulens Mouvian
+			Odin "d'Ossó" "de Olea" Orcibal Oliver
+			Pujol Picabea Pons Pidelaserra Perrín Pattullo Puigvert Puelles Pàmies Padró Peris Péringuey Pintat Pitres Pitrot Pon
+			Quirante Quinsac
+			Reig Ribas Roldós Roig Rodon Renyé Ravel Raynal Redon Rigo Roche Rode
+			Sanz Sarraut Sirieix Steyaert Strobel Suffran
+			Terradas Taffanel Talazac
+			Vidal "de Vargas" Vernet
 			Zeuner
 		}
 	}

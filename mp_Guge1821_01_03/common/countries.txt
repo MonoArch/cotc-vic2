@@ -831,6 +831,7 @@ ZBW = "countries/Zimbabwe.txt"
 ZIM = "countries/Mutapa.txt"
 ZNI = "countries/Zuni.txt"
 ZUL = "countries/Zulu.txt"
+GBR = "countries/Bermuda.txt"
 
 ##HoD Dominions
 dynamic_tags = yes # any tags after this is considered dynamic dominions

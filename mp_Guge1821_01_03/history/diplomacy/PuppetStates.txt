@@ -65,7 +65,7 @@ vassal=
 vassal=
 {
 	first="X00"
-	second="ENG"
+	second="GBR"
 	start_date="1734.12.2"
 	end_date="1936.1.1"
 }
