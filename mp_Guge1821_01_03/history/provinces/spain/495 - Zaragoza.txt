@@ -1,5 +1,6 @@
-owner=CST
-controller=CST
+owner=X00
+controller=X00
+add_core = X00
 add_core=SPA
 trade_goods = grain
 life_rating = 35

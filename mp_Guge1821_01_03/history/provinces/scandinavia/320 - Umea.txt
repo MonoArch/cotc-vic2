@@ -1,5 +1,6 @@
-owner=NOR
-controller=NOR
+owner=X27
+controller=X27
+add_core = X27
 add_core=NOR
 add_core=SWE
 add_core=SCA

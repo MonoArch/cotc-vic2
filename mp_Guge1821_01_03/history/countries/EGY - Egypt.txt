@@ -1,11 +1,13 @@
 capital=1745
 primary_culture = polish
-culture = czech
+culture = misri
+culture = mashriqi
+culture = turkish
 religion = catholic
 government = prussian_constitutionalism
 plurality=0.000000
 nationalvalue=nv_order
-literacy=0.564667
+literacy=0.56
 civilized=yes
 
 # Social Reforms

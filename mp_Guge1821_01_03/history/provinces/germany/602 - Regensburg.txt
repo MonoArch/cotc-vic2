@@ -1,6 +1,6 @@
-owner=X32
-controller=X32
-add_core=X32
+owner=BAV
+controller=BAV
+add_core=BAV
 add_core=GER
 add_core=HRE
 trade_goods = coal

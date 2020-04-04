@@ -1,6 +1,6 @@
-owner=X00
-controller=X00
-add_core=X00
+owner=CST
+controller=CST
+add_core=CST
 add_core=NAV
 add_core=SPA
 add_core=BSQ
