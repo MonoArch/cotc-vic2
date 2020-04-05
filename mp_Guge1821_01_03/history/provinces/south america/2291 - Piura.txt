@@ -1,6 +1,5 @@
 owner=X48
 controller=X48
-add_core=CLM
 add_core=X48
 add_core=MCA
 trade_goods = wool
