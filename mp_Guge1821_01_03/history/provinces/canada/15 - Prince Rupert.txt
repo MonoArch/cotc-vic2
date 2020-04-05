@@ -1,7 +1,6 @@
 owner=LSK
 controller=LSK
 add_core=LSK
-add_core=JAP
 trade_goods = timber
 life_rating = 35
 terrain = forest

@@ -1,7 +1,7 @@
 owner=X03
 controller=X03
 add_core=FRA
-add_core=BEL
+add_core=X03
 add_core=WLL
 add_core=HRE
 trade_goods = coal
