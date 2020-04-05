@@ -2369,6 +2369,31 @@ turko_semitic = {
 		}
 	}
 
+	catharian = {
+		color = {240 50 50}
+
+		first_names = { 
+			Abdullah Abdülhamid Abdülkerim Abdulrahim Ahmet Akif Ali Arif  
+			Bahaeddin Bekir Cemal Cevad Celaleddin Cevdet Davud Edhem Emin Enver  
+			Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev 
+			Ibrahim Iskender Ismet Izzet Kamil Kazïm Kemal Lütfi 
+			Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa  
+			Namïk Nazim Nurettin Nuri Numan Omar Osman  
+			Pertev Rauf Receb Rešad Refet Rïfat Rïza  
+			Sabahaddin Said Selim Ševket Šükrü Süleyman  
+			Talat Tevfik Vefik Yusuf Yunus Ziya Ziyaeddin 
+		}
+		
+		last_names = {
+			Akdag’ Akdog’u Akkaya Akkaš Akkïlïç Akköz Aktug’ Akyol Altïntop Avcï Aytimur Aziz Babalï Balbay Baykal
+			Bulut Burçak Binay Ceylan Demir Demirel Demirkol Deniz Dog’an Durak Dilmen Ekin Ercan Erdog’an Eren
+			Erentöz Erkin Ermiš Ertunç Estelik Güler Gümüš Gündog’an Gündüz Güney Güneš Güven Karan Kaya Korun
+			Koç Murat Nadir Nalci Nišanyan Onan Onay Sag’lam Sedef Selçuk Tandog’an Tašçï Tekin Terim Toraman
+			Turan Turgut Türkog’lu Yavuz Yašar Yener Yïldïrïm Yïldïz Yïlmaz Yüksel Çelik Çetin Çolak Çiller Öcalan
+			Örs Özbek Özbey Özcan Özer Özkan Öztürk Özil Ülker Inan Šaban Šelte Šen Jensinoglu
+		}
+	}
+
 }
 
 arab = {

@@ -1,8 +1,5 @@
 capital=214
-primary_culture = turkish
-culture = bedouin
-culture = mashriqi
-culture = misri
+primary_culture = catharian
 religion = cathar
 government = democracy
 plurality=0.000000
@@ -29,7 +26,7 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
 
-ruling_party=USA_liberal_2
+ruling_party=USA_conservative
 upper_house=
 {
 	fascist = 0

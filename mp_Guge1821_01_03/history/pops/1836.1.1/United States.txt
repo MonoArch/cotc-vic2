@@ -15664,49 +15664,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=51
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1221
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=198
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=52
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=34
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=257
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=741
 	}
@@ -15813,42 +15813,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=12
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=589
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=96
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=25
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=16
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=124
 	}
@@ -15990,42 +15990,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=7
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=580
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=94
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=25
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=16
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=122
 	}
@@ -16244,42 +16244,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=24
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1916
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=311
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=81
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=53
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=402
 	}
@@ -16740,49 +16740,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=112
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=746
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=121
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=32
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=157
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=4401
 	}
@@ -17015,49 +17015,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=871
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=25248
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2300
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=309
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=200
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1529
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14555
 	}
@@ -17078,7 +17078,7 @@
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = mormon
 		size=67
 	}
@@ -17106,7 +17106,7 @@
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = mormon
 		size=234
 	}
@@ -17155,7 +17155,7 @@
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = mormon
 		size=266
 	}
@@ -17204,7 +17204,7 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = mormon
 		size=42
 	}
@@ -17607,49 +17607,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=112
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=747
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=121
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=32
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=157
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=4098
 	}
@@ -17756,49 +17756,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=131
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=826
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=134
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=35
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=23
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=174
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5204
 	}
@@ -17970,49 +17970,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=518
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=13451
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1249
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=163
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=106
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=807
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=9621
 	}
@@ -18070,49 +18070,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=104
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=774
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=126
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=33
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=163
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3998
 	}
@@ -18284,49 +18284,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=85
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=734
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=119
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=31
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=20
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=154
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3084
 	}
@@ -18398,49 +18398,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=80
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=883
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=144
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=38
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=24
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=185
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2623
 	}
@@ -18512,49 +18512,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=52
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=827
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=134
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=35
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=23
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=174
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1333
 	}
@@ -18724,42 +18724,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=23
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=769
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=125
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=33
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=162
 	}
@@ -18845,49 +18845,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=227
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1968
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=320
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=84
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=54
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=413
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=8269
 	}
@@ -19080,49 +19080,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=93
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=751
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=122
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=32
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=158
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3463
 	}
@@ -19315,49 +19315,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=340
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=55
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=9
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=71
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=184
 	}
@@ -19443,49 +19443,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=340
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=55
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=9
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=71
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=195
 	}
@@ -19634,49 +19634,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5106
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=36265
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3367
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=440
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=492
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3264
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=16523
 	}
@@ -19748,49 +19748,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=36
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=637
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=104
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=27
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=134
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=585
 	}
@@ -19862,49 +19862,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=42
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=672
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=109
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=29
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=141
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=482
 	}
@@ -20053,49 +20053,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=241
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1434
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=233
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=61
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=39
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=301
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=6163
 	}
@@ -20530,42 +20530,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=342
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=12217
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1134
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=148
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=96
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=733
 	}
@@ -21350,49 +21350,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=383
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=8116
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=754
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=99
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=64
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=974
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1915
 	}
@@ -21464,49 +21464,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=642
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14314
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1329
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=174
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=112
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=859
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2480
 	}
@@ -21690,49 +21690,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=749
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3909
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=635
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=166
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=107
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1231
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=11390
 	}
@@ -21888,49 +21888,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=315
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1607
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=261
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=68
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=44
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=337
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5240
 	}
@@ -22431,49 +22431,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=259
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1175
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=382
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=50
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=32
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=247
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=10793
 	}
@@ -22722,49 +22722,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=732
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3325
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=540
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=141
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=91
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=698
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=17777
 	}
@@ -22836,49 +22836,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1903
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=27712
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2573
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=336
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=218
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3325
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=19135
 	}
@@ -23076,49 +23076,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1823
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=7809
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2538
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=332
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=215
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1640
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=36906
 	}
@@ -23190,49 +23190,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=19001
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=16272
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5369
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=702
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1115
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3469
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=40629
 	}
@@ -23246,7 +23246,7 @@
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = jewish
 		size=249
 	}
@@ -23318,49 +23318,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=108
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1209
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=196
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=51
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=33
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=254
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=818
 	}
@@ -23418,7 +23418,7 @@
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = shiite
 		size=6
 	}
@@ -23432,49 +23432,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2493
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=32109
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2982
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=482
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=252
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3853
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=45551
 	}
@@ -23625,49 +23625,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=57
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=679
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=110
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=29
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=19
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=143
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=556
 	}
@@ -23684,49 +23684,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=4298
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=1298
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=121
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=19
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=78
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = sunni
 		size=41526
 	}
@@ -23740,49 +23740,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=8556
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=46583
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=4326
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=699
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=632
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2795
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=30685
 	}
@@ -23796,49 +23796,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=7875
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=2700
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=251
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=33
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=37
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=162
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = catholic
 		size=75711
 	}
@@ -23963,6 +23963,19 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
+		size=118892
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size=5858
+	}
+	slaves=
+	{
+		culture = eastern_algonquian
+		religion = totemism
 		size=30509
 	}
 
@@ -24022,20 +24035,6 @@
 		size=15161
 	}
 
-	soldiers=
-	{
-		culture = turkish
-		religion = shiite
-		size=2453
-	}
-
-	farmers=
-	{
-		culture = turkish
-		religion = shiite
-		size=26195
-	}
-
 	slaves=
 	{
 		culture = african_minor
@@ -24045,49 +24044,21 @@
 
 	soldiers=
 	{
-		culture = turkish
-		religion = cathar
-		size=7840
-	}
-
-	artisans=
-	{
-		culture = turkish
-		religion = cathar
-		size=10849
-	}
-
-	clergymen=
-	{
-		culture = turkish
-		religion = cathar
-		size=3526
-	}
-
-	bureaucrats=
-	{
-		culture = turkish
-		religion = cathar
-		size=461
-	}
-
-	officers=
-	{
-		culture = turkish
-		religion = cathar
-		size=515
-	}
-
-	aristocrats=
-	{
-		culture = turkish
-		religion = cathar
-		size=2278
+		culture = catharian
+		religion = shiite
+		size=2453
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
+		religion = shiite
+		size=26195
+	}
+
+	farmers=
+	{
+		culture = catharian
 		religion = cathar
 		size=66079
 	}
@@ -24209,6 +24180,12 @@
 
 }
 213 = {
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size=168158
+	}
 	slaves=
 	{
 		culture = eastern_algonquian
@@ -24258,76 +24235,55 @@
 		size=96692
 	}
 
-	soldiers=
-	{
-		culture = turkish
-		religion = cathar
-		size=4006
-	}
-
-	artisans=
-	{
-		culture = turkish
-		religion = cathar
-		size=53254
-	}
-
-	clergymen=
-	{
-		culture = turkish
-		religion = cathar
-		size=4945
-	}
-
-	bureaucrats=
-	{
-		culture = turkish
-		religion = cathar
-		size=647
-	}
-
-	officers=
-	{
-		culture = turkish
-		religion = cathar
-		size=418
-	}
-
-	aristocrats=
-	{
-		culture = turkish
-		religion = cathar
-		size=3195
-	}
-
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=37136
 	}
 
 }
 214 = {
-	slaves=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size=118892
-	}
-
 	soldiers=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size=5858
+		culture = catharian
+		religion = cathar
+		size=7840
 	}
 
-	farmers=
+	bureaucrats=
 	{
-		culture = eastern_algonquian
-		religion = totemism
-		size=168158
+		culture = catharian
+		religion = cathar
+		size=461
+	}
+
+	officers=
+	{
+		culture = catharian
+		religion = cathar
+		size=515
+	}
+
+	aristocrats=
+	{
+		culture = catharian
+		religion = cathar
+		size=2278
+	}
+
+	artisans=
+	{
+		culture = catharian
+		religion = cathar
+		size=10849
+	}
+
+	clergymen=
+	{
+		culture = catharian
+		religion = cathar
+		size=3526
 	}
 
 	slaves=
@@ -24335,6 +24291,48 @@
 		culture = afro_greek
 		religion = cathar
 		size=216093
+	}
+
+	soldiers=
+	{
+		culture = catharian
+		religion = cathar
+		size=4006
+	}
+
+	artisans=
+	{
+		culture = catharian
+		religion = cathar
+		size=53254
+	}
+
+	clergymen=
+	{
+		culture = catharian
+		religion = cathar
+		size=4945
+	}
+
+	bureaucrats=
+	{
+		culture = catharian
+		religion = cathar
+		size=647
+	}
+
+	officers=
+	{
+		culture = catharian
+		religion = cathar
+		size=418
+	}
+
+	aristocrats=
+	{
+		culture = catharian
+		religion = cathar
+		size=3195
 	}
 
 	soldiers=
@@ -24495,42 +24493,42 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=289
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14391
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1336
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=175
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=113
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=863
 	}
@@ -24616,49 +24614,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=13
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=114
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=18
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=24
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=180
 	}
@@ -24891,49 +24889,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=41
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=647
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=105
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=28
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=18
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=136
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=325
 	}
@@ -25005,49 +25003,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1157
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=25364
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2355
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=308
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=199
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1522
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3804
 	}
@@ -25140,49 +25138,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2636
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3907
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=635
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=166
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=186
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=820
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=15665
 	}
@@ -25575,49 +25573,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1871
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=27767
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1289
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=337
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=218
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1666
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=30855
 	}
@@ -25801,49 +25799,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=944
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=30126
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2820
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=370
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=239
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2739
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=6453
 	}
@@ -25857,7 +25855,7 @@
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = jewish
 		size=6
 	}
@@ -25885,7 +25883,7 @@
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = jewish
 		size=313
 	}
@@ -26193,49 +26191,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=48
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=480
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=78
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=20
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=13
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=101
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1644
 	}
@@ -26503,49 +26501,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=270
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2160
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=351
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=92
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=59
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=681
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=9382
 	}
@@ -26816,49 +26814,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=584
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2623
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=426
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=111
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=72
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=551
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=21858
 	}
@@ -26916,49 +26914,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=345
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1513
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=246
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=64
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=42
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=318
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14740
 	}
@@ -27016,49 +27014,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=345
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1513
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=246
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=64
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=42
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=318
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=14740
 	}
@@ -27235,49 +27233,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=629
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2386
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=450
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=120
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=78
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=890
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=25543
 	}
@@ -27291,7 +27289,7 @@
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = jewish
 		size=9
 	}
@@ -27312,7 +27310,7 @@
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = jewish
 		size=441
 	}
@@ -27447,49 +27445,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=440
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1979
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=322
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=84
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=54
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=623
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=18500
 	}
@@ -27617,49 +27615,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=336
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2019
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=328
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=86
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=56
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=424
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=13542
 	}
@@ -27787,49 +27785,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=152
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1404
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=228
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=60
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=39
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=295
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=5434
 	}
@@ -27915,49 +27913,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=34
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1169
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=190
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=41
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=23
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=245
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=4
 	}
@@ -28387,49 +28385,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1078
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=17386
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=807
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=211
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=137
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1043
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=31788
 	}
@@ -28501,49 +28499,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2006
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=33138
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=3077
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=402
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=260
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1988
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=55586
 	}
@@ -28962,49 +28960,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1781
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=9201
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2990
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=391
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=253
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=1932
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=72505
 	}
@@ -29190,49 +29188,49 @@
 
 	soldiers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=461
 	}
 
 	artisans=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=2417
 	}
 
 	clergymen=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=393
 	}
 
 	bureaucrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=103
 	}
 
 	officers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=66
 	}
 
 	aristocrats=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=508
 	}
 
 	farmers=
 	{
-		culture = turkish
+		culture = catharian
 		religion = cathar
 		size=19115
 	}
