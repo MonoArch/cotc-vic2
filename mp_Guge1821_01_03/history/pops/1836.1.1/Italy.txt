@@ -2868,7 +2868,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size=15143
+		size=13143
 	}
 	
 	aristocrats=
