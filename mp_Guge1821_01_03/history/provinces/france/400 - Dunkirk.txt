@@ -2,7 +2,7 @@ owner=X01
 controller=X01
 add_core=FRA
 add_core=X01
-add_core=BEL
+
 add_core=WLL
 trade_goods = fish
 life_rating = 32

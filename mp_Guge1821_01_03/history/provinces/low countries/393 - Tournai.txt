@@ -2,7 +2,7 @@ owner=DTT
 controller=DTT
 add_core=DTT
 add_core=FRA
-add_core=BEL
+
 add_core=WLL
 add_core=HRE
 trade_goods = coal

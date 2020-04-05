@@ -2,6 +2,7 @@ owner=X03
 controller=X03
 add_core=FRA
 add_core=HRE
+add_core=X03
 trade_goods = grain
 life_rating = 32
 terrain = woods
