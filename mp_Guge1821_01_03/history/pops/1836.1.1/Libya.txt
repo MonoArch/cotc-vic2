@@ -24,21 +24,21 @@
 	{
 		culture = berber
 		religion = sunni
-		size=1966
+		size=1166
 	}
 
 	bureaucrats=
 	{
 		culture = berber
 		religion = sunni
-		size=387
+		size=187
 	}
 
 	officers=
 	{
 		culture = berber
 		religion = sunni
-		size=304
+		size=204
 	}
 
 	aristocrats=
@@ -52,7 +52,42 @@
 	{
 		culture = berber
 		religion = sunni
-		size=169665
+		size=129665
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=1920
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=150
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=101
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=1665
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=39418
 	}
 
 	slaves=

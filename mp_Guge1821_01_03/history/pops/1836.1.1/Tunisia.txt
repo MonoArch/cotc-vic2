@@ -45,14 +45,14 @@
 	{
 		culture = berber
 		religion = catholic
-		size=2149
+		size=1849
 	}
 
 	farmers=
 	{
 		culture = berber
 		religion = catholic
-		size=404937
+		size=380937
 	}
 
 	slaves=
@@ -80,33 +80,68 @@
 	{
 		culture = berber
 		religion = sunni
-		size=6420
+		size=4420
 	}
 
 	bureaucrats=
 	{
 		culture = berber
 		religion = sunni
-		size=629
+		size=329
 	}
 
 	officers=
 	{
 		culture = berber
 		religion = sunni
-		size=854
+		size=554
 	}
 
 	aristocrats=
 	{
 		culture = berber
 		religion = sunni
-		size=5665
+		size=3665
 	}
 
 	farmers=
 	{
 		culture = berber
+		religion = sunni
+		size=39418
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size=4920
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=429
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size=654
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size=4665
+	}
+
+	farmers=
+	{
+		culture = mande
 		religion = sunni
 		size=49418
 	}
