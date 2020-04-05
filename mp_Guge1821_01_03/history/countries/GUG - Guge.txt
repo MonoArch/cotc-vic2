@@ -1,7 +1,6 @@
 capital=1592
 primary_culture = tibetan
 culture = bai
-culture = yi
 culture = nanfaren
 culture = uighur
 religion = gelugpa
