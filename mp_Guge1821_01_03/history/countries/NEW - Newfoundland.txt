@@ -1,5 +1,5 @@
 capital=74
-primary_culture = anglo_canadian
+primary_culture = hiberno_canadian
 religion = catholic
 government = presidential_dictatorship
 plurality=0.000000

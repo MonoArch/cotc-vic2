@@ -5029,49 +5029,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=38
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=598
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=97
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=21
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=12
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=126
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=1007
 	}
@@ -5787,49 +5787,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=38
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=457
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=74
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=16
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=9
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=96
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=1214
 	}
@@ -5887,49 +5887,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=286
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1626
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=293
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=69
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=45
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=342
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=11615
 	}
@@ -6329,49 +6329,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=347
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=2102
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=378
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=89
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=58
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=441
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=13945
 	}
@@ -6592,49 +6592,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=141
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1234
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=222
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=52
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=34
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=259
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=5098
 	}
@@ -6720,49 +6720,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=286
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1626
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=293
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=69
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=45
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=342
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=11615
 	}
@@ -6869,49 +6869,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=30
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=248
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=40
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=7
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=7
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=52
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1093
 	}
@@ -7032,49 +7032,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=67
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=756
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=136
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=32
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=21
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=159
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=2184
 	}
@@ -7095,49 +7095,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=252
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=850
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=153
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=36
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=23
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=179
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=11107
 	}
@@ -7244,49 +7244,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=409
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=3234
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=582
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=137
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=89
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=679
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=15338
 	}
@@ -7358,49 +7358,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=723
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=4023
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=724
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=171
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=111
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=845
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=29554
 	}
@@ -7556,49 +7556,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=49
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=371
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=67
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=16
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=10
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=78
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1874
 	}
@@ -7656,49 +7656,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=331
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1683
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=303
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=72
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=46
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=354
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=13768
 	}
@@ -7898,98 +7898,98 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=197
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=342
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=62
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=15
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=9
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=72
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = protestant
 		size=9158
 	}
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=175
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1342
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=242
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=57
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=37
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=282
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=6613
 	}
@@ -8589,56 +8589,56 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size=44014
+		size=35555
 	}
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=826
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=3379
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=608
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=144
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=93
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=710
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
-		size=35555
+		size=44014
 	}
 
 }
@@ -8694,49 +8694,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1383
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=5567
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1002
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=237
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=153
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=1169
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=59621
 	}
@@ -9022,49 +9022,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=826
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=3379
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=608
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=144
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=93
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=710
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = hiberno_canadian
 		religion = catholic
 		size=35555
 	}

@@ -1,5 +1,6 @@
-owner=MEC
-controller=MEC
+owner=X43
+controller=X43
+add_core=X43
 trade_goods = coal
 life_rating = 35
 terrain = forest

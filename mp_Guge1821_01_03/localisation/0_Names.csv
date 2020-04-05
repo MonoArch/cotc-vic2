@@ -717,8 +717,8 @@ LOU_fascist;Partit Faissista;;;;;;;;;;x;;;;
 ;;;;;;;;;;;x;;;;
 LPL;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;La Plata;Ëà-Ïëàòà;La Plata;x
 LPL_ADJ;La Platan;La Platan;La Platán;La Platan;La Platan;di La Plata;La Platan;La Platan;La Platan;La Platan;La Platan;Ëà Ïëàòàñê.;La Platan;x
-LSK;Alaska;Alaska;Alaska;Alaska;Alaska;Alaska;Alaszka;Aljaška;Alaszka;Alaska;Alasca;Àëÿñêà;Alaska;x
-LSK_ADJ;Alaskan;Alaskain;Alaskischen;Alaskanin;Alasqueño;Alascana;Alaszkai;Aljašky;Alaszkai;Alaskse;Alasquiano;Àëÿñêèíñê.;Alaskan;x
+LSK;Paharmulk;;;;;;;;;;x;;;;
+LSK_ADJ;Paharmulki;;;;;;;;;;x;;;;
 LSK_anarcho_liberal;Liberal Economists;Économistes Libéraux;Liberale Wirtschaftswissenschaftler;Liberalni Ekonomiœci;Economistas Liberales;Economisti Liberali;Liberális Közgazdászok;Liberální Ekonomové;Liberális Közgazdászok;Liberale Economen;Economistas Liberais;Ëèáåðàëüíûå Ýêîíîìèñòû;Sosialistinen Puolue;x
 LSK_communist;Bolsheviks;Les Bolcheviks;Bolschewiki;Bolszewików;Bolcheviques;Bolscevichi;Bolsevikok;Bolševiku;Bolsevikok;Bolsjewieken;Bolcheviques;Áîëüøåâèêè;Pohjois-Futuristit;x
 LSK_conservative;Democratic Party;Parti Démocratique;Demokratische Partei;Partia Demokratyczna;Partido Democrático;Partito Democratico;Demokratikus Párt;Demokratická Strana;Demokratikus Párt;Democratische Partij;Partido Democrata;Äåìîêðàòè÷åñêàÿ Ïàðòèÿ;Demokraattinen Puolue;x
@@ -2049,15 +2049,16 @@ X42_liberal;Liberal Party;Parti Lib0ral;Liberale Partei;Partia Liberalna;Partido
 X42_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P0rt;N0rodn0 Strana;Nemzeti P0rt;Nationale Partij;Partido Nacional;000000000000 000000;Kansallispuolue;x
 X42_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P0rt;Socialistick0 Strana;Szocialista P0rt;Socialistische Partij;Partido Socialista;0000000000000000 000000;Sosialistinenpuolue;x
 ;;;;;;;;;;;x;;;;
-X43;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;Mecklenburgian Canada;x
-X43_ADJ;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;Mecklenburgian Canadian;x
-X43_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik0lis P0rt;Radik0ln0 Strana;Radik0lis P0rt;Radicale Partij;Partido Radical;00000000000 000000;Radikaalipuolue;x
-X43_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista P0rt;Komunistick0 Strana;Kommunista P0rt;Communistische Partij;Partido Comunista;0000000000000000 000000;Kommunistinenpuolue;x
-X43_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervat0v P0rt;Konzervativn0 Strana;Konzervat0v P0rt;Conservatieve Partij;Partido Conservador;00000000000000 000000;Konservatiivipuolue;x
-X43_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta P0rt;Fa0istick0 Strana;Fasiszta P0rt;Fascistische Partij;Partido Fascista;;Fasistinenpuolue;x
-X43_liberal;Liberal Party;Parti Lib0ral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber0lis P0rt;Liber0ln0 Strana;Liber0lis P0rt;Liberale Partij;Partido Liberal;00000000000 000000;Liberaalipuolue;x
-X43_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P0rt;N0rodn0 Strana;Nemzeti P0rt;Nationale Partij;Partido Nacional;000000000000 000000;Kansallispuolue;x
-X43_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P0rt;Socialistick0 Strana;Szocialista P0rt;Socialistische Partij;Partido Socialista;0000000000000000 000000;Sosialistinenpuolue;x
+X43;Ruprechtsland;;;;;;;;;;x;;;;
+X43_ADJ;Ruprechtslander;;;;;;;;;;x;;;;
+X43_anarcho_liberal;Volksbund;;;;;;;;;;x;;;;
+X43_communist;Kommunistische Arbeiter-Partei;;;;;;;;;;x;;;;
+X43_conservative;Konservative Partei;;;;;;;;;;x;;;;
+X43_fascist;Faschistische Partei;;;;;;;;;;x;;;;
+X43_liberal;Demokratische Partei;;;;;;;;;;x;;;;
+X43_reactionary;Nationale Partei;;;;;;;;;;x;;;;
+X43_socialist;Sozialdemokratische Partei;;;;;;;;;;x;;;;
+;;;;;;;;;;;x;;;;
 X44;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;x
 X44_ADJ;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;Perae;x
 X44_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik0lis P0rt;Radik0ln0 Strana;Radik0lis P0rt;Radicale Partij;Partido Radical;00000000000 000000;Radikaalipuolue;x
@@ -2067,6 +2068,7 @@ X44_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 X44_liberal;Liberal Party;Parti Lib0ral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber0lis P0rt;Liber0ln0 Strana;Liber0lis P0rt;Liberale Partij;Partido Liberal;00000000000 000000;Liberaalipuolue;x
 X44_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P0rt;N0rodn0 Strana;Nemzeti P0rt;Nationale Partij;Partido Nacional;000000000000 000000;Kansallispuolue;x
 X44_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P0rt;Socialistick0 Strana;Szocialista P0rt;Socialistische Partij;Partido Socialista;0000000000000000 000000;Sosialistinenpuolue;x
+;;;;;;;;;;;x;;;;
 X45;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;x
 X45_ADJ;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;Sant Andrieu;x
 X45_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik0lis P0rt;Radik0ln0 Strana;Radik0lis P0rt;Radicale Partij;Partido Radical;00000000000 000000;Radikaalipuolue;x
@@ -2076,6 +2078,7 @@ X45_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 X45_liberal;Liberal Party;Parti Lib0ral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liber0lis P0rt;Liber0ln0 Strana;Liber0lis P0rt;Liberale Partij;Partido Liberal;00000000000 000000;Liberaalipuolue;x
 X45_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti P0rt;N0rodn0 Strana;Nemzeti P0rt;Nationale Partij;Partido Nacional;000000000000 000000;Kansallispuolue;x
 X45_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista P0rt;Socialistick0 Strana;Szocialista P0rt;Socialistische Partij;Partido Socialista;0000000000000000 000000;Sosialistinenpuolue;x
+;;;;;;;;;;;x;;;;
 X46;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;Sukkerland;x
 X46_ADJ;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;Sukkerman;x
 X46_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radik0lis P0rt;Radik0ln0 Strana;Radik0lis P0rt;Radicale Partij;Partido Radical;00000000000 000000;Radikaalipuolue;x
@@ -2164,4 +2167,20 @@ USA;Catharia;;;;;;;;;;x;;;;
 USA_ADJ;Catharian;;;;;;;;;;x;;;;
 USA_democracy;Catharia;;;;;;;;;;x;;;;
 USA_democracy_ADJ;Catharian
+;;;;;;;;;;;x;;;;
+NEW;Talamh an Éisc;;;;;;;;;;x;;;;
+NEW_ADJ;Talamher;;;;;;;;;;x;;;;
+;;;;;;;;;;;x;;;;
+UCA;Sonamulk;;;;;;;;;;x;;;;
+UCA_ADJ;Sonamulki;;;;;;;;;;x;;;;
+;;;;;;;;;;;x;;;;
+ENG;Great Britain;;;;;;;;;;x;;;;
+ENG_ADJ;British;;;;;;;;;;x;;;;
+ENG_absolute_monarchy;Great Britain;;;;;;;;;;x;;;;
+ENG_absolute_monarchy_ADJ;;;;;;;;;;;x;;;;
+ENG_fascist_dictatorship;Great Britain;;;;;;;;;;x;;;;
+ENG_fascist_dictatorship_ADJ;British;;;;;;;;;;x;;;;
+;;;;;;;;;;;x;;;;
+CAL;Khalifamulk;;;;;;;;;;x;;;;
+CAL_ADJ;Khalifamulki;;;;;;;;;;x;;;;
 ;;;;;;;;;;;x;;;;

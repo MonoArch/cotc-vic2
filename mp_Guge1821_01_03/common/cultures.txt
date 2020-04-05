@@ -4204,6 +4204,49 @@ neo_european_cultures = {
 		last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Petty-Fitzmaurice Windham Young Doyle Hastings Blackwood MacDougall
 		}
 	}
+	hiberno_canadian = { # smidgens of anglicization around the edges but predominantly gaelic
+		color = { 168 175 80 }
+		
+		first_names = {
+			Aodh Art Ámós Abrahám Aindréas Antóin Ánrothán 
+			Brian Blathmac
+			Conall Cormac Cornelius Conn Ciaran Conán Críostóir Conchobar
+			Dainéil Daibhí Domnall Diarmait Donnchadh Dubhghlas Dubhghall
+			Éamon Edubard Éinri Éilias Eoin Éamonn Eóghan
+			Fearghus
+			Gerald Gaibrial
+			Iósaef Irriel
+			Lúcáis Liam Lughaidh
+			Mícheál Maghnus Murchad Muiris Murtagh Manchán Mharcais Maitiú
+			Niall
+			Óengus 
+			Pádraig Proinsias Peadar Pilib Pól
+			Ragnall Rían Rónán
+			Seoirse Stíofán Seán Samúéil Séamas Síomón
+			Tomás Tadgh
+		}
+		
+		last_names = {
+			Burns Brew Broadbent
+			Corcoran Cosgrave Calbhach Collamrach
+			Dowd Dor Devlin Doherty Dease Dubdétach
+			Flynn Ferguson Furlong Fox
+			Griffith Gryner Grimes Got
+			Hefferman Hanley Hearn
+			Kennedy Kerwin Kenney
+			Lamont Lyons Larkin Lambert Luaigne
+			Malone Mulcair Mulroney Maguire Munro Mageoghegan "mac Róich" "mac Domnaill" "mac Murchado" "mac Cuinn" "mac Aeda" "mac Cormac" "mac Art Mór" "mac Cairbre" "mac Corc" "mac Conn" "mac Toirrdelbach" "mac Irriel" "mac Nessa" "mac Léti" "mac Cronn Badruí" "mac Cáelbad" Muinderg "mac Dallán" "mac Ainbítha" "mac Loingsig"
+			Nelligan Nolan
+			"Ó Cionga" "Ó Muircheartaigh" "Ó Muraíle"
+			Pearse Parkes Perrin
+			Ryan Reynolds Reid Riordan Ruad
+			Scully Santry Sennett Segamain
+			Tierney Thompson Tracey Temrach
+			"Ua Daire" "Ua Conchobair" "Ua Cerbaill"
+			Vanier Vickers
+			Whelan Walsh
+		}
+	}
 	french_canadian = { 
 		color = {168 195 255}
 
