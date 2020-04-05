@@ -585,7 +585,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size=58998
+		size=68998
 	}
 
 	soldiers=
@@ -634,42 +634,42 @@
 	{
 		culture = north_italian
 		religion = sunni
-		size=9015
+		size=15015
 	}
 
 	clergymen=
 	{
 		culture = mande
 		religion = sunni
-		size=392
+		size=292
 	}
 
 	bureaucrats=
 	{
 		culture = mande
 		religion = sunni
-		size=110
+		size=50
 	}
 
 	officers=
 	{
 		culture = mande
 		religion = sunni
-		size=554
+		size=354
 	}
 
 	aristocrats=
 	{
 		culture = mande
 		religion = sunni
-		size=1665
+		size=1165
 	}
 
 	farmers=
 	{
 		culture = mande
 		religion = sunni
-		size=59418
+		size=29418
 	}
 
 	clergymen=
@@ -813,7 +813,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size=20169
+		size=25169
 	}
 
 	clergymen=
@@ -862,7 +862,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size=73076
+		size=83076
 	}
 
 	soldiers=
@@ -911,42 +911,42 @@
 	{
 		culture = mande
 		religion = sunni
-		size=392
+		size=192
 	}
 
 	bureaucrats=
 	{
 		culture = mande
 		religion = sunni
-		size=110
+		size=50
 	}
 
 	officers=
 	{
 		culture = mande
 		religion = sunni
-		size=554
+		size=254
 	}
 
 	aristocrats=
 	{
 		culture = mande
 		religion = sunni
-		size=1665
+		size=665
 	}
 
 	artisans=
 	{
 		culture = mande
 		religion = sunni
-		size=15045
+		size=5045
 	}
 
 	farmers=
 	{
 		culture = mande
 		religion = sunni
-		size=49418
+		size=29418
 	}
 
 	clergymen=
@@ -1197,7 +1197,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size=23286
+		size=28286
 	}
 
 	clergymen=
@@ -1246,49 +1246,35 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size=163500
-	}
-
-	clergymen=
-	{
-		culture = mande
-		religion = sunni
-		size=292
-	}
-
-	bureaucrats=
-	{
-		culture = mande
-		religion = sunni
-		size=50
+		size=183500
 	}
 
 	officers=
 	{
 		culture = mande
 		religion = sunni
-		size=354
+		size=154
 	}
 
 	aristocrats=
 	{
 		culture = mande
 		religion = sunni
-		size=1185
+		size=585
 	}
 
 	artisans=
 	{
 		culture = mande
 		religion = sunni
-		size=10045
+		size=3045
 	}
 
 	farmers=
 	{
 		culture = mande
 		religion = sunni
-		size=39418
+		size=19418
 	}
 
 	clergymen=
@@ -2826,7 +2812,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size=184816
+		size=194816
 	}
 
 	soldiers=
@@ -2840,7 +2826,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size=30103
+		size=40103
 	}
 
 	soldiers=
@@ -2882,14 +2868,14 @@
 	{
 		culture = mande
 		religion = sunni
-		size=30143
+		size=15143
 	}
 	
 	aristocrats=
 	{
 		culture = mande
 		religion = sunni
-		size=2926
+		size=1026
 	}
 
 	aristocrats=
@@ -3324,56 +3310,35 @@
 	{
 		culture = north_italian
 		religion = sunni
-		size=1642
+		size=1942
 	}
 
 	farmers=
 	{
 		culture = north_italian
 		religion = sunni
-		size=16223
-	}
-
-	clergymen=
-	{
-		culture = mande
-		religion = sunni
-		size=221
-	}
-
-	bureaucrats=
-	{
-		culture = mande
-		religion = sunni
-		size=50
-	}
-
-	officers=
-	{
-		culture = mande
-		religion = sunni
-		size=201
+		size=20223
 	}
 
 	aristocrats=
 	{
 		culture = mande
 		religion = sunni
-		size=257
+		size=157
 	}
 
 	artisans=
 	{
 		culture = mande
 		religion = sunni
-		size=4011
+		size=1011
 	}
 
 	farmers=
 	{
 		culture = mande
 		religion = sunni
-		size=10143
+		size=5143
 	}
 
 }
