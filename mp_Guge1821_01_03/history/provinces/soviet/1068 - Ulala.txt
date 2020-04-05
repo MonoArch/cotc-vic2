@@ -1,6 +1,8 @@
 owner=X11
 controller=X11
 add_core=X11
+add_core=MGL
+add_core=KHA
 trade_goods = coal
 life_rating = 35
 terrain = plains
