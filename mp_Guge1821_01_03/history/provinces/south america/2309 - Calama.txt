@@ -1,7 +1,7 @@
-owner=ARG
-controller=ARG
+owner=X44
+controller=X44
 add_core=LPL
-add_core=ARG
+add_core=X44
 trade_goods = wool
 life_rating = 35
 terrain = plains
