@@ -1,6 +1,6 @@
-owner=X23
-controller=X23
+owner=BRZ
+controller=BRZ
+add_core=BRZ
 trade_goods = grain
 life_rating = 35
 terrain = plains
-colonial=1
