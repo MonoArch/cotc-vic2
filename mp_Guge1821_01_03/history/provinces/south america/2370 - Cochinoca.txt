@@ -1,6 +1,6 @@
-owner=ARG
-controller=ARG
-add_core=ARG
+owner=X44
+controller=X44
+add_core=X44
 trade_goods = wool
 life_rating = 30
 terrain = mountain

@@ -1932,7 +1932,7 @@
 	{
 		culture = french
 		religion = protestant
-		size=92
+		size=62
 	}
 
 	officers=
@@ -1953,7 +1953,28 @@
 	{
 		culture = french
 		religion = protestant
-		size=146368
+		size=116368
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size=110
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size=30368
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size=2037
 	}
 
 	soldiers=
@@ -1967,7 +1988,7 @@
 	{
 		culture = french
 		religion = sunni
-		size=5037
+		size=3037
 	}
 
 	clergymen=

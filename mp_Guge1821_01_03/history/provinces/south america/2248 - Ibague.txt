@@ -1,6 +1,5 @@
 owner=X47
 controller=X47
-add_core=CLM
 add_core=X47
 add_core=MCA
 trade_goods = grain

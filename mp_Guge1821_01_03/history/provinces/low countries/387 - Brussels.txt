@@ -1,7 +1,7 @@
 owner=DTT
 controller=DTT
 add_core=DTT
-add_core=BEL
+
 add_core=FLA
 add_core=HRE
 trade_goods = sulphur

@@ -3370,7 +3370,12 @@
 
 }
 2262 = {
-
+	farmers=
+	{
+		culture = scottish
+		religion = gelugpa
+		size=1000
+	}
 }
 2263 = {
 
