@@ -1,6 +1,6 @@
-owner=X13
-controller=X13
-add_core=X13
+owner=X19
+controller=X19
+add_core=X19
 add_core=UGR
 trade_goods = grain
 life_rating = 35
