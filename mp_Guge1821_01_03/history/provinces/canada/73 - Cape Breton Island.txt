@@ -1,6 +1,6 @@
-owner=USA
-controller=USA
-add_core=USA
+owner=X40
+controller=X40
+add_core=X40
 add_core=X43
 trade_goods = coal
 life_rating = 35

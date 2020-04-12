@@ -1,0 +1,298 @@
+# The Lacustrine Republic & Muscogee Council reject authority of the Catharian Capitol.
+country_event = {
+	id = 16000
+	title = "EVTNAME16000"
+	desc = "EVTDESC16000"
+	major = yes
+	
+	trigger = {
+		tag = USA
+        year = 1830
+        has_global_flag = cathar_question_of_language
+		NOT = {
+			has_global_flag = cathar_civil_war_has_happened
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 300
+		modifier = {
+			factor = 0.5
+			year = 1845
+		}
+		modifier = {
+			factor = 0.5
+			year = 1855
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA16000"
+		any_pop = {
+			consciousness = -7
+			militancy = -3
+		}
+        IRO = {
+            any_owned = {
+                add_core = LCR
+            }
+            change_tag = LCR
+        }
+        release_vassal = LCR
+        leave_alliance = LCR
+		any_owned = {
+			limit = {
+				is_core = LCR
+			}
+			secede_province = LCR
+            remove_province_modifier = cathar_forced_assimilation_state
+		}
+        any_owned = {
+            limit = {
+                is_core = MSC
+            }
+            secede_province = MSC
+            remove_province_modifier = cathar_forced_assimilation_state
+        }
+		MSC = {
+			capital = 195
+			leadership = 80
+		}
+		
+		war = {
+			target = LCR
+			attacker_goal = {
+				casus_belli = lcr_civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+        war = {
+			target = MSC
+			attacker_goal = {
+				casus_belli = msc_civil_war
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_global_flag = cathar_civil_war_has_happened
+	}
+}
+
+# Pan-Native American Identity
+country_event = {
+	id = 16001
+	title = "EVTNAME16001"
+	desc = "EVTDESC16001"
+	major = yes
+	
+	trigger = {
+		tag = USA
+		NOT = {
+			has_global_flag = cathar_pan_native_american_identity
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 260
+		modifier = {
+			factor = 0.5
+			year = 1830
+		}
+		modifier = {
+			factor = 0.5
+			year = 1840
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA16001"
+		set_global_flag = cathar_pan_native_american_identity
+	}
+}
+
+# Question of Language
+country_event = {
+	id = 16002
+	title = "EVTNAME16002"
+	desc = "EVTDESC16002"
+	major = yes
+	
+	trigger = {
+		tag = USA
+        has_global_flag = cathar_pan_native_american_identity
+		NOT = {
+			has_global_flag = cathar_question_of_language
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 300
+		modifier = {
+			factor = 0.5
+			year = 1830
+		}
+		modifier = {
+			factor = 0.5
+			year = 1840
+		}
+	}
+	
+	option = { # Traditionalists, makes Cathar pops happy
+		name = "EVTOPTA16002"
+        remove_accepted_culture = danish
+        remove_accepted_culture = estonian
+        remove_accepted_culture = greek
+        remove_accepted_culture = eastern_algonquian
+        remove_accepted_culture = central_algonquian
+        remove_accepted_culture = muskogean
+        remove_accepted_culture = cherokee
+        remove_accepted_culture = iroquoian
+        remove_accepted_culture = siouan
+        remove_accepted_culture = plains_algonquian
+        remove_accepted_culture = caddoan
+        remove_accepted_culture = na_dene
+        remove_accepted_culture = sonoran
+        remove_accepted_culture = carribean
+
+        add_country_modifier = { name = cathar_forced_assimilation duration = 7200 }
+        any_owned = {
+            limit = {
+                OR = {
+                    is_core = LCR
+                    is_core = MSC
+                }
+            }
+            add_province_modifier = { name = cathar_forced_assimilation_state duration = -1 }
+        }
+		
+		set_global_flag = cathar_question_of_language
+	}
+
+    option = { # Federal language is Cathar, States decides themselves.
+		name = "EVTOPTB16002"
+        
+        add_country_modifier = { name = cathar_official_language duration = 7200 }
+		
+		set_global_flag = cathar_question_of_language
+	}
+
+    option = { # All cultures of Catharia are recognized fully
+		name = "EVTOPTC16002"
+
+        add_country_modifier = { name = cathar_multiculturalism duration = 7200 }
+		
+		set_global_flag = cathar_question_of_language
+	}
+}
+
+ # LCR Secession Sentiment Event
+province_event = {
+	id = 16003
+	title = "EVTNAME16003"
+	desc = "EVTDESC16003"
+
+    trigger = {
+		owned_by = USA
+        has_global_flag = cathar_pan_native_american_identity
+        NOT = {
+			has_global_flag = cathar_civil_war_has_happened
+		}
+        NOT = { is_core = LCR }
+        OR = {
+            province_id = 175
+            province_id = 176
+            province_id = 174
+            province_id = 173
+            province_id = 178
+            province_id = 183
+            province_id = 179
+            province_id = 180
+            province_id = 181
+            province_id = 182
+            province_id = 172
+            province_id = 169
+            province_id = 170
+            province_id = 171
+            province_id = 168
+            province_id = 167
+            province_id = 165
+            province_id = 166
+            province_id = 164
+            province_id = 163
+            province_id = 177
+            province_id = 161
+            province_id = 160
+            province_id = 162
+            province_id = 159
+        }
+	}
+
+    mean_time_to_happen = {
+		months = 3
+	}
+
+    option = {
+        name = "EVTOPTC16003"
+        state_scope = {
+            any_owned = {
+				add_core = LCR
+			}
+            any_pop = {
+				militancy = 1
+			}
+        }
+    }
+}
+
+# MSC Secession Sentiment Event
+province_event = {
+	id = 16004
+	title = "EVTNAME16004"
+	desc = "EVTDESC16004"
+
+    trigger = {
+		owned_by = USA
+        has_global_flag = cathar_pan_native_american_identity
+        NOT = {
+			has_global_flag = cathar_civil_war_has_happened
+		}
+        NOT = { is_core = MSC }
+        OR = {
+            province_id = 197
+            province_id = 195
+            province_id = 196
+            province_id = 194
+            province_id = 192
+            province_id = 193
+            province_id = 189
+            province_id = 188
+            province_id = 191
+            province_id = 190
+            province_id = 187
+            province_id = 186
+            province_id = 184
+            province_id = 185 
+        }
+	}
+
+    mean_time_to_happen = {
+		months = 3
+	}
+
+    option = {
+        name = "EVTOPTC16004"
+        state_scope = {
+            any_owned = {
+				add_core = MSC
+			}
+            any_pop = {
+				militancy = 1
+			}
+        }
+    }
+}

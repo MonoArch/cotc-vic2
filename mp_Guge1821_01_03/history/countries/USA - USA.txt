@@ -1,5 +1,20 @@
 capital=214
 primary_culture = catharian
+culture = danish
+culture = estonian
+culture = greek
+culture = eastern_algonquian
+culture = central_algonquian
+culture = muskogean
+culture = cherokee
+culture = iroquoian
+culture = siouan
+culture = plains_algonquian
+culture = caddoan
+culture = na_dene
+culture = sonoran
+culture = carribean
+
 religion = cathar
 government = democracy
 plurality=0.000000

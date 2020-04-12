@@ -1,4 +1,4 @@
-color = { 87  182  80 }
+color = { 125 132 113 }
 graphical_culture = civnativeamerican
 
 party = {
