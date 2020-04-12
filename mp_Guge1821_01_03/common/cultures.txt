@@ -3718,7 +3718,7 @@ native_south_american = {
 	}
 }
 native_north_american = {
-	leader = nativeamerican
+	leader = civnativeamerican
 	unit = SouthAmericanGC
 	is_overseas = no
 	metis = {
