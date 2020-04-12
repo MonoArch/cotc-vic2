@@ -1,5 +1,5 @@
 color = { 85  180  80 }
-graphical_culture = Generic
+graphical_culture = civnativeamerican
 
 party = {
 	name = "CHE_liberal"
