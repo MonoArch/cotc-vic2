@@ -47,24 +47,23 @@ LCR;Lacustrine Republic;x;x;x;x;x;x;x;x;x;x;x;x
 LCR_ADJ;Lacustrine;x;x;x;x;x;x;x;x;x;x;x;x
 MSC;Muscogee Council;x;x;x;x;x;x;x;x;x;x;x;x
 MSC_ADJ;Muscogee;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16000;The Lacustrine Republic & Muscogee Council reject authority of the Capitol.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16000;The Native Americans around the Great Lakes and the Cis-Missisippi Peoples have rejected the authority of the Capitol in Yeni Rum. A serious threat to the stability of the Republic, the Protector-Elect has declared a National Emergency and mobilized the Federal Military Forces in order to bring these anarchist catharian citizens in line again.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTA16000;Public Order will be restored!;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16000;The Lacustrine Republic & Muscogee Council declare independence!;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16000;Following a meeting of native american representatives hosted by the treacherous Iroquois, the people of the Great Lakes and the Cismississipi have illegally seceded under the provisional governments of the Lacustrine Republic and the Muscogee Council. In order to reassert the authority of Yeni Rum over the western half of Catharia and return rightful Christian rule, the Protector-Elect has declared the country to be in a state of war. "A house divided," said the sitting Protector-Elect, "cannot stand.";x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTA16000;The rebels shall be brought to heel!;x;x;x;x;x;x;x;x;x;x;x;x
 EVTNAME16001;Pan-Native American Identity;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16001;Despite the attempts of integration by giving Natives in Catharia citizenship, pressure from prior colonialism and the current wave of settlers the Americans still are treated as a second class citizen. This has prompted a lot of influential leaders within the populace to emerge speaking about their own identity within this Republic seperate from Catharian.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTA16001;But in the end we are all Cathar;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16002;Question of Language;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16002;The Republic of Catharia has a proud heritage of a lot of culture, however it has caused a lot of issues when it comes to administration and governance of the country as there is no one true language spoken by all. A lot of the settlers are promoting that we adopt the Turkish Creole known as Catharian.;x;x;x;x;x;x;x;x;x;x;x;x'
-EVTOPTA16002;We shall speak Cathar!;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTB16002;The Federal Language will be Cathar.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16002;E Pluribus Unum.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16003;Great Lakes Secession Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16003;Blah Blah;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16003;That's worrying;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16004;Cis-Missisippi Secession Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16004;Blah Blah;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16004;That's worrying;x;x;x;x;x;x;x;x;x;x;x;x
-cathar_forced_assimilation;Forced Assmiliation;x;x;x;x;x;x;x;x;x;x;x;x
-cathar_forced_assimilation_state;Forced Assmiliation;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16001;Despite the attempts of the Capitol at reconciliation with its native subjects through guaranteed citizenship and protective measures. The scars of colonialism and Catharian deceit over the decades as well as continued encroachment of Catharian settlers onto ancestral lands has renewed anti-Catharian sentiment. As dissent continues to disseminate among the populace, community leaders have begun calling for a continent-wide resistance against foreign rule by an alliance of first nations. This pan-nativism has found root along the Mississipi and the shores of the Great Lakes, and the widening gap between the western and eastern states is becoming clearer to all. ;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTA16001;But in the end, we shall be but one people.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16002;The Question of Language;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16002;The Republic of Catharia has been a beacon of tolerance, but the question of language in law and administration of the country has been subject to much debate. While Greek has long been the language of administration, it is no longer has widely spoken among the populace as it once was and acts as a barrier between government and governed. There have since been calls to institute the formalized Catharian creole as the primary language of government, although it remains a language little spoken in the west of the country. Furthermore, ensuring that it shall be taught in native schools may prove unpopular. Shall we enforce its usage in the west as well, and how far? ;x;x;x;x;x;x;x;x;x;x;x;x'
+EVTOPTA16002;A single people must speak a single language.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTB16002;The states shall speak whatever they wish; we will speak Catharian.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16003;Great Lakes in uproar!;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16003;Native dissent along the Great Lakes has escalated severely, as local authorities in Michigan have arrested and allegedly abused several important native american community leaders and brought them to Steno,to be formally tried of treason against the Republic and conspiracy with foreign enemies! Broken out of jail by a combined warband of Lacustrine natives, they have fled into the wilderness with citizens hot on their trail. Furthermore, rumor has it that the Iroquois have discreetly swept these leaders into their custody, although this remains unconfirmed as none are forthcoming. The settlers are in uproar and clashes in the streets have become common occurence, though bloodshed remains contained.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTC16003;We will find them!;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16004;Rage of the Cis-Missisippi;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16004;Up and down the Mississipi, outrage has been sparked as word of the massacre of 200 men, women and children by armed Catharians to avenge raids perpetrated by an unrelated community. The reports of this massacre conflict greatly, but each agree upon the barbarity of the Catharians and the unforgiveable defilement of their victims' corpses, all directed by a discharged officer of the Catharian army. Although redress has been demanded, the new settlers have declared themselves in solidarity with the Butcher and violence has broken out across the land under the cover of night, the blood of christians and heathen alike being spilled onto the waters of the Mississipi.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTC16004;Order must be restored.;x;x;x;x;x;x;x;x;x;x;x;x
+cathar_forced_assimilation;Forced Assimiliation;x;x;x;x;x;x;x;x;x;x;x;x
+cathar_forced_assimilation_state;Forced Assimiliation;x;x;x;x;x;x;x;x;x;x;x;x
 cathar_official_language;Federal Language;x;x;x;x;x;x;x;x;x;x;x;x
 cathar_multiculturalism;Multiculturalism;x;x;x;x;x;x;x;x;x;x;x;x
