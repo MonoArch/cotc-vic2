@@ -57,14 +57,14 @@ EVTDESC16002;The Republic of Catharia has a proud heritage of a lot of culture, 
 EVTOPTA16002;We shall speak Cathar!;x;x;x;x;x;x;x;x;x;x;x;x
 EVTOPTB16002;The Federal Language will be Cathar.;x;x;x;x;x;x;x;x;x;x;x;x
 EVTOPTC16002;E Pluribus Unum.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16003;Great Lakes Secession Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16003;Blah Blah;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16003;That's worrying;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16004;Cis-Missisippi Secession Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16004;Blah Blah;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16004;That's worrying;x;x;x;x;x;x;x;x;x;x;x;x
-cathar_forced_assimilation;Forced Assmiliation;x;x;x;x;x;x;x;x;x;x;x;x
-cathar_forced_assimilation_state;Forced Assmiliation;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16003;Troubles of the Great Lakes;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16003;Catharia is in upheaval as numerous leaders of native communities along the Great Lakes have been arrested by Catharian authorities on charges of treason against the Republic Catharia and her Citizens. Shortly after, they were broken out by warbands of pan-nativist warriors and word is that they are refuged in Haudenoshone. Though our government has issued demands to have these separatist leaders returned to our custody, they have been met by denial of involvement by the Iroquois. Meanwhile, violence across our north-western states is escalating as our citizenry have taken to naming their native communities traitors to the country, and radicalism escalates in response.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTC16003;The traitors will hang.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16004;Fires of the Cis-Mississipi;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16004;Up and down the Mississipi, word spreads of the horrifying massacre dealt by Catharian settlers against several native villages. Though they claim that this was done in retalation of continued native raids and kidnappings of settlers, their victims are indisputably unrelated to the raiding parties. Furthermore, the survivors of these massacres have corroborated reports of mutilations, torture and scalping perpetrated against children, elders and women, with their ears and teeth taken as gruesome trophies. Though demands of redress against the responsible have been levied, the exchange of accusations and clash of narratives surrounding the massacres have escalated to armed conflict along state borders. The states of the Cis-Mississipi have mobilized to organize a combined response to the rising chaos, but confidence in the republic has been totally shaken.
+EVTOPTC16004;They were just bad apples...;x;x;x;x;x;x;x;x;x;x;x;x
+cathar_forced_assimilation;Forced Assimiliation;x;x;x;x;x;x;x;x;x;x;x;x
+cathar_forced_assimilation_state;Forced Assimiliation;x;x;x;x;x;x;x;x;x;x;x;x
 cathar_official_language;Federal Language;x;x;x;x;x;x;x;x;x;x;x;x
 cathar_multiculturalism;Multiculturalism;x;x;x;x;x;x;x;x;x;x;x;x
 PROV177;Markussen;x;x;x;x;x;x;x;x;x;x;x;x
