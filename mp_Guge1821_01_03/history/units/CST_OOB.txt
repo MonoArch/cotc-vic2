@@ -532,82 +532,7 @@
 navy = {
 	name="Flota de Anfa"
 	location=1691
-	ship = {
-		name="1st Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Lisbon Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Gibraltar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bone Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Bone Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Wujda Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Gibraltar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Gibraltar Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Castilian Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Oran Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Castilian Man'o'war"
-		type=manowar
-	}
+
 	ship = {
 		name="7th Cartagena Man'o'war"
 		type=manowar
@@ -616,33 +541,10 @@ navy = {
 		name="1st Kairouan Frigate"
 		type=frigate
 	}
-	ship = {
-		name="8th Cartagena Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Tripoli Frigate"
-		type=frigate
-	}
 }
 
 army = {
-	name="EjÃ©rcito de Zamboanga"
-	location=513
-	regiment = {
-		name="1st Ávila Infantry"
-		type=infantry
-		home=483
-	}
-	regiment = {
-		name="1st Sigüenza Artillery"
-		type=artillery
-		home=488
-	}
-}
-
-army = {
-	name="1st Army"
+	name="Ejercito Real"
 	location=1458
 	regiment = {
 		name="1st León Infantry"
@@ -660,109 +562,14 @@ army = {
 		home=487
 	}
 	regiment = {
-		name="1st Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="1st Valladolid Infantry"
-		type=infantry
-		home=480
-	}
-	regiment = {
 		name="1st Marrakesh Cavalry"
 		type=cavalry
 		home=1690
 	}
-	regiment = {
-		name="1st Casablanca Artillery"
-		type=artillery
-		home=1691
-	}
-	regiment = {
-		name="2nd Casablanca Artillery"
-		type=artillery
-		home=1691
-	}
-	regiment = {
-		name="1st Huribka Artillery"
-		type=artillery
-		home=1692
-	}
-	regiment = {
-		name="1st Almería Artillery"
-		type=artillery
-		home=515
-	}
-	regiment = {
-		name="1st Casablanca Infantry"
-		type=infantry
-		home=1691
-	}
-	regiment = {
-		name="1st Burgos Cavalry"
-		type=cavalry
-		home=479
-	}
 }
 
 army = {
-	name="EjÃ©rcito de AlmerÃ­a"
-	location=1692
-	regiment = {
-		name="1st Burgos Infantry"
-		type=infantry
-		home=479
-	}
-}
-
-army = {
-	name="Guardia Real"
-	location=875
-	regiment = {
-		name="1st Santander Infantry"
-		type=infantry
-		home=478
-	}
-	regiment = {
-		name="2nd Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="1st Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="1st Sawira Cavalry"
-		type=cavalry
-		home=1693
-	}
-	regiment = {
-		name="1st Marrakesh Artillery"
-		type=artillery
-		home=1690
-	}
-	regiment = {
-		name="1st Málaga Artillery"
-		type=artillery
-		home=514
-	}
-	regiment = {
-		name="1st Toledo Infantry"
-		type=infantry
-		home=489
-	}
-	regiment = {
-		name="2nd Marrakesh Artillery"
-		type=artillery
-		home=1690
-	}
-}
-
-army = {
-	name="EjÃ©rcito de Granada"
+	name="Ejercito de Granada"
 	location=517
 	regiment = {
 		name="1st Huelva Infantry"
@@ -780,11 +587,6 @@ army = {
 		home=511
 	}
 	regiment = {
-		name="3rd Madrid Infantry"
-		type=infantry
-		home=487
-	}
-	regiment = {
 		name="1st Huribka Cavalry"
 		type=cavalry
 		home=1692
@@ -792,269 +594,20 @@ army = {
 }
 
 navy = {
-	name="4th Fleet"
-	location=2746
-	ship = {
-		name="1st Castilian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cádiz Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Mustaghanim Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Castilian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Gibraltar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Castilian Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="11th Fleet"
-	location=2906
-	ship = {
-		name="1st Rabat Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Granada Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="13th Fleet"
-	location=3080
-	ship = {
-		name="2nd Gibraltar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Oran Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="8th Fleet"
-	location=1458
-	ship = {
-		name="2nd Lisbon Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cartagena Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Castilian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bougie Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tangier Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Tangier Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Granada Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Lisbon Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Castilian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Almería Clipper Transport"
-		type=clipper_transport
-	}
-}
-
-navy = {
 	name="Flota de Murcia"
 	location=2771
 	ship = {
-		name="2nd Rabat Frigate"
+		name="Cádiz"
 		type=frigate
 	}
 	ship = {
-		name="1st Almería Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Algiers Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Algiers Frigate"
+		name="Málaga"
 		type=frigate
 	}
 }
 
 navy = {
-	name="1st Fleet"
-	location=2749
-	ship = {
-		name="2nd Cádiz Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Málaga Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="2nd Fleet"
-	location=2922
-	ship = {
-		name="2nd Granada Frigate"
-		type=frigate
-	}
-	ship = {
-		name="6th Castilian Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="5th Fleet"
-	location=2746
-	ship = {
-		name="1st Tangier Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Castilian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Casablanca Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Lisbon Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="7th Fleet"
-	location=2925
-	ship = {
-		name="3rd Granada Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="6th Fleet"
-	location=506
-	ship = {
-		name="1st Lisbon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Oran Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Almería Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Canary Islands Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Oran Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Granada Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Oran Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Cartagena Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Almería Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gibraltar Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Bougie Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Gibraltar Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Almería Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Granada Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Tangier Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Granada Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Cartagena Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Granada Clipper Transport"
-		type=clipper_transport
-	}
-}
-
-navy = {
-	name="Flota de Straits of Gibraltar"
+	name="Flota de Gibraltar"
 	location=2925
 	ship = {
 		name="2nd Mustaghanim Frigate"
@@ -1066,30 +619,6 @@ navy = {
 	}
 	ship = {
 		name="3rd Mustaghanim Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Gibraltar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Gibraltar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cartagena Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Oran Frigate"
 		type=frigate
 	}
 }

@@ -1,53 +1,53 @@
 political_decisions = {
-	congress_poland = {
-		picture = form_poland_lithuania
-		potential = {
-			OR = {
-				tag = RUS
-				tag = SLA
-				AND = {
-					NOT = { exists = RUS }
-					NOT = { exists = SLA }
-					is_greater_power = yes
-				}
-			}
-			NOT = { is_culture_group = german } #Germans would laugh at you
-			NOT = { tag = ALI } #Reasoning
-			NOT = { exists = POL }
-			NOT = { exists = PLC }
-			NOT = { exists = CPL }
-			NOT = { has_global_flag = congress_poland }
-			is_possible_vassal = POL
-			war = no
-			NOT = { accepted_culture = polish }
-			POL = { any_core = { NOT = { owned_by = THIS } } }
-		}	
-		allow = {
-			NOT = { accepted_culture = polish }
-			is_possible_vassal = POL
-			owns = 706 #Warsaw
-		}
-		
-		effect = {
-			set_global_flag = congress_poland
-			any_owned = { limit = { is_core = POL } remove_core = POL add_core = CPL }
-			release = CPL
-			create_vassal = CPL
-			diplomatic_influence = {
-				who = CPL
-				value = 200
-			}
-			CPL = {
-				relation = {
-					who = FROM
-					value = 100
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
+#	congress_poland = {
+#		picture = form_poland_lithuania
+#		potential = {
+#			OR = {
+#				tag = RUS
+#				tag = SLA
+#				AND = {
+#					NOT = { exists = RUS }
+#					NOT = { exists = SLA }
+#					is_greater_power = yes
+#				}
+#			}
+#			NOT = { is_culture_group = german } #Germans would laugh at you
+#			NOT = { tag = ALI } #Reasoning
+#			NOT = { exists = POL }
+#			NOT = { exists = PLC }
+#			NOT = { exists = CPL }
+#			NOT = { has_global_flag = congress_poland }
+#			is_possible_vassal = POL
+#			war = no
+#			NOT = { accepted_culture = polish }
+#			POL = { any_core = { NOT = { owned_by = THIS } } }
+#		}	
+#		allow = {
+#			NOT = { accepted_culture = polish }
+#			is_possible_vassal = POL
+#			owns = 706 #Warsaw
+#		}
+		#
+#		effect = {
+#			set_global_flag = congress_poland
+#			any_owned = { limit = { is_core = POL } remove_core = POL add_core = CPL }
+#			release = CPL
+#			create_vassal = CPL
+#			diplomatic_influence = {
+#				who = CPL
+#				value = 200
+#			}
+#			CPL = {
+#				relation = {
+#					who = FROM
+#					value = 100
+#				}
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#		}
+#	}
 	de_congress_poland = {
 		picture = form_poland_lithuania
 		potential = {

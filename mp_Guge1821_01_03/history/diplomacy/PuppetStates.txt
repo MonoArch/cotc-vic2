@@ -110,13 +110,13 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
-{
-	first="EGY"
-	second="CST"
-	start_date="1615.9.18"
-	end_date="1936.1.1"
-}
+#vassal=
+#{
+#	first="EGY"
+#	second="CST"
+#	start_date="1615.9.18"
+#	end_date="1936.1.1"
+#}
 
 vassal=
 {

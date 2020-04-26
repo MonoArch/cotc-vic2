@@ -720,7 +720,7 @@ navy = {
 }
 
 army = {
-	name="Armada de SavÃ²ia"
+	name="Armada de Savoia"
 	location=436
 	regiment = {
 		name="1st Mont de Marsan Infantry"
@@ -826,7 +826,7 @@ navy = {
 }
 
 army = {
-	name="Armada de BordalÃ©s"
+	name="Armada de Bordalés"
 	location=449
 	regiment = {
 		name="1st Angoulême Infantry"

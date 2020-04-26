@@ -4,6 +4,7 @@ add_core=X15
 add_core=PLC
 add_core=POL
 add_core=HRE
+add_core=X14
 trade_goods = grain
 life_rating = 35
 terrain = plains

@@ -5,7 +5,12 @@ alliance=
 	start_date="1795.4.17"
 	end_date="1936.1.1"
 }
-
+alliance= {
+	first="EGY"
+	second="CST"
+	start_date="1615.9.18"
+	end_date="1936.1.1"
+}
 alliance=
 {
 	first="BAV"

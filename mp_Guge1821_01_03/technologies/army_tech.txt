@@ -985,7 +985,7 @@ heavy_armament_dunno = {
 #military_science
 military_staff_system = {
 	area = military_science
-	year = 1836
+	year = 1821
 	cost = 3600
 	unciv_military = yes
 	
