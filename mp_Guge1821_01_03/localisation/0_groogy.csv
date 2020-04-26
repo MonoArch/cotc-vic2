@@ -47,17 +47,17 @@ LCR;Lacustrine Republic;x;x;x;x;x;x;x;x;x;x;x;x
 LCR_ADJ;Lacustrine;x;x;x;x;x;x;x;x;x;x;x;x
 MSC;Muscogee Council;x;x;x;x;x;x;x;x;x;x;x;x
 MSC_ADJ;Muscogee;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16000;The Lacustrine Republic & Muscogee Council reject authority of the Capitol.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16000;The Native Americans around the Great Lakes and the Cis-Missisippi Peoples have rejected the authority of the Capitol in Yeni Rum. A serious threat to the stability of the Republic, the Protector-Elect has declared a National Emergency and mobilized the Federal Military Forces in order to bring these anarchist catharian citizens in line again.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTA16000;Public Order will be restored!;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16001;Pan-Native American Identity;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16001;Despite the attempts of integration by giving Natives in Catharia citizenship, pressure from prior colonialism and the current wave of settlers the Americans still are treated as a second class citizen. This has prompted a lot of influential leaders within the populace to emerge speaking about their own identity within this Republic seperate from Catharian.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTA16001;But in the end we are all Cathar;x;x;x;x;x;x;x;x;x;x;x;x
-EVTNAME16002;Question of Language;x;x;x;x;x;x;x;x;x;x;x;x
-EVTDESC16002;The Republic of Catharia has a proud heritage of a lot of culture, however it has caused a lot of issues when it comes to administration and governance of the country as there is no one true language spoken by all. A lot of the settlers are promoting that we adopt the Turkish Creole known as Catharian.;x;x;x;x;x;x;x;x;x;x;x;x'
-EVTOPTA16002;We shall speak Cathar!;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTB16002;The Federal Language will be Cathar.;x;x;x;x;x;x;x;x;x;x;x;x
-EVTOPTC16002;E Pluribus Unum.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16000;The Lacustrine Republic & Muscogee Council declare independence! ;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16000;The native american peoples of the Great Lakes have declared Catharian rule over their ancestral lands to be illegitimate and have joined forces with the treacherous Iroquois to organize the Lacustrine Republic! Independently, though no doubt encouraged by Lacustrine representatives, the Muscogee of the Cis-Mississipi have declared their independence and vested sovereign power onto their ancestral Council to defend their newborn state. Already, skirmishes have been carried out over the Appalachians and the Catharian senate has declared these insurgencies to have been carried out illegally. Following his assumption of wartime powers, the Protector-Elect so stated that "a house divided cannot stand against itself.";x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTA16000;Our rule is right.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16001;Pan-Nativist Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16001;Despite granting citizenship to our native american populace, ethnic tension within Catharia have not diminished. Nativist sentiment as of late has flared up as Natives and Catharian settlers continue to clash in territorial disputes and unfair deals are carried out by local authorities. Several newspapers have been founded by nativists reporting upon these outrageous crimes against the rightful inhabitants of North America by the corrupt and unharmonious elements of Catharian encroachment. As the gap between native and settler continues to widen, so does relations between native groups begin to coalesce and give vigor to notions of a united native resistance.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTA16001;These treasonous ideas will be curbed... eventually.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTNAME16002;The Question of Language;x;x;x;x;x;x;x;x;x;x;x;x
+EVTDESC16002;The Republic of Catharia has proudly retained its tradition of multiculturalism over the years, language is undeniably a dividing force in our country. Though our Greco-Turkish creole has been adopted as the foremost language of our country, it is true that a great deal of our constituents simply do not speak it. Hence, it has been proposed that our schools enforce uniformity of language, but it remains that many will oppose being forced to learn it.;x;x;x;x;x;x;x;x;x;x;x;x'
+EVTOPTA16002;Even in our households, we must all speak Catharian!;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTB16002;Ours will be the only language of administration.;x;x;x;x;x;x;x;x;x;x;x;x
+EVTOPTC16002;Adopt more official languages in pursuit of harmony.;x;x;x;x;x;x;x;x;x;x;x;x
 EVTNAME16003;Great Lakes Secession Sentiment;x;x;x;x;x;x;x;x;x;x;x;x
 EVTDESC16003;Blah Blah;x;x;x;x;x;x;x;x;x;x;x;x
 EVTOPTC16003;That's worrying;x;x;x;x;x;x;x;x;x;x;x;x
