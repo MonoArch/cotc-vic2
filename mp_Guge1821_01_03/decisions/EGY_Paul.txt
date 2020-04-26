@@ -1,0 +1,53 @@
+political_decisions = {
+	embrace_arabian_identity = {
+		potential = {
+			tag = EGY
+			war = no
+			NOT = {
+				has_country_flag = egy_culture_flipped
+			}
+		}
+	
+		allow = {
+			NOT = { government = absolute_monarchy }
+			NOT = {
+				average_militancy = 5
+			}
+			nationalism_n_imperialism = 1
+		}
+	
+		effect = {
+			any_pop = {
+				limit = {
+					culture = mashriqi
+				}
+				militancy = -1
+			}
+			any_pop = {
+				limit = {
+					culture = turkish
+				}
+				militancy = -1
+			}
+			any_pop = {
+				limit = {
+					culture = misri
+				}
+				militancy = -2
+			}
+			any_pop = {
+				limit = {
+					culture = polish
+				}
+				militancy = 2
+			}
+			remove_accepted_culture = misri
+			primary_culture = misri		
+			add_accepted_culture = polish
+			set_country_flag = egy_culture_flipped
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
